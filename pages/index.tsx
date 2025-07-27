@@ -246,7 +246,7 @@ const GitHubShowcasePage = () => {
             </h1>
           </div>
           <p className="text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-            A curated collection of projects from {GITHUB_USERS.join(', ')} and the {GITHUB_ORGS.join(', ')} organization.
+            A collection of projects from {GITHUB_USERS.join(', ')} and {GITHUB_ORGS.join(', ')}.
           </p>
         </header>
 
