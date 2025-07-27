@@ -19,7 +19,7 @@ interface Repo {
   stargazers_count: number;
   forks_count: number;
   watchers_count: number;
-  pushed_at: string;
+  pushed_at: string | Date;
   language: string | null;
 }
 
