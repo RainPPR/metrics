@@ -30,7 +30,7 @@ type SortOrder = 'asc' | 'desc';
 
 // --- CONFIGURATION --- //
 const GITHUB_USERS = ['RainPPR', 'RaineMtF'];
-const GITHUB_ORGS = ['RaineBlog'];
+const GITHUB_ORGS = ['RaineBlog', 'RaineWHK'];
 const CACHE_DURATION_MS = 24 * 60 * 60 * 1000; // 24 hours
 
 // --- HELPER & UI COMPONENTS --- //
