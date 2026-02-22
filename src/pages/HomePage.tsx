@@ -8,7 +8,8 @@ import {
   ArrowRight,
   Rocket,
   Award,
-  Zap
+  Zap,
+  Filter
 } from "lucide-react";
 import { Link } from "react-router-dom";
 import { BentoGrid, BentoCard } from "../components/BentoGrid";
@@ -76,9 +77,10 @@ export const HomePage = ({ data }: { data: any }) => {
 
       <BentoGrid>
         {/* Achievements Quick Look */}
+        {/* Technical Records (Formerly Achievements) */}
         <BentoCard 
-          title="Battle Medals" 
-          description="Proof of engineering soul"
+          title="Technical Records" 
+          description="Verified engineering milestones"
           icon={<Award className="text-pink-400" size={24} />}
           className="md:col-span-1"
         >
@@ -88,46 +90,70 @@ export const HomePage = ({ data }: { data: any }) => {
                 <AchievementCard achievement={ach} />
               </div>
             ))}
-            <Link to="/achievements" className="flex items-center gap-2 text-xs font-black text-pink-500 hover:text-pink-600 transition-colors mt-6 uppercase tracking-widest pl-2">
-              All Commendations <ArrowRight size={14} />
+            <Link to="/achievements" className="flex items-center gap-2 text-[10px] font-black text-pink-500 hover:text-pink-600 transition-colors mt-6 uppercase tracking-[0.2em] pl-2">
+              All Indexed Records <ArrowRight size={14} />
             </Link>
           </div>
         </BentoCard>
 
-        {/* Global Stats - Bragging Version */}
+        {/* Contribution Analytics */}
         <BentoCard 
-          title="Impact Points" 
-          description="Quantifying your digital presence"
+          title="Contribution Analytics" 
+          description="Metric-based behavior analysis"
           icon={<Zap className="text-yellow-400" size={24} />}
-          className="md:col-span-2"
+          className="md:col-span-1"
         >
-          <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="space-y-6">
-              <ImpactMeter 
-                label="Social Reach" 
-                value={data.users.reduce((acc:any, u:any)=>acc+(u.followers||0), 0)} 
-                max={100} 
-                color="bg-blue-400" 
-              />
-              <ImpactMeter 
-                label="Code Density" 
-                value={data.totalStats.commits} 
-                max={5000} 
-                color="bg-pink-400" 
-              />
-              <ImpactMeter 
-                label="Trust Factor" 
-                value={data.totalStats.stars} 
-                max={500} 
-                color="bg-yellow-400" 
-              />
-            </div>
-            <div className="flex flex-col justify-center items-center p-6 bg-slate-50/50 rounded-3xl border border-dashed border-slate-200">
-               <div className="text-[10px] text-slate-400 font-bold uppercase tracking-widest mb-2">Total Influence Score</div>
-               <div className="text-6xl font-black text-slate-900 font-mono tracking-tighter">
+          <div className="mt-8 space-y-6">
+            <ImpactMeter 
+              label="Engagement Index" 
+              value={data.users.reduce((acc:any, u:any)=>acc+(u.followers||0), 0)} 
+              max={100} 
+              color="bg-blue-400" 
+            />
+            <ImpactMeter 
+              label="Production Volume" 
+              value={data.totalStats.commits} 
+              max={5000} 
+              color="bg-pink-400" 
+            />
+            <ImpactMeter 
+              label="Utility Score" 
+              value={data.totalStats.stars} 
+              max={500} 
+              color="bg-yellow-400" 
+            />
+            <div className="pt-4 border-t border-slate-50 flex items-center justify-between">
+               <span className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">Aggregate Index</span>
+               <span className="text-2xl font-black text-slate-900 font-mono">
                  {Math.round((data.totalStats.stars * 10) + (data.totalStats.commits * 0.1))}
-               </div>
-               <div className="mt-4 px-4 py-1 rounded-full bg-pink-100 text-[10px] font-black text-pink-500 uppercase">Top 1% Developer</div>
+               </span>
+            </div>
+          </div>
+        </BentoCard>
+
+        {/* Engineering Vitals (NEW) */}
+        <BentoCard 
+          title="Engineering Vitals" 
+          description="Objective infrastructure status"
+          icon={<Filter className="text-blue-400" size={24} />}
+          className="md:col-span-1"
+        >
+          <div className="mt-8 space-y-4">
+            <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100 flex items-center justify-between group/vital">
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Active Repos</div>
+              <div className="text-xl font-black text-slate-900 font-mono group-hover:text-blue-500 transition-colors">{data.totalStats.repoCount || data.repos.length}</div>
+            </div>
+            <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100 flex items-center justify-between group/vital">
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Language Breadth</div>
+              <div className="text-xl font-black text-slate-900 font-mono group-hover:text-pink-500 transition-colors">{data.languageStats.length}</div>
+            </div>
+            <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100 flex items-center justify-between group/vital">
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Open PRs</div>
+              <div className="text-xl font-black text-slate-900 font-mono group-hover:text-yellow-500 transition-colors">{data.totalStats.prs}</div>
+            </div>
+            <div className="p-4 rounded-2xl bg-slate-50 border border-slate-100 flex items-center justify-between group/vital">
+              <div className="text-[10px] font-black text-slate-400 uppercase tracking-widest">Resolved Issues</div>
+              <div className="text-xl font-black text-slate-900 font-mono group-hover:text-green-500 transition-colors">{data.totalStats.issues}</div>
             </div>
           </div>
         </BentoCard>
@@ -173,12 +199,12 @@ export const HomePage = ({ data }: { data: any }) => {
           </div>
         </BentoCard>
 
-        {/* Activity Summary */}
+        {/* Activity Summary - Full Wide */}
         <BentoCard 
-          title="Activity" 
-          description="Contribution commitment"
+          title="Operational Cadence" 
+          description="Systematic distribution of technical contributions"
           icon={<Activity size={24} />}
-          className="md:col-span-2"
+          className="md:col-span-3"
         >
            <div className="mt-6 flex flex-col gap-8">
                {data.users.slice(0, 2).map((u: any) => (

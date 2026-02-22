@@ -7,6 +7,7 @@ import {
   LayoutGrid, 
   List, 
   ArrowUpDown, 
+  ArrowDownNarrowWide,
   Folders, 
   Clock,
   User,
@@ -17,12 +18,14 @@ import { cn } from "../lib/utils";
 
 type ViewMode = 'grid' | 'list';
 type SortKey = 'name' | 'stars' | 'updated' | 'created';
+type SortOrder = 'asc' | 'desc';
 type GroupKey = 'none' | 'owner' | 'language' | 'time';
 
 export const ReposPage = ({ repos }: { repos: any[] }) => {
   const [search, setSearch] = useState("");
   const [viewMode, setViewMode] = useState<ViewMode>('grid');
   const [sortKey, setSortKey] = useState<SortKey>('updated');
+  const [sortOrder, setSortOrder] = useState<SortOrder>('desc');
   const [groupKey, setGroupKey] = useState<GroupKey>('none');
 
   // Filtering
@@ -37,12 +40,15 @@ export const ReposPage = ({ repos }: { repos: any[] }) => {
   const sorted = useMemo(() => {
     const list = [...filtered];
     return list.sort((a, b) => {
-      if (sortKey === 'stars') return b.stargazerCount - a.stargazerCount;
-      if (sortKey === 'updated') return new Date(b.pushedAt).getTime() - new Date(a.pushedAt).getTime();
-      if (sortKey === 'created') return new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime();
-      return a.name.localeCompare(b.name);
+      let result = 0;
+      if (sortKey === 'stars') result = b.stargazerCount - a.stargazerCount;
+      else if (sortKey === 'updated') result = new Date(b.pushedAt).getTime() - new Date(a.pushedAt).getTime();
+      else if (sortKey === 'created') result = new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime();
+      else result = a.name.localeCompare(b.name);
+      
+      return sortOrder === 'desc' ? result : -result;
     });
-  }, [filtered, sortKey]);
+  }, [filtered, sortKey, sortOrder]);
 
   // Grouping Logic
   const groups = useMemo(() => {
@@ -115,26 +121,38 @@ export const ReposPage = ({ repos }: { repos: any[] }) => {
           </div>
 
           <div className="flex flex-wrap gap-2">
-            {/* Sort Dropdown Simulation */}
-            <div className="flex items-center gap-2 px-4 py-2 rounded-2xl bg-white border border-gray-100">
-               <ArrowUpDown size={14} className="text-slate-400" />
-               <select 
-                 className="bg-transparent text-[10px] font-black uppercase tracking-widest focus:outline-none cursor-pointer"
-                 value={sortKey}
-                 onChange={(e) => setSortKey(e.target.value as SortKey)}
-               >
-                 <option value="name">Name (A-Z)</option>
-                 <option value="stars">Popularity</option>
-                 <option value="updated">Recent Activity</option>
-                 <option value="created">Newest First</option>
-               </select>
+            {/* Sort Toggle and Order */}
+            <div className="flex items-center gap-1 p-1 rounded-2xl bg-white border border-gray-100">
+              <div className="flex items-center gap-2 px-3 py-1 text-slate-400 border-r border-slate-100">
+                 <ArrowUpDown size={14} />
+                 <select 
+                   className="bg-transparent text-[10px] font-black uppercase tracking-widest focus:outline-none cursor-pointer text-slate-900"
+                   value={sortKey}
+                   onChange={(e) => setSortKey(e.target.value as SortKey)}
+                 >
+                   <option value="name">Name</option>
+                   <option value="stars">Popularity</option>
+                   <option value="updated">Activity</option>
+                   <option value="created">Timeline</option>
+                 </select>
+              </div>
+              <button 
+                onClick={() => setSortOrder(prev => prev === 'desc' ? 'asc' : 'desc')}
+                className={cn(
+                  "p-2 rounded-xl transition-all flex items-center justify-center",
+                  "hover:bg-slate-50 text-slate-900"
+                )}
+                title={sortOrder === 'desc' ? 'Descending' : 'Ascending'}
+              >
+                <ArrowDownNarrowWide size={14} className={cn("transition-transform duration-300", sortOrder === 'asc' && "rotate-180")} />
+              </button>
             </div>
 
             {/* Group Dropdown Simulation */}
             <div className="flex items-center gap-2 px-4 py-2 rounded-2xl bg-white border border-gray-100">
                <Folders size={14} className="text-slate-400" />
                <select 
-                 className="bg-transparent text-[10px] font-black uppercase tracking-widest focus:outline-none cursor-pointer"
+                 className="bg-transparent text-[10px] font-black uppercase tracking-widest focus:outline-none cursor-pointer text-slate-900"
                  value={groupKey}
                  onChange={(e) => setGroupKey(e.target.value as GroupKey)}
                >
@@ -165,7 +183,7 @@ export const ReposPage = ({ repos }: { repos: any[] }) => {
             >
               {groupKey !== 'none' && (
                 <div className="flex items-center gap-4">
-                  <span className="text-xs font-black uppercase tracking-[0.2em] text-slate-300 font-mono flex items-center gap-2 whitespace-nowrap">
+                  <span className="text-xs font-black uppercase tracking-[0.2em] text-slate-600 font-mono flex items-center gap-2 whitespace-nowrap">
                     {groupKey === 'owner' && <User size={12} />}
                     {groupKey === 'language' && <Tags size={12} />}
                     {groupKey === 'time' && <Clock size={12} />}
@@ -193,13 +211,18 @@ export const ReposPage = ({ repos }: { repos: any[] }) => {
 };
 
 const RepoItem = ({ repo, viewMode, index }: { repo: any, viewMode: ViewMode, index: number }) => {
+  const repoUrl = repo.url || `https://github.com/${repo.owner}/${repo.name}`;
+
   if (viewMode === 'list') {
     return (
-      <motion.div
+      <motion.a
+        href={repoUrl}
+        target="_blank"
+        rel="noopener noreferrer"
         initial={{ opacity: 0, x: -10 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: index * 0.01 }}
-        className="group flex items-center justify-between p-4 px-6 rounded-2xl bg-white border border-gray-100 hover:border-blue-100 hover:shadow-xl hover:shadow-blue-50/50 transition-all cursor-default"
+        className="group flex items-center justify-between p-4 px-6 rounded-2xl bg-white border border-gray-100 hover:border-blue-100 hover:shadow-xl hover:shadow-blue-50/50 transition-all cursor-pointer"
       >
         <div className="flex items-center gap-4">
           <div className="w-10 h-10 rounded-xl bg-slate-50 flex items-center justify-center text-slate-400 group-hover:bg-blue-50 group-hover:text-blue-500 transition-all">
@@ -221,15 +244,18 @@ const RepoItem = ({ repo, viewMode, index }: { repo: any, viewMode: ViewMode, in
           </div>
           <div className="hidden sm:block text-[10px] font-black text-slate-200 font-mono uppercase tracking-[0.2em]">{repo.owner}</div>
         </div>
-      </motion.div>
+      </motion.a>
     );
   }
 
   return (
-    <motion.div
+    <motion.a
+      href={repoUrl}
+      target="_blank"
+      rel="noopener noreferrer"
       initial={{ opacity: 0, scale: 0.95 }}
       animate={{ opacity: 1, scale: 1 }}
-      className="group p-6 rounded-3xl bg-white border border-gray-100 hover:border-blue-100 hover:shadow-2xl hover:shadow-blue-100/20 transition-all duration-300 flex flex-col justify-between aspect-video md:aspect-auto"
+      className="group p-6 rounded-3xl bg-white border border-gray-100 hover:border-blue-100 hover:shadow-2xl hover:shadow-blue-100/20 transition-all duration-300 flex flex-col justify-between aspect-video md:aspect-auto cursor-pointer"
     >
       <div>
         <div className="flex items-center justify-between mb-4">
@@ -251,6 +277,6 @@ const RepoItem = ({ repo, viewMode, index }: { repo: any, viewMode: ViewMode, in
         </div>
         <div className="text-[10px] font-black text-slate-300 font-mono uppercase tracking-widest">{repo.owner}</div>
       </div>
-    </motion.div>
+    </motion.a>
   );
 };

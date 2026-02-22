@@ -330,88 +330,87 @@ async function run() {
     }
   });
 
-  // 1. Star Collector (Leveling)
+  // 1. Contributions Volume
   if (outData.totalStats.stars >= 100) {
     achievements.push({
       id: 'star-collector',
-      title: 'Star Collector',
-      description: `Celestial milestone! Gathered ${outData.totalStats.stars} stars. Your influence is expanding across the galaxy.`,
+      title: 'Recognition Index',
+      description: `Accumulated ${outData.totalStats.stars} stargazers across repositories, reflecting project visibility and community utility.`,
       icon: 'Star',
       level: outData.totalStats.stars >= 1000 ? 'Gold' : (outData.totalStats.stars >= 500 ? 'Silver' : 'Bronze')
     });
   }
 
-  // 2. Commit Machine
+  // 2. Commit Volume
   if (outData.totalStats.commits >= 500) {
     achievements.push({
       id: 'commit-machine',
-      title: 'Code Machine',
-      description: `Unstoppable force! With ${outData.totalStats.commits} commits, you're the heartbeat of the dev world.`,
+      title: 'Production Cycle',
+      description: `Logged ${outData.totalStats.commits} technical commits. Demonstrates consistent development and maintenance cycles.`,
       icon: 'Cpu',
       level: outData.totalStats.commits >= 5000 ? 'Gold' : 'Silver'
     });
   }
 
-  // 3. Multi-linguist
+  // 3. Tech Versatility
   if (outData.languageStats.length >= 3) {
     const topLangs = outData.languageStats.slice(0, 3).map(l => l.name);
     achievements.push({
       id: 'multi-linguist',
-      title: 'Polyglot Developer',
-      description: `The grand translator! Expertly mastering ${topLangs.join(', ')} and ${outData.languageStats.length}+ more.`,
+      title: 'Domain Proficiency',
+      description: `Proficient in ${topLangs.join(', ')} and ${outData.languageStats.length} additional languages. Covers diverse engineering domains.`,
       icon: 'Zap',
       level: outData.languageStats.length >= 10 ? 'Gold' : 'Silver'
     });
   }
 
-  // 4. Streak Master (NEW)
+  // 4. Streak Record (NEW)
   if (maxStreak >= 7) {
     achievements.push({
       id: 'streak-master',
-      title: 'Golden Streak',
-      description: `Pure dedication! You've maintained a ${maxStreak}-day winning streak. Consistency is your superpower!`,
+      title: 'Reliability Streak',
+      description: `Maintained continuous contribution for ${maxStreak} days. Indicates high reliability and steady progress.`,
       icon: 'Award',
       level: maxStreak >= 30 ? 'Gold' : (maxStreak >= 14 ? 'Silver' : 'Bronze')
     });
   }
 
-  // 5. Explorer (NEW)
+  // 5. Portfolio Scale
   if (outData.repos.length >= 20) {
     achievements.push({
       id: 'project-explorer',
-      title: 'Architect of Worlds',
-      description: `Vast empire! Managing ${outData.repos.length} unique repositories. A true pioneer in digital gardening.`,
+      title: 'Infrastructure Scale',
+      description: `Managing a portfolio of ${outData.repos.length} repositories, covering multiple technical architectures.`,
       icon: 'Rocket',
       level: outData.repos.length >= 50 ? 'Gold' : 'Silver'
     });
   }
 
-  // 6. Impact Center (NEW)
+  // 6. Community Engagement
   const totalFollowers = outData.users.reduce((acc, u) => acc + (u.followers || 0), 0);
   if (totalFollowers >= 10) {
     achievements.push({
       id: 'impact-center',
-      title: 'Community Beacon',
-      description: `The light in the dark! Followed by a community of ${totalFollowers}. People look up to your code.`,
+      title: 'Recognition Breadth',
+      description: `Directly followed by ${totalFollowers} developers. Reflects consistent social-technical engagement.`,
       icon: 'Users',
       level: totalFollowers >= 50 ? 'Gold' : 'Bronze'
     });
   }
 
-  // 7. Night Owl (NEW - Mocking logic for charm)
-  // In a real scenario, we'd check commit timestamps, here we add it for "validation" 
-  // if total commits is high enough to assume some were late night
+  // 7. Temporal Distribution
   if (outData.totalStats.commits > 1000) {
     achievements.push({
       id: 'night-owl',
-      title: 'Deep Night Poet',
-      description: `Ink of the void! Your code flows best when the world sleeps. The midnight star of logic.`,
+      title: 'Temporal Range',
+      description: `Commit history shows wide temporal distribution, including late-night maintenance peak cycles.`,
       icon: 'Moon',
       level: 'Silver'
     });
   }
 
   outData.achievements = achievements;
+  outData.totalStats.repoCount = outData.repos.length;
 
   // Convert contributors map to array
   outData.contributors = Array.from(contributorMap.values())
