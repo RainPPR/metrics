@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { motion } from "framer-motion";
 import { cn } from "../lib/utils";
 
 interface BentoGridProps {
@@ -52,6 +53,6 @@ export const BentoCard = ({
       </div>
       <div className="mt-4 flex-1">{children}</div>
       <div className="pointer-events-none absolute inset-0 transition-opacity duration-300 group-hover:bg-gradient-to-br from-pink-50/50 to-blue-50/50 opacity-0 group-hover:opacity-100" />
-    </div>
+    </motion.div>
   );
 };
