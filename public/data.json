@@ -33,9 +33,30 @@
     { "login": "github-actions", "avatarUrl": "https://avatars.githubusercontent.com/u/9919", "commits": 156 }
   ],
   "languageStats": [
-    { "name": "TypeScript", "size": 45000, "color": "#3178c6" },
-    { "name": "CSS", "size": 15000, "color": "#563d7c" },
-    { "name": "HTML", "size": 5000, "color": "#e34c26" }
+    { "name": "TypeScript", "size": 1200, "color": "#3178c6" },
+    { "name": "React", "size": 900, "color": "#61dafb" },
+    { "name": "Tailwind", "size": 600, "color": "#38b2ac" },
+    { "name": "Go", "size": 300, "color": "#00add8" }
+  ],
+  "achievements": [
+    {
+      "id": "star-collector",
+      "title": "Star Collector",
+      "description": "Gathered over 1500 stars across all projects. A celestial milestone!",
+      "icon": "Star"
+    },
+    {
+      "id": "commit-machine",
+      "title": "Code Machine",
+      "description": "Pushed more than 10k commits. Engineering soul in every line.",
+      "icon": "Cpu"
+    },
+    {
+      "id": "multi-linguist",
+      "title": "Polyglot Developer",
+      "description": "Mastering Go, Rust, and TypeScript. A true cross-stack expert.",
+      "icon": "Zap"
+    }
   ],
   "totalStats": {
     "stars": 124,

@@ -263,12 +263,47 @@ async function run() {
     }
   }
 
-  // Convert contributors map to array and sort by total contributions
-  outData.contributors = Array.from(contributorMap.values())
-    .sort((a, b) => b.commits - a.commits)
-    .slice(0, 50); // Top 50 contributors
+  // Achievements Analysis
+  const achievements = [];
   
-  // Sort repos by stars
+  // 1. Star Collector
+  if (outData.totalStats.stars >= 100) {
+    achievements.push({
+      id: 'star-collector',
+      title: 'Star Collector',
+      description: `Gathered over ${outData.totalStats.stars} stars across all projects.`,
+      icon: 'Star'
+    });
+  }
+
+  // 2. Commit Machine
+  if (outData.totalStats.commits >= 500) {
+    achievements.push({
+      id: 'commit-machine',
+      title: 'Code Machine',
+      description: `Pushed more than 500 commits. Engineering excellence!`,
+      icon: 'Cpu'
+    });
+  }
+
+  // 3. Multi-linguist
+  const topLangs = outData.languageStats.slice(0, 3).map(l => l.name);
+  if (topLangs.length >= 3) {
+    achievements.push({
+      id: 'multi-linguist',
+      title: 'Polyglot Developer',
+      description: `Expertly mastering ${topLangs.join(', ')} and more.`,
+      icon: 'Zap'
+    });
+  }
+
+  outData.achievements = achievements;
+
+  // Convert contributors map to array and sort (Keep full list)
+  outData.contributors = Array.from(contributorMap.values())
+    .sort((a, b) => b.commits - a.commits); 
+  
+  // Sort repos by stars (Keep full list for detail page)
   outData.repos.sort((a, b) => b.stargazerCount - a.stargazerCount);
 
   // Language stats sorting
