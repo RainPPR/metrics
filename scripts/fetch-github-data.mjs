@@ -35,12 +35,10 @@ class TokenPool {
             this.ownerToTokens.set(login, []);
           }
           this.ownerToTokens.get(login).push(token);
-          console.log(`[TokenPool] Valid token for user: ${login}`);
-        } else {
-          console.warn(`[TokenPool] Token failed validation: ${res.status}`);
+          console.log(`[TokenPool] Validated token for: ${login}`);
         }
       } catch (err) {
-        console.error(`[TokenPool] Error validating token:`, err.message);
+        // Silent fail for init validation - we still use the token as fallback
       }
     }
   }
@@ -73,15 +71,12 @@ async function fetchGraphQL(query, variables, token) {
   });
   
   const json = await res.json();
-  if (json.errors) {
-    console.error("GraphQL errors:", json.errors);
-    throw new Error("GraphQL error");
-  }
-  return json.data;
+  // Return data even if there are errors, so we can check fallback fields
+  return json;
 }
 
-const USER_QUERY = `
-query userInfo($login: String!) {
+const INFO_QUERY = `
+query info($login: String!) {
   user(login: $login) {
     login
     name
@@ -127,10 +122,36 @@ query userInfo($login: String!) {
           }
           totalSize
         }
-        repositoryTopics(first: 5) {
-          nodes {
-            topic { name }
+      }
+    }
+  }
+  organization(login: $login) {
+    login
+    name
+    avatarUrl
+    description
+    repositories(first: 100, isFork: false, orderBy: {field: PUSHED_AT, direction: DESC}) {
+      nodes {
+        name
+        description
+        url
+        homepageUrl
+        stargazerCount
+        pushedAt
+        isPrivate
+        primaryLanguage {
+          name
+          color
+        }
+        languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
+          edges {
+            size
+            node {
+              name
+              color
+            }
           }
+          totalSize
         }
       }
     }
@@ -202,17 +223,45 @@ async function run() {
         console.log(`Skipping ${login} (no token available).`);
         continue;
       }
-      const data = await fetchGraphQL(USER_QUERY, { login }, token);
-      const user = data.user;
+      const response = await fetchGraphQL(INFO_QUERY, { login }, token);
+      const data = response.data || {};
+      const target = data.user || data.organization;
       
-      const contribs = user.contributionsCollection;
+      if (!target) {
+        console.warn(`[Warn] Could not find account "${login}". GraphQL errors:`, response.errors);
+        continue;
+      }
+
+      const isOrg = !!data.organization;
+      const userRepos = target.repositories.nodes || [];
+
+      if (!isOrg) {
+         const contribs = target.contributionsCollection;
+         outData.totalStats.commits += contribs.totalCommitContributions;
+         outData.totalStats.prs += contribs.totalPullRequestContributions;
+         outData.totalStats.issues += contribs.totalIssueContributions;
+         
+         outData.users.push({
+           login: target.login,
+           name: target.name,
+           avatarUrl: target.avatarUrl,
+           bio: target.bio,
+           followers: target.followers.totalCount,
+           calendar: contribs.contributionCalendar
+         });
+      } else {
+         // Organizations don't have contribution calendar in the same way
+         // We still push them to users list but with empty calendar or skip UI-wise
+         outData.users.push({
+           login: target.login,
+           name: target.name,
+           avatarUrl: target.avatarUrl,
+           bio: target.description,
+           followers: 0,
+           calendar: { totalContributions: 0, weeks: [] }
+         });
+      }
       
-      // Aggregate stats
-      outData.totalStats.commits += contribs.totalCommitContributions;
-      outData.totalStats.prs += contribs.totalPullRequestContributions;
-      outData.totalStats.issues += contribs.totalIssueContributions;
-      
-      const userRepos = user.repositories.nodes || [];
       userRepos.forEach(r => outData.totalStats.stars += r.stargazerCount);
 
       // Language usage
@@ -228,22 +277,13 @@ async function run() {
         }
       });
       
-      outData.users.push({
-        login: user.login,
-        name: user.name,
-        avatarUrl: user.avatarUrl,
-        bio: user.bio,
-        followers: user.followers.totalCount,
-        calendar: contribs.contributionCalendar
-      });
-      
       const mappedRepos = userRepos.map(r => ({ ...r, owner: login }));
       outData.repos.push(...mappedRepos);
       
       const userPages = extractPages(mappedRepos, login);
       outData.pages.push(...userPages);
 
-      // Fetch contributors for top 5 repos of each user to avoid excessive calls
+      // Fetch contributors
       for (const repo of userRepos.slice(0, 5)) {
         const contributors = await fetchRestAPI(`/repos/${login}/${repo.name}/contributors?per_page=10`, pool.getAnyToken());
         if (contributors && Array.isArray(contributors)) {
@@ -263,10 +303,14 @@ async function run() {
     }
   }
 
+  // Language stats conversion - DO THIS BEFORE ACHIEVEMENTS
+  outData.languageStats = Object.keys(outData.languageStats)
+    .map(name => ({ name, ...outData.languageStats[name] }))
+    .sort((a, b) => b.size - a.size);
+
   // Achievements Analysis
   const achievements = [];
   
-  // 1. Star Collector
   if (outData.totalStats.stars >= 100) {
     achievements.push({
       id: 'star-collector',
@@ -276,7 +320,6 @@ async function run() {
     });
   }
 
-  // 2. Commit Machine
   if (outData.totalStats.commits >= 500) {
     achievements.push({
       id: 'commit-machine',
@@ -286,9 +329,8 @@ async function run() {
     });
   }
 
-  // 3. Multi-linguist
-  const topLangs = outData.languageStats.slice(0, 3).map(l => l.name);
-  if (topLangs.length >= 3) {
+  if (outData.languageStats.length >= 3) {
+    const topLangs = outData.languageStats.slice(0, 3).map(l => l.name);
     achievements.push({
       id: 'multi-linguist',
       title: 'Polyglot Developer',
@@ -299,17 +341,11 @@ async function run() {
 
   outData.achievements = achievements;
 
-  // Convert contributors map to array and sort (Keep full list)
+  // Convert contributors map to array
   outData.contributors = Array.from(contributorMap.values())
     .sort((a, b) => b.commits - a.commits); 
   
-  // Sort repos by stars (Keep full list for detail page)
   outData.repos.sort((a, b) => b.stargazerCount - a.stargazerCount);
-
-  // Language stats sorting
-  outData.languageStats = Object.keys(outData.languageStats)
-    .map(name => ({ name, ...outData.languageStats[name] }))
-    .sort((a, b) => b.size - a.size);
 
   const outputPath = path.join(PUBLIC_DIR, 'data.json');
   fs.writeFileSync(outputPath, JSON.stringify(outData, null, 2), 'utf-8');
