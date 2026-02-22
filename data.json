@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1196,
+        "totalContributions": 1197,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,7 +2041,7 @@
             "contributionDays": [
               {
                 "date": "2026-02-22",
-                "contributionCount": 12,
+                "contributionCount": 13,
                 "color": "#9be9a8"
               }
             ]
@@ -4123,10 +4123,10 @@
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "https://rainppr.dpdns.org/metrics/",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:13:02Z",
+      "pushedAt": "2026-02-22T12:16:54Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4142,7 +4142,7 @@
             }
           },
           {
-            "size": 15955,
+            "size": 15976,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4170,7 +4170,7 @@
             }
           }
         ],
-        "totalSize": 85325
+        "totalSize": 85346
       },
       "repositoryTopics": {
         "nodes": []
@@ -4932,10 +4932,10 @@
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "https://rainppr.dpdns.org/metrics/",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:13:02Z",
+      "pushedAt": "2026-02-22T12:16:54Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4951,7 +4951,7 @@
             }
           },
           {
-            "size": 15955,
+            "size": 15976,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4979,7 +4979,7 @@
             }
           }
         ],
-        "totalSize": 85325
+        "totalSize": 85346
       },
       "repositoryTopics": {
         "nodes": []
@@ -5274,7 +5274,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 128224,
+      "size": 128245,
       "color": "#3178c6"
     },
     {
@@ -5325,16 +5325,16 @@
   ],
   "totalStats": {
     "stars": 1,
-    "commits": 1241,
+    "commits": 1242,
     "prs": 25,
     "issues": 2
   },
-  "updatedAt": "2026-02-22T12:13:15.721Z",
+  "updatedAt": "2026-02-22T12:17:08.390Z",
   "contributors": [
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 191,
+      "commits": 192,
       "repos": [
         "metrics",
         "action-image-resize",
