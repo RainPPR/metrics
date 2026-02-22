@@ -7,12 +7,33 @@ import {
   Laptop,
   ArrowRight,
   Rocket,
-  Award
+  Award,
+  Zap
 } from "lucide-react";
 import { Link } from "react-router-dom";
 import { BentoGrid, BentoCard } from "../components/BentoGrid";
 import { ActivityCalendar } from "../components/ActivityCalendar";
 import { AchievementCard } from "../components/AchievementCard";
+import { cn } from "../lib/utils";
+
+function ImpactMeter({ label, value, max, color }: { label: string, value: number, max: number, color: string }) {
+  const percentage = Math.min((value / max) * 100, 100);
+  return (
+    <div className="space-y-2">
+      <div className="flex justify-between items-end">
+        <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest leading-none">{label}</span>
+        <span className="text-xs font-bold font-mono text-slate-900 leading-none">{value}</span>
+      </div>
+      <div className="h-2 rounded-full bg-slate-50 overflow-hidden">
+        <motion.div 
+          initial={{ width: 0 }}
+          animate={{ width: `${percentage}%` }}
+          className={cn("h-full rounded-full transition-all duration-1000", color)}
+        />
+      </div>
+    </div>
+  );
+}
 
 export const HomePage = ({ data }: { data: any }) => {
   return (
@@ -56,18 +77,55 @@ export const HomePage = ({ data }: { data: any }) => {
       <BentoGrid>
         {/* Achievements Quick Look */}
         <BentoCard 
-          title="Highlights" 
-          description="Recent milestones & achievements"
+          title="Battle Medals" 
+          description="Proof of engineering soul"
           icon={<Award className="text-pink-400" size={24} />}
           className="md:col-span-1"
         >
           <div className="space-y-4 mt-6">
-            {data.achievements?.slice(0, 2).map((ach: any) => (
-              <AchievementCard key={ach.id} achievement={ach} />
+            {data.achievements?.slice(0, 3).map((ach: any) => (
+              <div key={ach.id} className="transform scale-90 origin-top-left -mb-4">
+                <AchievementCard achievement={ach} />
+              </div>
             ))}
-            <Link to="/achievements" className="flex items-center gap-2 text-xs font-bold text-pink-400 hover:text-pink-500 transition-colors mt-4">
-              View All Awards <ArrowRight size={14} />
+            <Link to="/achievements" className="flex items-center gap-2 text-xs font-black text-pink-500 hover:text-pink-600 transition-colors mt-6 uppercase tracking-widest pl-2">
+              All Commendations <ArrowRight size={14} />
             </Link>
+          </div>
+        </BentoCard>
+
+        {/* Global Stats - Bragging Version */}
+        <BentoCard 
+          title="Impact Points" 
+          description="Quantifying your digital presence"
+          icon={<Zap className="text-yellow-400" size={24} />}
+          className="md:col-span-1"
+        >
+          <div className="mt-8 space-y-6">
+            <ImpactMeter 
+              label="Social Reach" 
+              value={data.users.reduce((acc:any, u:any)=>acc+(u.followers||0), 0)} 
+              max={100} 
+              color="bg-blue-400" 
+            />
+            <ImpactMeter 
+              label="Code Density" 
+              value={data.totalStats.commits} 
+              max={5000} 
+              color="bg-pink-400" 
+            />
+            <ImpactMeter 
+              label="Trust Factor" 
+              value={data.totalStats.stars} 
+              max={500} 
+              color="bg-yellow-400" 
+            />
+            <div className="pt-4 border-t border-slate-50">
+               <div className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">Total Influence</div>
+               <div className="text-3xl font-black text-slate-900 font-mono">
+                 {Math.round((data.totalStats.stars * 10) + (data.totalStats.commits * 0.1))}
+               </div>
+            </div>
           </div>
         </BentoCard>
 
@@ -119,9 +177,14 @@ export const HomePage = ({ data }: { data: any }) => {
           icon={<Activity size={24} />}
           className="md:col-span-2"
         >
-           <div className="mt-6 flex flex-col gap-4">
+           <div className="mt-6 flex flex-col gap-8">
                {data.users.slice(0, 2).map((u: any) => (
-                 <div key={u.login} className="space-y-2">
+                 <div key={u.login} className="space-y-3">
+                    <div className="flex items-center gap-3">
+                      <img src={u.avatarUrl} alt={u.login} className="w-8 h-8 rounded-full border-2 border-slate-100 shadow-sm" />
+                      <span className="text-xs font-bold font-mono text-slate-600">{u.login}'s Universe</span>
+                      <div className="h-px flex-1 bg-slate-100" />
+                    </div>
                     <ActivityCalendar data={u.calendar} className="scale-90 origin-left" />
                  </div>
                ))}
