@@ -138,6 +138,7 @@ query info($login: String!) {
         homepageUrl
         stargazerCount
         pushedAt
+        createdAt
         isPrivate
         primaryLanguage {
           name

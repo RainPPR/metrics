@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1223,
+        "totalContributions": 1224,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,7 +2041,7 @@
             "contributionDays": [
               {
                 "date": "2026-02-22",
-                "contributionCount": 15,
+                "contributionCount": 16,
                 "color": "#40c463"
               }
             ]
@@ -4129,6 +4129,7 @@
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
       "pushedAt": "2026-02-22T08:47:16Z",
+      "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4185,7 +4186,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:52:19Z",
+      "pushedAt": "2026-02-22T13:03:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4201,14 +4202,14 @@
             }
           },
           {
-            "size": 25744,
+            "size": 29412,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 11058,
+            "size": 13693,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4229,7 +4230,7 @@
             }
           }
         ],
-        "totalSize": 96997
+        "totalSize": 103300
       },
       "owner": "RainPPR"
     },
@@ -4912,6 +4913,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-02-19T14:14:59Z",
+      "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4966,6 +4968,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-02-16T09:41:21Z",
+      "createdAt": "2026-01-23T07:21:25Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5013,6 +5016,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-02-11T20:12:11Z",
+      "createdAt": "2026-01-18T06:05:37Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "JavaScript",
@@ -5046,6 +5050,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-10T11:24:04Z",
+      "createdAt": "2025-03-08T11:07:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "HTML",
@@ -5079,6 +5084,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-07T12:06:06Z",
+      "createdAt": "2026-01-29T04:39:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5112,6 +5118,7 @@
       "homepageUrl": "",
       "stargazerCount": 0,
       "pushedAt": "2026-02-05T12:09:19Z",
+      "createdAt": "2026-01-01T06:47:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5166,6 +5173,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-01T13:00:07Z",
+      "createdAt": "2026-01-30T10:31:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5192,6 +5200,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-01-31T05:20:41Z",
+      "createdAt": "2025-01-30T14:31:58Z",
       "isPrivate": false,
       "primaryLanguage": null,
       "languages": {
@@ -5207,6 +5216,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-01-15T12:30:35Z",
+      "createdAt": "2025-06-08T01:21:57Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5240,6 +5250,7 @@
       "homepageUrl": "https://raineblog.github.io/blog/",
       "stargazerCount": 0,
       "pushedAt": "2025-09-21T13:09:47Z",
+      "createdAt": "2024-08-09T07:40:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Batchfile",
@@ -5266,6 +5277,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2024-08-10T04:58:25Z",
+      "createdAt": "2024-08-10T04:42:01Z",
       "isPrivate": false,
       "primaryLanguage": null,
       "languages": {
@@ -5281,6 +5293,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-02-17T13:41:45Z",
+      "createdAt": "2026-02-17T13:39:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5314,6 +5327,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-15T12:40:03Z",
+      "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5340,6 +5354,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-01-10T09:23:07Z",
+      "createdAt": "2025-09-21T12:42:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5366,6 +5381,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "pushedAt": "2026-01-10T09:22:54Z",
+      "createdAt": "2025-12-31T13:03:00Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5392,6 +5408,7 @@
       "homepageUrl": "",
       "stargazerCount": 0,
       "pushedAt": "2025-07-22T03:18:47Z",
+      "createdAt": "2025-02-04T09:26:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5420,7 +5437,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:52:19Z",
+      "pushedAt": "2026-02-22T13:03:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5436,14 +5453,14 @@
             }
           },
           {
-            "size": 25744,
+            "size": 29412,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 11058,
+            "size": 13693,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -5464,7 +5481,7 @@
             }
           }
         ],
-        "totalSize": 96997
+        "totalSize": 103300
       },
       "owner": "RainPPR"
     },
@@ -5712,6 +5729,7 @@
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
       "pushedAt": "2026-02-22T08:47:16Z",
+      "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5752,6 +5770,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-10T11:24:04Z",
+      "createdAt": "2025-03-08T11:07:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "HTML",
@@ -5785,6 +5804,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-07T12:06:06Z",
+      "createdAt": "2026-01-29T04:39:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5818,6 +5838,7 @@
       "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-01T13:00:07Z",
+      "createdAt": "2026-01-30T10:31:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5844,6 +5865,7 @@
       "homepageUrl": "https://raineblog.github.io/blog/",
       "stargazerCount": 0,
       "pushedAt": "2025-09-21T13:09:47Z",
+      "createdAt": "2024-08-09T07:40:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Batchfile",
@@ -5870,6 +5892,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
       "stargazerCount": 0,
       "pushedAt": "2026-02-15T12:40:03Z",
+      "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5908,12 +5931,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 138013,
+      "size": 141681,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "size": 81705,
+      "size": 84340,
       "color": "#f1e05a"
     },
     {
@@ -5979,16 +6002,16 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1267,
+    "commits": 1268,
     "prs": 25,
     "issues": 2
   },
-  "updatedAt": "2026-02-22T13:00:23.702Z",
+  "updatedAt": "2026-02-22T13:11:24.802Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Code Machine",
-      "description": "Unstoppable force! With 1267 commits, you're the heartbeat of the dev world.",
+      "description": "Unstoppable force! With 1268 commits, you're the heartbeat of the dev world.",
       "icon": "Cpu",
       "level": "Silver"
     },

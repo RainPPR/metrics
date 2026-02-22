@@ -99,32 +99,35 @@ export const HomePage = ({ data }: { data: any }) => {
           title="Impact Points" 
           description="Quantifying your digital presence"
           icon={<Zap className="text-yellow-400" size={24} />}
-          className="md:col-span-1"
+          className="md:col-span-2"
         >
-          <div className="mt-8 space-y-6">
-            <ImpactMeter 
-              label="Social Reach" 
-              value={data.users.reduce((acc:any, u:any)=>acc+(u.followers||0), 0)} 
-              max={100} 
-              color="bg-blue-400" 
-            />
-            <ImpactMeter 
-              label="Code Density" 
-              value={data.totalStats.commits} 
-              max={5000} 
-              color="bg-pink-400" 
-            />
-            <ImpactMeter 
-              label="Trust Factor" 
-              value={data.totalStats.stars} 
-              max={500} 
-              color="bg-yellow-400" 
-            />
-            <div className="pt-4 border-t border-slate-50">
-               <div className="text-[10px] text-slate-400 font-bold uppercase tracking-widest">Total Influence</div>
-               <div className="text-3xl font-black text-slate-900 font-mono">
+          <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="space-y-6">
+              <ImpactMeter 
+                label="Social Reach" 
+                value={data.users.reduce((acc:any, u:any)=>acc+(u.followers||0), 0)} 
+                max={100} 
+                color="bg-blue-400" 
+              />
+              <ImpactMeter 
+                label="Code Density" 
+                value={data.totalStats.commits} 
+                max={5000} 
+                color="bg-pink-400" 
+              />
+              <ImpactMeter 
+                label="Trust Factor" 
+                value={data.totalStats.stars} 
+                max={500} 
+                color="bg-yellow-400" 
+              />
+            </div>
+            <div className="flex flex-col justify-center items-center p-6 bg-slate-50/50 rounded-3xl border border-dashed border-slate-200">
+               <div className="text-[10px] text-slate-400 font-bold uppercase tracking-widest mb-2">Total Influence Score</div>
+               <div className="text-6xl font-black text-slate-900 font-mono tracking-tighter">
                  {Math.round((data.totalStats.stars * 10) + (data.totalStats.commits * 0.1))}
                </div>
+               <div className="mt-4 px-4 py-1 rounded-full bg-pink-100 text-[10px] font-black text-pink-500 uppercase">Top 1% Developer</div>
             </div>
           </div>
         </BentoCard>
