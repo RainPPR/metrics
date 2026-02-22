@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1197,
+        "totalContributions": 1223,
         "weeks": [
           {
             "contributionDays": [
@@ -842,8 +842,8 @@
               },
               {
                 "date": "2025-07-22",
-                "contributionCount": 14,
-                "color": "#9be9a8"
+                "contributionCount": 15,
+                "color": "#40c463"
               },
               {
                 "date": "2025-07-23",
@@ -1183,7 +1183,7 @@
             "contributionDays": [
               {
                 "date": "2025-09-21",
-                "contributionCount": 5,
+                "contributionCount": 8,
                 "color": "#9be9a8"
               },
               {
@@ -1276,7 +1276,7 @@
               },
               {
                 "date": "2025-10-08",
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "color": "#9be9a8"
               },
               {
@@ -1325,7 +1325,7 @@
               },
               {
                 "date": "2025-10-17",
-                "contributionCount": 4,
+                "contributionCount": 5,
                 "color": "#9be9a8"
               },
               {
@@ -1417,7 +1417,7 @@
             "contributionDays": [
               {
                 "date": "2025-11-02",
-                "contributionCount": 5,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               },
               {
@@ -1481,7 +1481,7 @@
               },
               {
                 "date": "2025-11-14",
-                "contributionCount": 3,
+                "contributionCount": 4,
                 "color": "#9be9a8"
               },
               {
@@ -1637,7 +1637,7 @@
               },
               {
                 "date": "2025-12-12",
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "color": "#9be9a8"
               },
               {
@@ -1739,12 +1739,12 @@
               },
               {
                 "date": "2025-12-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 1,
+                "color": "#9be9a8"
               },
               {
                 "date": "2025-12-31",
-                "contributionCount": 2,
+                "contributionCount": 4,
                 "color": "#9be9a8"
               },
               {
@@ -1759,7 +1759,7 @@
               },
               {
                 "date": "2026-01-03",
-                "contributionCount": 1,
+                "contributionCount": 2,
                 "color": "#9be9a8"
               }
             ]
@@ -1798,8 +1798,8 @@
               },
               {
                 "date": "2026-01-10",
-                "contributionCount": 27,
-                "color": "#40c463"
+                "contributionCount": 29,
+                "color": "#30a14e"
               }
             ]
           },
@@ -2002,7 +2002,7 @@
             "contributionDays": [
               {
                 "date": "2026-02-15",
-                "contributionCount": 2,
+                "contributionCount": 7,
                 "color": "#9be9a8"
               },
               {
@@ -2012,8 +2012,8 @@
               },
               {
                 "date": "2026-02-17",
-                "contributionCount": 13,
-                "color": "#9be9a8"
+                "contributionCount": 17,
+                "color": "#40c463"
               },
               {
                 "date": "2026-02-18",
@@ -2041,8 +2041,8 @@
             "contributionDays": [
               {
                 "date": "2026-02-22",
-                "contributionCount": 13,
-                "color": "#9be9a8"
+                "contributionCount": 15,
+                "color": "#40c463"
               }
             ]
           }
@@ -2056,7 +2056,7 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 96,
+        "totalContributions": 97,
         "weeks": [
           {
             "contributionDays": [
@@ -4061,8 +4061,8 @@
               },
               {
                 "date": "2026-02-17",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 1,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-02-18",
@@ -4097,9 +4097,71 @@
           }
         ]
       }
+    },
+    {
+      "login": "raineblog",
+      "name": "RaineBlog",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/197091820?v=4",
+      "bio": "",
+      "followers": 0,
+      "calendar": {
+        "totalContributions": 0,
+        "weeks": []
+      }
+    },
+    {
+      "login": "rainewhk",
+      "name": "RaineWHK",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/262098591?v=4",
+      "bio": "RainPPR 的文化课（WHK）研究用组织，成品和大部头主动创作会放在 RaineBlog 组织内，原则上这个组织只放 Fork 和自己做的一些研究性质的，使用默认 Github Pages 域名。",
+      "followers": 0,
+      "calendar": {
+        "totalContributions": 0,
+        "weeks": []
+      }
     }
   ],
   "repos": [
+    {
+      "name": "whk",
+      "description": "RainPPR 的文化课博客",
+      "url": "https://github.com/raineblog/whk",
+      "homepageUrl": "https://raineblog.dpdns.org/whk/",
+      "stargazerCount": 2,
+      "pushedAt": "2026-02-22T08:47:16Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12657,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 4379,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
+            "size": 721,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 17757
+      },
+      "owner": "raineblog"
+    },
     {
       "name": "dress",
       "description": "Raine 的女装照",
@@ -4114,9 +4176,6 @@
         "edges": [],
         "totalSize": 0
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RaineMtF"
     },
     {
@@ -4126,7 +4185,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:16:54Z",
+      "pushedAt": "2026-02-22T12:51:47Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4142,14 +4201,14 @@
             }
           },
           {
-            "size": 15976,
+            "size": 25744,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 9175,
+            "size": 11058,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4170,10 +4229,7 @@
             }
           }
         ],
-        "totalSize": 85346
-      },
-      "repositoryTopics": {
-        "nodes": []
+        "totalSize": 96997
       },
       "owner": "RainPPR"
     },
@@ -4209,9 +4265,6 @@
         ],
         "totalSize": 15065
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4239,9 +4292,6 @@
         ],
         "totalSize": 57847
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4257,9 +4307,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4288,9 +4335,6 @@
         ],
         "totalSize": 11123
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4306,9 +4350,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4337,9 +4378,6 @@
         ],
         "totalSize": 59205
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4355,9 +4393,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4385,9 +4420,6 @@
           }
         ],
         "totalSize": 1586
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4422,9 +4454,6 @@
           }
         ],
         "totalSize": 75002
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4474,9 +4503,6 @@
         ],
         "totalSize": 26305
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4504,9 +4530,6 @@
         ],
         "totalSize": 3662
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4533,9 +4556,6 @@
           }
         ],
         "totalSize": 2940
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4578,9 +4598,6 @@
         ],
         "totalSize": 8933
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4622,9 +4639,6 @@
         ],
         "totalSize": 43190
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4651,9 +4665,6 @@
           }
         ],
         "totalSize": 2279
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -4717,9 +4728,6 @@
         ],
         "totalSize": 32793481
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -4746,9 +4754,6 @@
           }
         ],
         "totalSize": 9274
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RaineMtF"
     },
@@ -4784,9 +4789,6 @@
         ],
         "totalSize": 16448
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RaineMtF"
     },
     {
@@ -4813,9 +4815,6 @@
           }
         ],
         "totalSize": 10418
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RaineMtF"
     },
@@ -4872,9 +4871,6 @@
         ],
         "totalSize": 13764
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RaineMtF"
     },
     {
@@ -4890,20 +4886,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "repositoryTopics": {
-        "nodes": [
-          {
-            "topic": {
-              "name": "config"
-            }
-          },
-          {
-            "topic": {
-              "name": "github-config"
-            }
-          }
-        ]
       },
       "owner": "RaineMtF"
     },
@@ -4921,10 +4903,513 @@
         "edges": [],
         "totalSize": 0
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RaineMtF"
+    },
+    {
+      "name": "mkdocs-docker",
+      "description": null,
+      "url": "https://github.com/raineblog/mkdocs-docker",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-19T14:14:59Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 7523,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 3220,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 1522,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          },
+          {
+            "size": 1357,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          },
+          {
+            "size": 744,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 14366
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-autoblog",
+      "description": "使用 AI 定期自动生成推荐博文",
+      "url": "https://github.com/raineblog/mkdocs-autoblog",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-16T09:41:21Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 21509,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1525,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          },
+          {
+            "size": 635,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 99,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          }
+        ],
+        "totalSize": 23768
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-fontkit",
+      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
+      "url": "https://github.com/raineblog/mkdocs-fontkit",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-11T20:12:11Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 16839,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 923,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 17762
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-10T11:24:04Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-katex-ssr",
+      "description": "MkDocs KaTeX SSR Plugin",
+      "url": "https://github.com/raineblog/mkdocs-katex-ssr",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-07T12:06:06Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 18890,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1967,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 20857
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-exporter",
+      "description": "自己用的 mkdocs 导出到 PDF 的工具",
+      "url": "https://github.com/raineblog/mkdocs-exporter",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-05T12:09:19Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 18638,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 9065,
+            "node": {
+              "name": "TeX",
+              "color": "#3D6117"
+            }
+          },
+          {
+            "size": 1528,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          },
+          {
+            "size": 643,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 430,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          }
+        ],
+        "totalSize": 30304
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-advanced-seo",
+      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
+      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-01T13:00:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 17197,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 17197
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": ".github",
+      "description": null,
+      "url": "https://github.com/raineblog/.github",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-01-31T05:20:41Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-script",
+      "description": null,
+      "url": "https://github.com/raineblog/mkdocs-script",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-01-15T12:30:35Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9576,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1777,
+            "node": {
+              "name": "Typst",
+              "color": "#239dad"
+            }
+          }
+        ],
+        "totalSize": 11353
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "blog",
+      "description": "RainPPR's blog",
+      "url": "https://github.com/raineblog/blog",
+      "homepageUrl": "https://raineblog.github.io/blog/",
+      "stargazerCount": 0,
+      "pushedAt": "2025-09-21T13:09:47Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Batchfile",
+        "color": "#C1F12E"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 382,
+            "node": {
+              "name": "Batchfile",
+              "color": "#C1F12E"
+            }
+          }
+        ],
+        "totalSize": 382
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "giscus",
+      "description": null,
+      "url": "https://github.com/raineblog/giscus",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2024-08-10T04:58:25Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "anki-ewords",
+      "description": "生成可导入 Anki 的 csv 单词表",
+      "url": "https://github.com/rainewhk/anki-ewords",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-17T13:41:45Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 7212,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 24,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 7236
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-15T12:40:03Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14514,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 14514
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "words-bonus",
+      "description": "让人工智能整理、补充英语词汇积累的工具。",
+      "url": "https://github.com/rainewhk/words-bonus",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-01-10T09:23:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 2933,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 2933
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "english-readings",
+      "description": "高中英语阅读篇目生成",
+      "url": "https://github.com/rainewhk/english-readings",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-01-10T09:22:54Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9835,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9835
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "smartedu-download",
+      "description": "国家中小学智慧教育平台下载存档",
+      "url": "https://github.com/rainewhk/smartedu-download",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "pushedAt": "2025-07-22T03:18:47Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 3253,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 3253
+      },
+      "owner": "rainewhk"
     }
   ],
   "pages": [
@@ -4935,7 +5420,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T12:16:54Z",
+      "pushedAt": "2026-02-22T12:51:47Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4951,14 +5436,14 @@
             }
           },
           {
-            "size": 15976,
+            "size": 25744,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 9175,
+            "size": 11058,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4979,10 +5464,7 @@
             }
           }
         ],
-        "totalSize": 85346
-      },
-      "repositoryTopics": {
-        "nodes": []
+        "totalSize": 96997
       },
       "owner": "RainPPR"
     },
@@ -4999,9 +5481,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -5029,9 +5508,6 @@
           }
         ],
         "totalSize": 59205
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -5066,9 +5542,6 @@
           }
         ],
         "totalSize": 75002
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -5118,9 +5591,6 @@
         ],
         "totalSize": 26305
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RainPPR"
     },
     {
@@ -5161,9 +5631,6 @@
           }
         ],
         "totalSize": 43190
-      },
-      "repositoryTopics": {
-        "nodes": []
       },
       "owner": "RainPPR"
     },
@@ -5220,9 +5687,6 @@
         ],
         "totalSize": 13764
       },
-      "repositoryTopics": {
-        "nodes": []
-      },
       "owner": "RaineMtF"
     },
     {
@@ -5239,27 +5703,197 @@
         "edges": [],
         "totalSize": 0
       },
-      "repositoryTopics": {
-        "nodes": [
+      "owner": "RaineMtF"
+    },
+    {
+      "name": "whk",
+      "description": "RainPPR 的文化课博客",
+      "url": "https://github.com/raineblog/whk",
+      "homepageUrl": "https://raineblog.dpdns.org/whk/",
+      "stargazerCount": 2,
+      "pushedAt": "2026-02-22T08:47:16Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
           {
-            "topic": {
-              "name": "config"
+            "size": 12657,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
             }
           },
           {
-            "topic": {
-              "name": "github-config"
+            "size": 4379,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
+            "size": 721,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
             }
           }
-        ]
+        ],
+        "totalSize": 17757
       },
-      "owner": "RaineMtF"
+      "owner": "raineblog"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-10T11:24:04Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-katex-ssr",
+      "description": "MkDocs KaTeX SSR Plugin",
+      "url": "https://github.com/raineblog/mkdocs-katex-ssr",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-07T12:06:06Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 18890,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1967,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 20857
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-advanced-seo",
+      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
+      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-01T13:00:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 17197,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 17197
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "blog",
+      "description": "RainPPR's blog",
+      "url": "https://github.com/raineblog/blog",
+      "homepageUrl": "https://raineblog.github.io/blog/",
+      "stargazerCount": 0,
+      "pushedAt": "2025-09-21T13:09:47Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Batchfile",
+        "color": "#C1F12E"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 382,
+            "node": {
+              "name": "Batchfile",
+              "color": "#C1F12E"
+            }
+          }
+        ],
+        "totalSize": 382
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-15T12:40:03Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14514,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 14514
+      },
+      "owner": "rainewhk"
     }
   ],
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31182437,
+      "size": 31195259,
       "color": "#e34c26"
     },
     {
@@ -5269,22 +5903,22 @@
     },
     {
       "name": "Python",
-      "size": 208361,
+      "size": 352098,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "size": 128245,
+      "size": 138013,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "size": 57796,
+      "size": 81705,
       "color": "#f1e05a"
     },
     {
       "name": "CSS",
-      "size": 13830,
+      "size": 15996,
       "color": "#663399"
     },
     {
@@ -5293,14 +5927,44 @@
       "color": "#dea584"
     },
     {
+      "name": "TeX",
+      "size": 9065,
+      "color": "#3D6117"
+    },
+    {
       "name": "MDX",
       "size": 5323,
       "color": "#fcb32c"
     },
     {
+      "name": "Makefile",
+      "size": 5320,
+      "color": "#427819"
+    },
+    {
+      "name": "PowerShell",
+      "size": 4379,
+      "color": "#012456"
+    },
+    {
       "name": "Dockerfile",
-      "size": 1609,
+      "size": 3631,
       "color": "#384d54"
+    },
+    {
+      "name": "Shell",
+      "size": 1973,
+      "color": "#89e051"
+    },
+    {
+      "name": "Typst",
+      "size": 1777,
+      "color": "#239dad"
+    },
+    {
+      "name": "Batchfile",
+      "size": 669,
+      "color": "#C1F12E"
     },
     {
       "name": "C",
@@ -5311,30 +5975,34 @@
       "name": "Pascal",
       "size": 343,
       "color": "#E3F171"
-    },
-    {
-      "name": "Batchfile",
-      "size": 287,
-      "color": "#C1F12E"
-    },
-    {
-      "name": "Shell",
-      "size": 87,
-      "color": "#89e051"
     }
   ],
   "totalStats": {
-    "stars": 1,
-    "commits": 1242,
+    "stars": 3,
+    "commits": 1267,
     "prs": 25,
     "issues": 2
   },
-  "updatedAt": "2026-02-22T12:17:08.390Z",
+  "updatedAt": "2026-02-22T12:52:05.629Z",
+  "achievements": [
+    {
+      "id": "commit-machine",
+      "title": "Code Machine",
+      "description": "Pushed more than 500 commits. Engineering excellence!",
+      "icon": "Cpu"
+    },
+    {
+      "id": "multi-linguist",
+      "title": "Polyglot Developer",
+      "description": "Expertly mastering HTML, C++, Python and more.",
+      "icon": "Zap"
+    }
+  ],
   "contributors": [
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 192,
+      "commits": 1005,
       "repos": [
         "metrics",
         "action-image-resize",
@@ -5344,28 +6012,40 @@
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
-        "memory"
+        "memory",
+        "whk",
+        "mkdocs-docker",
+        "mkdocs-autoblog",
+        "mkdocs-fontkit",
+        "raineblog.github.io",
+        "anki-ewords",
+        "gaokao-chinese",
+        "words-bonus",
+        "english-readings",
+        "smartedu-download"
       ]
     },
     {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
-      "commits": 58,
+      "commits": 68,
       "repos": [
         "v2rayse",
         "proxy-dector",
         "memory",
-        "RaineMtF"
+        "RaineMtF",
+        "whk"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 45,
+      "commits": 52,
       "repos": [
         "mujing-json-script",
         "v2ray-remote-selector",
-        "memory"
+        "memory",
+        "smartedu-download"
       ]
     },
     {
@@ -5375,6 +6055,14 @@
       "repos": [
         "v2ray-remote-selector",
         "memory"
+      ]
+    },
+    {
+      "login": "actions-user",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65916846?v=4",
+      "commits": 3,
+      "repos": [
+        "mkdocs-fontkit"
       ]
     }
   ]
