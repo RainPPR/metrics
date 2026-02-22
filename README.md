@@ -1,40 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# ✨ Github Metrics Advanced Dashboard
 
-## Getting Started
+> 一个纯静态、极简、治愈系风格的 GitHub 数据聚合看板。
 
-First, run the development server:
+[![Deploy Metrics Dashboard](https://github.com/RainPPR/metrics/actions/workflows/deploy.yml/badge.svg)](https://github.com/RainPPR/metrics/actions/workflows/deploy.yml)
 
+## 🎨 治愈系设计 (Healing Aesthetics)
+
+本项目专为 **RainPPR** 及其好友设计，追求“治愈而不失高级”的视觉体验：
+- **极简配色**：以黑白为底色，搭配 Pastel Pink (治愈粉) 与 Pastel Blue (治愈蓝) 的微光晕与焦点色。
+- **动效先行**：使用 Framer Motion 实现所有 Bento 卡片的平滑交互与分屏加载。
+- **Geek 字体**：正文 Inter，数据 Fira Code。
+
+## 🚀 功能特性
+
+- **多账户聚合**：自动抓取并汇总 RainPPR, RaineMtF, raineblog, rainewhk 的全量 GitHub 数据。
+- **Bento 布局**：响应式便当盒布局，包含统计汇总、Page 橱窗、语言占比、热力图、贡献墙等。
+- **自动运维**：依托 GitHub Actions 每天零点自动更新数据并部署至 GitHub Pages。
+- **PAT Pool**：支持多 Token 轮询抓取，规避 API 限流与权限问题。
+
+## 🛠️ 快速启动
+
+### 1. 配置 Secrets (必须)
+在 GitHub 仓库中设置以下 Secret：
+- `TOKENS_POOL`: 包含一个或多个 GitHub PAT (Personal Access Tokens) 的列表。
+
+### 2. 本地开发
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# 安装依赖
+pnpm install
+
+# 手动触发数据抓取 (需要环境变量 TOKENS_POOL)
+node scripts/fetch-github-data.mjs
+
+# 启动开发服务器
+pnpm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 3. 构建发布
+```bash
+pnpm run build
+```
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 📂 技术栈
+- **Frontend**: Vite + React + TypeScript + Tailwind CSS v4
+- **Animation**: Framer Motion
+- **Icons**: Lucide React
+- **Backend-ish**: Node.js Script (fetch-github-data.mjs)
+- **Deployment**: GitHub Actions + GitHub Pages
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+---
+Made with ❤ by RainPPR & AI Dashboard.

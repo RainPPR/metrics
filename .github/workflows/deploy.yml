@@ -1,0 +1,50 @@
+name: Deploy Metrics Dashboard
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨运行
+  push:
+    branches:
+      - main
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Fetch GitHub Data
+        env:
+          TOKENS_POOL: ${{ secrets.TOKENS_POOL }}
+        run: node scripts/fetch-github-data.mjs
+
+      - name: Build
+        run: pnpm run build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          full_commit_message: "Deploying to gh-pages from ${{ github.sha }}"
