@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1227,
+        "totalContributions": 1231,
         "weeks": [
           {
             "contributionDays": [
@@ -2017,7 +2017,7 @@
               },
               {
                 "date": "2026-02-18",
-                "contributionCount": 10,
+                "contributionCount": 9,
                 "color": "#9be9a8"
               },
               {
@@ -2041,8 +2041,13 @@
             "contributionDays": [
               {
                 "date": "2026-02-22",
-                "contributionCount": 19,
-                "color": "#40c463"
+                "contributionCount": 32,
+                "color": "#30a14e"
+              },
+              {
+                "date": "2026-02-23",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -2056,7 +2061,7 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 97,
+        "totalContributions": 96,
         "weeks": [
           {
             "contributionDays": [
@@ -4092,6 +4097,11 @@
                 "date": "2026-02-22",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-02-23",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-22T08:47:16Z",
+      "pushedAt": "2026-02-22T14:33:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4180,13 +4190,47 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "action-image-resize",
+      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
+      "url": "https://github.com/RainPPR/action-image-resize",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-02-22T14:15:23Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14629,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 359,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 14988
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T13:27:50Z",
+      "pushedAt": "2026-02-22T13:28:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4231,40 +4275,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "action-image-resize",
-      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
-      "url": "https://github.com/RainPPR/action-image-resize",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-21T14:07:18Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14706,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 359,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          }
-        ],
-        "totalSize": 15065
       },
       "owner": "RainPPR"
     },
@@ -4912,7 +4922,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-02-19T14:14:59Z",
+      "pushedAt": "2026-02-22T14:36:41Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4922,7 +4932,7 @@
       "languages": {
         "edges": [
           {
-            "size": 7523,
+            "size": 8477,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4936,17 +4946,17 @@
             }
           },
           {
+            "size": 2437,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          },
+          {
             "size": 1522,
             "node": {
               "name": "Makefile",
               "color": "#427819"
-            }
-          },
-          {
-            "size": 1357,
-            "node": {
-              "name": "Shell",
-              "color": "#89e051"
             }
           },
           {
@@ -4957,7 +4967,7 @@
             }
           }
         ],
-        "totalSize": 14366
+        "totalSize": 16400
       },
       "owner": "raineblog"
     },
@@ -5287,6 +5297,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-22T23:52:21Z",
+      "createdAt": "2026-02-15T11:43:33Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14514,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 14514
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -5317,33 +5354,6 @@
           }
         ],
         "totalSize": 7236
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "gaokao-chinese",
-      "description": "高考语文",
-      "url": "https://github.com/rainewhk/gaokao-chinese",
-      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-15T12:40:03Z",
-      "createdAt": "2026-02-15T11:43:33Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14514,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 14514
       },
       "owner": "rainewhk"
     },
@@ -5437,7 +5447,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T13:27:50Z",
+      "pushedAt": "2026-02-22T13:28:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5728,7 +5738,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-22T08:47:16Z",
+      "pushedAt": "2026-02-22T14:33:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5891,7 +5901,7 @@
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
       "stargazerCount": 0,
-      "pushedAt": "2026-02-15T12:40:03Z",
+      "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5926,7 +5936,7 @@
     },
     {
       "name": "Python",
-      "size": 352098,
+      "size": 353052,
       "color": "#3572A5"
     },
     {
@@ -5936,7 +5946,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 84314,
+      "size": 84237,
       "color": "#f1e05a"
     },
     {
@@ -5976,7 +5986,7 @@
     },
     {
       "name": "Shell",
-      "size": 1973,
+      "size": 3053,
       "color": "#89e051"
     },
     {
@@ -6002,17 +6012,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1271,
-    "prs": 25,
+    "commits": 1270,
+    "prs": 30,
     "issues": 2,
     "repoCount": 41
   },
-  "updatedAt": "2026-02-22T13:28:05.595Z",
+  "updatedAt": "2026-02-23T01:10:09.992Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1271 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1270 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6056,10 +6066,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1011,
+      "commits": 1020,
       "repos": [
-        "metrics",
         "action-image-resize",
+        "metrics",
         "mujing-json-script",
         "chinese-copywriting-guidelines",
         "dns-detector",
@@ -6067,13 +6077,13 @@
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "whk",
         "mkdocs-docker",
+        "whk",
         "mkdocs-autoblog",
         "mkdocs-fontkit",
         "raineblog.github.io",
-        "anki-ewords",
         "gaokao-chinese",
+        "anki-ewords",
         "words-bonus",
         "english-readings",
         "smartedu-download"
