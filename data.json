@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1231,
+        "totalContributions": 1256,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,8 +2046,13 @@
               },
               {
                 "date": "2026-02-23",
-                "contributionCount": 1,
-                "color": "#9be9a8"
+                "contributionCount": 26,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-02-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4102,6 +4107,11 @@
                 "date": "2026-02-23",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-02-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4138,7 +4148,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-22T14:33:49Z",
+      "pushedAt": "2026-02-23T13:35:51Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4190,47 +4200,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "action-image-resize",
-      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
-      "url": "https://github.com/RainPPR/action-image-resize",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-22T14:15:23Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14629,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 359,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          }
-        ],
-        "totalSize": 14988
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T13:28:20Z",
+      "pushedAt": "2026-02-23T01:10:22Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4275,6 +4251,40 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "action-image-resize",
+      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
+      "url": "https://github.com/RainPPR/action-image-resize",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-02-22T14:15:23Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14629,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 359,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 14988
       },
       "owner": "RainPPR"
     },
@@ -4748,7 +4758,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T11:21:48Z",
+      "pushedAt": "2026-02-23T15:49:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4922,7 +4932,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-02-22T14:36:41Z",
+      "pushedAt": "2026-02-23T13:32:26Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4932,7 +4942,7 @@
       "languages": {
         "edges": [
           {
-            "size": 8477,
+            "size": 8100,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4946,28 +4956,28 @@
             }
           },
           {
-            "size": 2437,
+            "size": 1276,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 569,
             "node": {
               "name": "Shell",
               "color": "#89e051"
             }
           },
           {
-            "size": 1522,
+            "size": 147,
             "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          },
-          {
-            "size": 744,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
+              "name": "HTML",
+              "color": "#e34c26"
             }
           }
         ],
-        "totalSize": 16400
+        "totalSize": 13312
       },
       "owner": "raineblog"
     },
@@ -5447,7 +5457,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-22T13:28:20Z",
+      "pushedAt": "2026-02-23T01:10:22Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5738,7 +5748,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-22T14:33:49Z",
+      "pushedAt": "2026-02-23T13:35:51Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5926,7 +5936,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31195259,
+      "size": 31195406,
       "color": "#e34c26"
     },
     {
@@ -5936,7 +5946,7 @@
     },
     {
       "name": "Python",
-      "size": 353052,
+      "size": 352675,
       "color": "#3572A5"
     },
     {
@@ -5970,29 +5980,29 @@
       "color": "#fcb32c"
     },
     {
-      "name": "Makefile",
-      "size": 5320,
-      "color": "#427819"
-    },
-    {
       "name": "PowerShell",
       "size": 4379,
       "color": "#012456"
     },
     {
       "name": "Dockerfile",
-      "size": 3631,
+      "size": 4163,
       "color": "#384d54"
     },
     {
-      "name": "Shell",
-      "size": 3053,
-      "color": "#89e051"
+      "name": "Makefile",
+      "size": 3798,
+      "color": "#427819"
     },
     {
       "name": "Typst",
       "size": 1777,
       "color": "#239dad"
+    },
+    {
+      "name": "Shell",
+      "size": 1185,
+      "color": "#89e051"
     },
     {
       "name": "Batchfile",
@@ -6012,17 +6022,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1270,
+    "commits": 1295,
     "prs": 30,
     "issues": 2,
     "repoCount": 41
   },
-  "updatedAt": "2026-02-23T01:10:09.992Z",
+  "updatedAt": "2026-02-24T01:08:51.184Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1270 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1295 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6066,10 +6076,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1020,
+      "commits": 1045,
       "repos": [
-        "action-image-resize",
         "metrics",
+        "action-image-resize",
         "mujing-json-script",
         "chinese-copywriting-guidelines",
         "dns-detector",
@@ -6077,8 +6087,8 @@
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "mkdocs-docker",
         "whk",
+        "mkdocs-docker",
         "mkdocs-autoblog",
         "mkdocs-fontkit",
         "raineblog.github.io",
