@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1373,
+        "totalContributions": 1411,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-02-27",
+                "contributionCount": 38,
+                "color": "#30a14e"
+              },
+              {
+                "date": "2026-02-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4142,6 +4147,11 @@
                 "date": "2026-02-27",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-02-28",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4178,7 +4188,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-26T10:01:07Z",
+      "pushedAt": "2026-02-27T13:19:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4230,13 +4240,67 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "weasyprint-texlive",
+      "description": null,
+      "url": "https://github.com/RainPPR/weasyprint-texlive",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-02-27T13:49:33Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Dockerfile",
+        "color": "#384d54"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 886,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 886
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "texlive-full",
+      "description": null,
+      "url": "https://github.com/RainPPR/texlive-full",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-02-27T13:36:11Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Dockerfile",
+        "color": "#384d54"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 508,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 508
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-26T01:07:46Z",
+      "pushedAt": "2026-02-27T01:06:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4788,7 +4852,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-26T21:29:46Z",
+      "pushedAt": "2026-02-27T23:21:22Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4962,27 +5026,27 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-02-26T09:46:29Z",
+      "pushedAt": "2026-02-27T14:39:08Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
+          {
+            "size": 26343,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
           {
             "size": 16674,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
-            }
-          },
-          {
-            "size": 11983,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
             }
           },
           {
@@ -4993,6 +5057,13 @@
             }
           },
           {
+            "size": 9065,
+            "node": {
+              "name": "TeX",
+              "color": "#3D6117"
+            }
+          },
+          {
             "size": 6624,
             "node": {
               "name": "JavaScript",
@@ -5000,7 +5071,7 @@
             }
           },
           {
-            "size": 2209,
+            "size": 3993,
             "node": {
               "name": "Dockerfile",
               "color": "#384d54"
@@ -5014,7 +5085,7 @@
             }
           },
           {
-            "size": 733,
+            "size": 810,
             "node": {
               "name": "Shell",
               "color": "#89e051"
@@ -5028,7 +5099,34 @@
             }
           }
         ],
-        "totalSize": 49851
+        "totalSize": 75137
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-advanced-seo",
+      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
+      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-27T10:09:59Z",
+      "createdAt": "2026-01-30T10:31:02Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 17197,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 17197
       },
       "owner": "raineblog"
     },
@@ -5038,7 +5136,7 @@
       "url": "https://github.com/raineblog/mkdocs-autoblog",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-02-16T09:41:21Z",
+      "pushedAt": "2026-02-27T03:44:38Z",
       "createdAt": "2026-01-23T07:21:25Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5184,7 +5282,7 @@
     },
     {
       "name": "mkdocs-exporter",
-      "description": "自己用的 mkdocs 导出到 PDF 的工具",
+      "description": "自己用的 mkdocs 导出到 PDF 的工具 请迁移到 https://github.com/raineblog/mkdocs-docker/tree/main/images/exporter",
       "url": "https://github.com/raineblog/mkdocs-exporter",
       "homepageUrl": "",
       "stargazerCount": 0,
@@ -5234,33 +5332,6 @@
           }
         ],
         "totalSize": 30304
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "mkdocs-advanced-seo",
-      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
-      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
-      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-01T13:00:07Z",
-      "createdAt": "2026-01-30T10:31:02Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 17197,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 17197
       },
       "owner": "raineblog"
     },
@@ -5508,7 +5579,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-26T01:07:46Z",
+      "pushedAt": "2026-02-27T01:06:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5799,7 +5870,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-26T10:01:07Z",
+      "pushedAt": "2026-02-27T13:19:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5831,6 +5902,33 @@
           }
         ],
         "totalSize": 17757
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-advanced-seo",
+      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
+      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-02-27T10:09:59Z",
+      "createdAt": "2026-01-30T10:31:02Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 17197,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 17197
       },
       "owner": "raineblog"
     },
@@ -5903,33 +6001,6 @@
       "owner": "raineblog"
     },
     {
-      "name": "mkdocs-advanced-seo",
-      "description": "A comprehensive SEO plugin for MkDocs with Advanced Meta tags, Open Graph, Twitter Cards, JSON-LD, and more.",
-      "url": "https://github.com/raineblog/mkdocs-advanced-seo",
-      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-advanced-seo/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-01T13:00:07Z",
-      "createdAt": "2026-01-30T10:31:02Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 17197,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 17197
-      },
-      "owner": "raineblog"
-    },
-    {
       "name": "blog",
       "description": "RainPPR's blog",
       "url": "https://github.com/raineblog/blog",
@@ -5997,7 +6068,7 @@
     },
     {
       "name": "Python",
-      "size": 356558,
+      "size": 370918,
       "color": "#3572A5"
     },
     {
@@ -6009,6 +6080,11 @@
       "name": "JavaScript",
       "size": 87641,
       "color": "#f1e05a"
+    },
+    {
+      "name": "TeX",
+      "size": 18130,
+      "color": "#3D6117"
     },
     {
       "name": "CSS",
@@ -6026,19 +6102,14 @@
       "color": "#000080"
     },
     {
-      "name": "TeX",
-      "size": 9065,
-      "color": "#3D6117"
+      "name": "Dockerfile",
+      "size": 8274,
+      "color": "#384d54"
     },
     {
       "name": "MDX",
       "size": 5323,
       "color": "#fcb32c"
-    },
-    {
-      "name": "Dockerfile",
-      "size": 5096,
-      "color": "#384d54"
     },
     {
       "name": "PowerShell",
@@ -6057,7 +6128,7 @@
     },
     {
       "name": "Shell",
-      "size": 1349,
+      "size": 1426,
       "color": "#89e051"
     },
     {
@@ -6078,17 +6149,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1411,
+    "commits": 1447,
     "prs": 31,
     "issues": 2,
-    "repoCount": 41
+    "repoCount": 43
   },
-  "updatedAt": "2026-02-27T01:06:39.952Z",
+  "updatedAt": "2026-02-28T01:01:15.109Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1411 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1447 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6109,7 +6180,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 41 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 43 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Silver"
     },
@@ -6132,22 +6203,22 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1161,
+      "commits": 1178,
       "repos": [
+        "weasyprint-texlive",
+        "texlive-full",
         "metrics",
         "action-image-resize",
         "mujing-json-script",
-        "chinese-copywriting-guidelines",
-        "dns-detector",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "whk",
         "mkdocs-docker",
+        "whk",
+        "mkdocs-advanced-seo",
         "mkdocs-autoblog",
         "mkdocs-fontkit",
-        "raineblog.github.io",
         "gaokao-chinese",
         "anki-ewords",
         "words-bonus",
@@ -6181,10 +6252,11 @@
     {
       "login": "dependabot[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
-      "commits": 8,
+      "commits": 10,
       "repos": [
         "v2ray-remote-selector",
-        "memory"
+        "memory",
+        "mkdocs-advanced-seo"
       ]
     },
     {
