@@ -5,9 +5,9 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
-      "followers": 15,
+      "followers": 16,
       "calendar": {
-        "totalContributions": 1453,
+        "totalContributions": 1504,
         "weeks": [
           {
             "contributionDays": [
@@ -1760,7 +1760,7 @@
               {
                 "date": "2026-01-10",
                 "contributionCount": 29,
-                "color": "#30a14e"
+                "color": "#40c463"
               }
             ]
           },
@@ -1799,7 +1799,7 @@
               {
                 "date": "2026-01-17",
                 "contributionCount": 43,
-                "color": "#216e39"
+                "color": "#30a14e"
               }
             ]
           },
@@ -2041,8 +2041,13 @@
             "contributionDays": [
               {
                 "date": "2026-03-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 59,
+                "color": "#216e39"
+              },
+              {
+                "date": "2026-03-02",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -2056,7 +2061,7 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 96,
+        "totalContributions": 93,
         "weeks": [
           {
             "contributionDays": [
@@ -4092,6 +4097,11 @@
                 "date": "2026-03-01",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-03-02",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-28T15:01:22Z",
+      "pushedAt": "2026-03-02T01:02:25Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4180,13 +4190,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "gh-action-docker",
+      "name": "weasyprint-texlive",
       "description": null,
-      "url": "https://github.com/RainPPR/gh-action-docker",
+      "url": "https://github.com/RainPPR/weasyprint-texlive",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-28T13:05:08Z",
+      "pushedAt": "2026-03-01T07:27:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Dockerfile",
@@ -4195,14 +4205,41 @@
       "languages": {
         "edges": [
           {
-            "size": 487,
+            "size": 1060,
             "node": {
               "name": "Dockerfile",
               "color": "#384d54"
             }
           }
         ],
-        "totalSize": 487
+        "totalSize": 1060
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "cpcfinder-data",
+      "description": "抓取 CPC Finder 的数据",
+      "url": "https://github.com/RainPPR/cpcfinder-data",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-03-01T01:19:00Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1586,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 1586
       },
       "owner": "RainPPR"
     },
@@ -4213,7 +4250,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-28T01:01:30Z",
+      "pushedAt": "2026-03-01T01:16:30Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4262,13 +4299,13 @@
       "owner": "RainPPR"
     },
     {
-      "name": "weasyprint-texlive",
+      "name": "gh-action-docker",
       "description": null,
-      "url": "https://github.com/RainPPR/weasyprint-texlive",
+      "url": "https://github.com/RainPPR/gh-action-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-27T13:49:33Z",
+      "pushedAt": "2026-02-28T13:05:08Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Dockerfile",
@@ -4277,14 +4314,14 @@
       "languages": {
         "edges": [
           {
-            "size": 886,
+            "size": 487,
             "node": {
               "name": "Dockerfile",
               "color": "#384d54"
             }
           }
         ],
-        "totalSize": 886
+        "totalSize": 487
       },
       "owner": "RainPPR"
     },
@@ -4475,33 +4512,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "cpcfinder-data",
-      "description": "抓取 CPC Finder 的数据",
-      "url": "https://github.com/RainPPR/cpcfinder-data",
-      "homepageUrl": "",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-01-01T01:05:00Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1586,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1586
       },
       "owner": "RainPPR"
     },
@@ -4819,7 +4829,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-28T21:17:37Z",
+      "pushedAt": "2026-03-01T22:20:42Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4993,7 +5003,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-02-28T14:48:59Z",
+      "pushedAt": "2026-03-01T15:39:14Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5003,7 +5013,7 @@
       "languages": {
         "edges": [
           {
-            "size": 33338,
+            "size": 25650,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -5038,10 +5048,17 @@
             }
           },
           {
-            "size": 3894,
+            "size": 5014,
             "node": {
               "name": "Dockerfile",
               "color": "#384d54"
+            }
+          },
+          {
+            "size": 2405,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
             }
           },
           {
@@ -5052,13 +5069,6 @@
             }
           },
           {
-            "size": 881,
-            "node": {
-              "name": "Shell",
-              "color": "#89e051"
-            }
-          },
-          {
             "size": 161,
             "node": {
               "name": "HTML",
@@ -5066,7 +5076,7 @@
             }
           }
         ],
-        "totalSize": 82104
+        "totalSize": 77060
       },
       "owner": "raineblog"
     },
@@ -5396,6 +5406,40 @@
       "owner": "raineblog"
     },
     {
+      "name": "anki-ewords",
+      "description": "生成可导入 Anki 的 csv 单词表",
+      "url": "https://github.com/rainewhk/anki-ewords",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-03-01T10:57:20Z",
+      "createdAt": "2026-02-17T13:39:40Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 8010,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 24,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 8034
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "gaokao-chinese",
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
@@ -5419,40 +5463,6 @@
           }
         ],
         "totalSize": 14514
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "anki-ewords",
-      "description": "生成可导入 Anki 的 csv 单词表",
-      "url": "https://github.com/rainewhk/anki-ewords",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-17T13:41:45Z",
-      "createdAt": "2026-02-17T13:39:40Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 7212,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 24,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          }
-        ],
-        "totalSize": 7236
       },
       "owner": "rainewhk"
     },
@@ -5546,7 +5556,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-02-28T01:01:30Z",
+      "pushedAt": "2026-03-01T01:16:30Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5837,7 +5847,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-02-28T15:01:22Z",
+      "pushedAt": "2026-03-02T01:02:25Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6035,7 +6045,7 @@
     },
     {
       "name": "Python",
-      "size": 383325,
+      "size": 376435,
       "color": "#3572A5"
     },
     {
@@ -6070,7 +6080,7 @@
     },
     {
       "name": "Dockerfile",
-      "size": 8662,
+      "size": 9956,
       "color": "#384d54"
     },
     {
@@ -6089,14 +6099,14 @@
       "color": "#427819"
     },
     {
+      "name": "Shell",
+      "size": 3021,
+      "color": "#89e051"
+    },
+    {
       "name": "Typst",
       "size": 1777,
       "color": "#239dad"
-    },
-    {
-      "name": "Shell",
-      "size": 1497,
-      "color": "#89e051"
     },
     {
       "name": "Batchfile",
@@ -6116,17 +6126,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1487,
+    "commits": 1535,
     "prs": 32,
     "issues": 2,
     "repoCount": 44
   },
-  "updatedAt": "2026-03-01T01:16:15.162Z",
+  "updatedAt": "2026-03-02T01:08:34.301Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1487 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1535 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6140,7 +6150,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 15 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 16 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Silver"
     },
@@ -6154,7 +6164,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 17 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 18 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -6170,13 +6180,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1163,
+      "commits": 1200,
       "repos": [
-        "gh-action-docker",
-        "metrics",
         "weasyprint-texlive",
+        "cpcfinder-data",
+        "metrics",
+        "gh-action-docker",
         "texlive-full",
-        "action-image-resize",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6186,8 +6196,8 @@
         "mkdocs-katex-ssr",
         "mkdocs-advanced-seo",
         "mkdocs-autoblog",
-        "gaokao-chinese",
         "anki-ewords",
+        "gaokao-chinese",
         "words-bonus",
         "english-readings",
         "smartedu-download"
@@ -6208,8 +6218,9 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 26,
+      "commits": 33,
       "repos": [
+        "cpcfinder-data",
         "v2ray-remote-selector",
         "memory",
         "smartedu-download"
@@ -6218,10 +6229,11 @@
     {
       "login": "dependabot[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
-      "commits": 12,
+      "commits": 14,
       "repos": [
         "v2ray-remote-selector",
         "memory",
+        "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-advanced-seo"
       ]
