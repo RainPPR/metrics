@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 1504,
+        "totalContributions": 1530,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,8 +2046,13 @@
               },
               {
                 "date": "2026-03-02",
-                "contributionCount": 1,
-                "color": "#9be9a8"
+                "contributionCount": 27,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-03-03",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4102,6 +4107,11 @@
                 "date": "2026-03-02",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-03-03",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4138,7 +4148,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-02T01:02:25Z",
+      "pushedAt": "2026-03-02T06:02:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4188,6 +4198,61 @@
         "totalSize": 0
       },
       "owner": "RaineMtF"
+    },
+    {
+      "name": "metrics",
+      "description": "GitHub Repository Showcase",
+      "url": "https://github.com/RainPPR/metrics",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-03-02T01:08:47Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 59205,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 43608,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13667,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 680,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 310,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 117470
+      },
+      "owner": "RainPPR"
     },
     {
       "name": "weasyprint-texlive",
@@ -4240,61 +4305,6 @@
           }
         ],
         "totalSize": 1586
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "metrics",
-      "description": "GitHub Repository Showcase",
-      "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-03-01T01:16:30Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 59205,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 43608,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13667,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 680,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 310,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 117470
       },
       "owner": "RainPPR"
     },
@@ -4829,7 +4839,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-01T22:20:42Z",
+      "pushedAt": "2026-03-02T23:22:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5003,7 +5013,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-03-01T15:39:14Z",
+      "pushedAt": "2026-03-02T10:46:22Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5013,7 +5023,7 @@
       "languages": {
         "edges": [
           {
-            "size": 25650,
+            "size": 25641,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -5031,6 +5041,13 @@
             "node": {
               "name": "Lua",
               "color": "#000080"
+            }
+          },
+          {
+            "size": 9261,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
             }
           },
           {
@@ -5055,17 +5072,10 @@
             }
           },
           {
-            "size": 2405,
+            "size": 2382,
             "node": {
               "name": "Shell",
               "color": "#89e051"
-            }
-          },
-          {
-            "size": 1428,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
             }
           },
           {
@@ -5076,7 +5086,34 @@
             }
           }
         ],
-        "totalSize": 77060
+        "totalSize": 84861
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-fontkit",
+      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
+      "url": "https://github.com/raineblog/mkdocs-fontkit",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-03-02T09:09:36Z",
+      "createdAt": "2026-01-18T06:05:37Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 21232,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 21232
       },
       "owner": "raineblog"
     },
@@ -5186,40 +5223,6 @@
           }
         ],
         "totalSize": 23768
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "mkdocs-fontkit",
-      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
-      "url": "https://github.com/raineblog/mkdocs-fontkit",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-11T20:12:11Z",
-      "createdAt": "2026-01-18T06:05:37Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 16839,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 923,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 17762
       },
       "owner": "raineblog"
     },
@@ -5556,7 +5559,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-01T01:16:30Z",
+      "pushedAt": "2026-03-02T01:08:47Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5847,7 +5850,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-02T01:02:25Z",
+      "pushedAt": "2026-03-02T06:02:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6045,7 +6048,7 @@
     },
     {
       "name": "Python",
-      "size": 376435,
+      "size": 376426,
       "color": "#3572A5"
     },
     {
@@ -6055,18 +6058,18 @@
     },
     {
       "name": "JavaScript",
-      "size": 88550,
+      "size": 92943,
       "color": "#f1e05a"
+    },
+    {
+      "name": "CSS",
+      "size": 24334,
+      "color": "#663399"
     },
     {
       "name": "TeX",
       "size": 18130,
       "color": "#3D6117"
-    },
-    {
-      "name": "CSS",
-      "size": 17424,
-      "color": "#663399"
     },
     {
       "name": "Rust",
@@ -6100,7 +6103,7 @@
     },
     {
       "name": "Shell",
-      "size": 3021,
+      "size": 2998,
       "color": "#89e051"
     },
     {
@@ -6126,17 +6129,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1535,
+    "commits": 1561,
     "prs": 32,
     "issues": 2,
     "repoCount": 44
   },
-  "updatedAt": "2026-03-02T01:08:34.301Z",
+  "updatedAt": "2026-03-03T01:10:29.090Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1535 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1561 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6180,22 +6183,22 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1200,
+      "commits": 1237,
       "repos": [
+        "metrics",
         "weasyprint-texlive",
         "cpcfinder-data",
-        "metrics",
         "gh-action-docker",
         "texlive-full",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "whk",
         "mkdocs-docker",
+        "mkdocs-fontkit",
+        "whk",
         "mkdocs-katex-ssr",
         "mkdocs-advanced-seo",
-        "mkdocs-autoblog",
         "anki-ewords",
         "gaokao-chinese",
         "words-bonus",
@@ -6236,6 +6239,14 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-advanced-seo"
+      ]
+    },
+    {
+      "login": "actions-user",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65916846?v=4",
+      "commits": 3,
+      "repos": [
+        "mkdocs-fontkit"
       ]
     }
   ]
