@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 1589,
+        "totalContributions": 1629,
         "weeks": [
           {
             "contributionDays": [
@@ -2056,6 +2056,11 @@
               },
               {
                 "date": "2026-03-04",
+                "contributionCount": 40,
+                "color": "#30a14e"
+              },
+              {
+                "date": "2026-03-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4122,6 +4127,11 @@
                 "date": "2026-03-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-03-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4158,7 +4168,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-03T12:21:47Z",
+      "pushedAt": "2026-03-04T12:50:48Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4210,13 +4220,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "texlive-full",
+      "description": null,
+      "url": "https://github.com/RainPPR/texlive-full",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-03-04T04:45:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Dockerfile",
+        "color": "#384d54"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1378,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 1378
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-03T01:10:42Z",
+      "pushedAt": "2026-03-04T01:07:01Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4342,33 +4379,6 @@
           }
         ],
         "totalSize": 487
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "texlive-full",
-      "description": null,
-      "url": "https://github.com/RainPPR/texlive-full",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-27T13:36:11Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Dockerfile",
-        "color": "#384d54"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 508,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          }
-        ],
-        "totalSize": 508
       },
       "owner": "RainPPR"
     },
@@ -4849,7 +4859,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-03T23:25:25Z",
+      "pushedAt": "2026-03-04T23:28:41Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4866,6 +4876,33 @@
           }
         ],
         "totalSize": 9274
+      },
+      "owner": "RaineMtF"
+    },
+    {
+      "name": "v2ray-remote-selector",
+      "description": null,
+      "url": "https://github.com/RaineMtF/v2ray-remote-selector",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-03-04T06:35:38Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 10418,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 10418
       },
       "owner": "RaineMtF"
     },
@@ -4900,33 +4937,6 @@
           }
         ],
         "totalSize": 16448
-      },
-      "owner": "RaineMtF"
-    },
-    {
-      "name": "v2ray-remote-selector",
-      "description": null,
-      "url": "https://github.com/RaineMtF/v2ray-remote-selector",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-04T14:40:32Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 10418,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 10418
       },
       "owner": "RaineMtF"
     },
@@ -5023,7 +5033,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-03-03T14:39:47Z",
+      "pushedAt": "2026-03-04T13:49:31Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5033,10 +5043,17 @@
       "languages": {
         "edges": [
           {
-            "size": 17828,
+            "size": 28054,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 18453,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
             }
           },
           {
@@ -5047,14 +5064,7 @@
             }
           },
           {
-            "size": 12789,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 11013,
+            "size": 15022,
             "node": {
               "name": "Dockerfile",
               "color": "#384d54"
@@ -5075,10 +5085,17 @@
             }
           },
           {
-            "size": 2387,
+            "size": 2851,
             "node": {
               "name": "Shell",
               "color": "#89e051"
+            }
+          },
+          {
+            "size": 2719,
+            "node": {
+              "name": "Jinja",
+              "color": "#a52a22"
             }
           },
           {
@@ -5096,7 +5113,7 @@
             }
           }
         ],
-        "totalSize": 81383
+        "totalSize": 104465
       },
       "owner": "raineblog"
     },
@@ -5569,7 +5586,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-03T01:10:42Z",
+      "pushedAt": "2026-03-04T01:07:01Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5860,7 +5877,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-03T12:21:47Z",
+      "pushedAt": "2026-03-04T12:50:48Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6058,7 +6075,7 @@
     },
     {
       "name": "Python",
-      "size": 370637,
+      "size": 380863,
       "color": "#3572A5"
     },
     {
@@ -6068,8 +6085,13 @@
     },
     {
       "name": "JavaScript",
-      "size": 99108,
+      "size": 104772,
       "color": "#f1e05a"
+    },
+    {
+      "name": "Dockerfile",
+      "size": 20834,
+      "color": "#384d54"
     },
     {
       "name": "TeX",
@@ -6080,11 +6102,6 @@
       "name": "CSS",
       "size": 16501,
       "color": "#663399"
-    },
-    {
-      "name": "Dockerfile",
-      "size": 15955,
-      "color": "#384d54"
     },
     {
       "name": "Rust",
@@ -6113,8 +6130,13 @@
     },
     {
       "name": "Shell",
-      "size": 3003,
+      "size": 3467,
       "color": "#89e051"
+    },
+    {
+      "name": "Jinja",
+      "size": 2719,
+      "color": "#a52a22"
     },
     {
       "name": "Typst",
@@ -6139,31 +6161,31 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 1620,
+    "commits": 1660,
     "prs": 32,
     "issues": 2,
     "repoCount": 44
   },
-  "updatedAt": "2026-03-04T01:06:47.809Z",
+  "updatedAt": "2026-03-05T01:09:05.117Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 1620 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 1660 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
     {
       "id": "multi-linguist",
       "title": "Domain Proficiency",
-      "description": "Proficient in HTML, C++, Python and 18 additional languages. Covers diverse engineering domains.",
+      "description": "Proficient in HTML, C++, Python and 19 additional languages. Covers diverse engineering domains.",
       "icon": "Zap",
       "level": "Gold"
     },
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 17 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 18 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Silver"
     },
@@ -6193,16 +6215,16 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1296,
+      "commits": 1336,
       "repos": [
+        "texlive-full",
         "metrics",
         "weasyprint-texlive",
         "cpcfinder-data",
         "gh-action-docker",
-        "texlive-full",
         "v2rayse",
-        "proxy-dector",
         "v2ray-remote-selector",
+        "proxy-dector",
         "memory",
         "mkdocs-docker",
         "whk",
