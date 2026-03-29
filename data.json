@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 14,
       "calendar": {
-        "totalContributions": 2090,
+        "totalContributions": 2146,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-03-23",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-03-24",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-25",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-26",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-27",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-28",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-29",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2066,11 +2027,20 @@
               },
               {
                 "date": "2026-03-27",
-                "contributionCount": 10,
+                "contributionCount": 14,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-03-28",
+                "contributionCount": 52,
+                "color": "#216e39"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-03-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2086,47 +2056,8 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 95,
+        "totalContributions": 97,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-03-23",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-24",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-25",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-26",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-27",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-28",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4150,6 +4081,15 @@
               },
               {
                 "date": "2026-03-28",
+                "contributionCount": 2,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-03-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4188,7 +4128,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-27T14:37:50Z",
+      "pushedAt": "2026-03-28T15:30:26Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4198,17 +4138,24 @@
       "languages": {
         "edges": [
           {
-            "size": 123905,
+            "size": 186243,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
             }
           },
           {
-            "size": 20176,
+            "size": 22383,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 7126,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
             }
           },
           {
@@ -4226,7 +4173,7 @@
             }
           }
         ],
-        "totalSize": 149424
+        "totalSize": 221095
       },
       "owner": "raineblog"
     },
@@ -4253,7 +4200,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-27T01:18:00Z",
+      "pushedAt": "2026-03-28T01:11:38Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4982,7 +4929,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-27T19:46:30Z",
+      "pushedAt": "2026-03-28T19:32:53Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5151,6 +5098,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "mkdocs-katex-ssr",
+      "description": "MkDocs KaTeX SSR Plugin",
+      "url": "https://github.com/raineblog/mkdocs-katex-ssr",
+      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-03-28T14:53:44Z",
+      "createdAt": "2026-01-29T04:39:52Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 27458,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 2876,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 30334
+      },
+      "owner": "raineblog"
+    },
+    {
       "name": "mkdocs-docker",
       "description": null,
       "url": "https://github.com/raineblog/mkdocs-docker",
@@ -5237,40 +5218,6 @@
           }
         ],
         "totalSize": 109162
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "mkdocs-katex-ssr",
-      "description": "MkDocs KaTeX SSR Plugin",
-      "url": "https://github.com/raineblog/mkdocs-katex-ssr",
-      "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-03-26T17:00:32Z",
-      "createdAt": "2026-01-29T04:39:52Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 27458,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 2876,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ],
-        "totalSize": 30334
       },
       "owner": "raineblog"
     },
@@ -5709,7 +5656,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-27T01:18:00Z",
+      "pushedAt": "2026-03-28T01:11:38Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6000,7 +5947,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-27T14:37:50Z",
+      "pushedAt": "2026-03-28T15:30:26Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6010,17 +5957,24 @@
       "languages": {
         "edges": [
           {
-            "size": 123905,
+            "size": 186243,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
             }
           },
           {
-            "size": 20176,
+            "size": 22383,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 7126,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
             }
           },
           {
@@ -6038,7 +5992,7 @@
             }
           }
         ],
-        "totalSize": 149424
+        "totalSize": 221095
       },
       "owner": "raineblog"
     },
@@ -6048,7 +6002,7 @@
       "url": "https://github.com/raineblog/mkdocs-katex-ssr",
       "homepageUrl": "http://raineblog.dpdns.org/mkdocs-katex-ssr/",
       "stargazerCount": 0,
-      "pushedAt": "2026-03-26T17:00:32Z",
+      "pushedAt": "2026-03-28T14:53:44Z",
       "createdAt": "2026-01-29T04:39:52Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6195,7 +6149,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31217426,
+      "size": 31224552,
       "color": "#e34c26"
     },
     {
@@ -6205,12 +6159,12 @@
     },
     {
       "name": "JavaScript",
-      "size": 418782,
+      "size": 481120,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
-      "size": 396814,
+      "size": 399021,
       "color": "#3572A5"
     },
     {
@@ -6291,17 +6245,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2108,
-    "prs": 41,
+    "commits": 2165,
+    "prs": 42,
     "issues": 2,
     "repoCount": 46
   },
-  "updatedAt": "2026-03-28T01:11:24.527Z",
+  "updatedAt": "2026-03-29T01:20:23.896Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2108 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2165 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6315,7 +6269,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 41 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 42 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6345,7 +6299,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1793,
+      "commits": 1848,
       "repos": [
         "metrics",
         "free-models-list",
@@ -6357,8 +6311,8 @@
         "v2ray-remote-selector",
         "memory",
         "whk",
-        "mkdocs-docker",
         "mkdocs-katex-ssr",
+        "mkdocs-docker",
         "mkdocs-autoblog",
         "mkdocs-fontkit",
         "anki-ewords",
@@ -6399,8 +6353,8 @@
         "free-proxy-list",
         "v2ray-remote-selector",
         "memory",
-        "mkdocs-docker",
-        "mkdocs-katex-ssr"
+        "mkdocs-katex-ssr",
+        "mkdocs-docker"
       ]
     },
     {
