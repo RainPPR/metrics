@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 14,
       "calendar": {
-        "totalContributions": 2146,
+        "totalContributions": 2184,
         "weeks": [
           {
             "contributionDays": [
@@ -2032,7 +2032,7 @@
               },
               {
                 "date": "2026-03-28",
-                "contributionCount": 52,
+                "contributionCount": 53,
                 "color": "#216e39"
               }
             ]
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-03-29",
+                "contributionCount": 41,
+                "color": "#30a14e"
+              },
+              {
+                "date": "2026-03-30",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-03-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-03-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-28T15:30:26Z",
+      "pushedAt": "2026-03-29T14:29:29Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4138,21 +4148,21 @@
       "languages": {
         "edges": [
           {
-            "size": 186243,
+            "size": 48881,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
             }
           },
           {
-            "size": 22383,
+            "size": 16203,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           },
           {
-            "size": 7126,
+            "size": 7403,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -4173,7 +4183,7 @@
             }
           }
         ],
-        "totalSize": 221095
+        "totalSize": 77830
       },
       "owner": "raineblog"
     },
@@ -4194,13 +4204,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-03-30T01:18:58Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1497,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 1497
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-28T01:11:38Z",
+      "pushedAt": "2026-03-29T01:20:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4245,33 +4282,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-03-23T01:12:00Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1497,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1497
       },
       "owner": "RainPPR"
     },
@@ -4929,7 +4939,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-28T19:32:53Z",
+      "pushedAt": "2026-03-29T19:33:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5656,7 +5666,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-03-28T01:11:38Z",
+      "pushedAt": "2026-03-29T01:20:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5947,7 +5957,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-03-28T15:30:26Z",
+      "pushedAt": "2026-03-29T14:29:29Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5957,21 +5967,21 @@
       "languages": {
         "edges": [
           {
-            "size": 186243,
+            "size": 48881,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
             }
           },
           {
-            "size": 22383,
+            "size": 16203,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           },
           {
-            "size": 7126,
+            "size": 7403,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -5992,7 +6002,7 @@
             }
           }
         ],
-        "totalSize": 221095
+        "totalSize": 77830
       },
       "owner": "raineblog"
     },
@@ -6149,7 +6159,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31224552,
+      "size": 31224829,
       "color": "#e34c26"
     },
     {
@@ -6158,14 +6168,14 @@
       "color": "#f34b7d"
     },
     {
-      "name": "JavaScript",
-      "size": 481120,
-      "color": "#f1e05a"
+      "name": "Python",
+      "size": 392841,
+      "color": "#3572A5"
     },
     {
-      "name": "Python",
-      "size": 399021,
-      "color": "#3572A5"
+      "name": "JavaScript",
+      "size": 343758,
+      "color": "#f1e05a"
     },
     {
       "name": "TypeScript",
@@ -6245,31 +6255,31 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2165,
-    "prs": 42,
+    "commits": 2201,
+    "prs": 43,
     "issues": 2,
     "repoCount": 46
   },
-  "updatedAt": "2026-03-29T01:20:23.896Z",
+  "updatedAt": "2026-03-30T01:21:29.102Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2165 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2201 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
     {
       "id": "multi-linguist",
       "title": "Domain Proficiency",
-      "description": "Proficient in HTML, C++, JavaScript and 19 additional languages. Covers diverse engineering domains.",
+      "description": "Proficient in HTML, C++, Python and 19 additional languages. Covers diverse engineering domains.",
       "icon": "Zap",
       "level": "Gold"
     },
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 42 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 43 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6299,10 +6309,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1848,
+      "commits": 1888,
       "repos": [
-        "metrics",
         "free-models-list",
+        "metrics",
         "free-proxy-list",
         "texlive-full",
         "weasyprint-texlive",
@@ -6337,7 +6347,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 27,
+      "commits": 28,
       "repos": [
         "free-models-list",
         "v2ray-remote-selector",
