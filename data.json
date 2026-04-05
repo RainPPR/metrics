@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 14,
       "calendar": {
-        "totalContributions": 2277,
+        "totalContributions": 2301,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-03-30",
-                "contributionCount": 4,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-03-31",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-04",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-04-05",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-04-04",
+                "contributionCount": 24,
+                "color": "#40c463"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-03-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-03-31",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4281,7 +4221,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-03T01:18:46Z",
+      "pushedAt": "2026-04-04T01:12:56Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5010,7 +4950,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-03T14:05:24Z",
+      "pushedAt": "2026-04-04T21:30:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5587,6 +5527,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "gaokao",
+      "description": "高考试题 datasets 汇总",
+      "url": "https://github.com/rainewhk/gaokao",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-04-04T12:43:13Z",
+      "createdAt": "2026-04-04T09:54:58Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 23128,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 23128
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -5737,7 +5704,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-03T01:18:46Z",
+      "pushedAt": "2026-04-04T01:12:56Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6261,7 +6228,7 @@
     },
     {
       "name": "Python",
-      "size": 401814,
+      "size": 424942,
       "color": "#3572A5"
     },
     {
@@ -6347,17 +6314,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2289,
+    "commits": 2313,
     "prs": 44,
     "issues": 2,
-    "repoCount": 46
+    "repoCount": 47
   },
-  "updatedAt": "2026-04-04T01:12:43.832Z",
+  "updatedAt": "2026-04-05T01:21:43.755Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2289 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2313 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6371,14 +6338,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 48 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 49 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 46 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 47 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Silver"
     },
@@ -6401,7 +6368,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1916,
+      "commits": 1926,
       "repos": [
         "metrics",
         "gh-action-docker",
@@ -6417,11 +6384,11 @@
         "mkdocs-docker",
         "mkdocs-autoblog",
         "mkdocs-fontkit",
+        "gaokao",
         "anki-ewords",
         "gaokao-chinese",
         "words-bonus",
-        "english-readings",
-        "smartedu-download"
+        "english-readings"
       ]
     },
     {
@@ -6439,12 +6406,11 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 28,
+      "commits": 21,
       "repos": [
         "free-models-list",
         "v2ray-remote-selector",
-        "memory",
-        "smartedu-download"
+        "memory"
       ]
     },
     {
