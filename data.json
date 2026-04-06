@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 14,
       "calendar": {
-        "totalContributions": 2301,
+        "totalContributions": 2328,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-04-05",
+                "contributionCount": 33,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-04-06",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-04-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-04-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-04-03T15:15:06Z",
+      "pushedAt": "2026-04-05T11:22:38Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4152,21 +4162,21 @@
             }
           },
           {
-            "size": 18654,
+            "size": 18819,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 7487,
+            "size": 10222,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
             }
           },
           {
-            "size": 5723,
+            "size": 5743,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -4185,16 +4195,9 @@
               "name": "Lua",
               "color": "#000080"
             }
-          },
-          {
-            "size": 964,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
           }
         ],
-        "totalSize": 112093
+        "totalSize": 114049
       },
       "owner": "raineblog"
     },
@@ -4215,13 +4218,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-04-06T01:19:11Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1497,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 1497
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-04T01:12:56Z",
+      "pushedAt": "2026-04-05T01:21:56Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4347,33 +4377,6 @@
           }
         ],
         "totalSize": 1378
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-03-30T01:18:58Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1497,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1497
       },
       "owner": "RainPPR"
     },
@@ -4950,7 +4953,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-04T21:30:11Z",
+      "pushedAt": "2026-04-05T19:33:30Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5704,7 +5707,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-04T01:12:56Z",
+      "pushedAt": "2026-04-05T01:21:56Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5995,7 +5998,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-04-03T15:15:06Z",
+      "pushedAt": "2026-04-05T11:22:38Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6019,21 +6022,21 @@
             }
           },
           {
-            "size": 18654,
+            "size": 18819,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 7487,
+            "size": 10222,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
             }
           },
           {
-            "size": 5723,
+            "size": 5743,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -6052,16 +6055,9 @@
               "name": "Lua",
               "color": "#000080"
             }
-          },
-          {
-            "size": 964,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
           }
         ],
-        "totalSize": 112093
+        "totalSize": 114049
       },
       "owner": "raineblog"
     },
@@ -6218,7 +6214,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31224913,
+      "size": 31227648,
       "color": "#e34c26"
     },
     {
@@ -6238,7 +6234,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 195250,
+      "size": 195415,
       "color": "#3178c6"
     },
     {
@@ -6268,7 +6264,7 @@
     },
     {
       "name": "Jinja",
-      "size": 8338,
+      "size": 8358,
       "color": "#a52a22"
     },
     {
@@ -6282,14 +6278,14 @@
       "color": "#012456"
     },
     {
-      "name": "Makefile",
-      "size": 4369,
-      "color": "#427819"
-    },
-    {
       "name": "Shell",
       "size": 3467,
       "color": "#89e051"
+    },
+    {
+      "name": "Makefile",
+      "size": 3405,
+      "color": "#427819"
     },
     {
       "name": "Typst",
@@ -6314,17 +6310,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2313,
-    "prs": 44,
+    "commits": 2339,
+    "prs": 45,
     "issues": 2,
     "repoCount": 47
   },
-  "updatedAt": "2026-04-05T01:21:43.755Z",
+  "updatedAt": "2026-04-06T01:21:56.568Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2313 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2339 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6338,7 +6334,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 49 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 50 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6368,13 +6364,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1926,
+      "commits": 1958,
       "repos": [
+        "free-models-list",
         "metrics",
         "gh-action-docker",
         "weasyprint-texlive",
         "texlive-full",
-        "free-models-list",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6406,7 +6402,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 21,
+      "commits": 22,
       "repos": [
         "free-models-list",
         "v2ray-remote-selector",
