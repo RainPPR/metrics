@@ -5,49 +5,10 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
-      "followers": 14,
+      "followers": 15,
       "calendar": {
-        "totalContributions": 2383,
+        "totalContributions": 2410,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-06",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-04-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-10",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-12",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-04-11",
+                "contributionCount": 27,
+                "color": "#40c463"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-12",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-10",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-12",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-12",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4274,23 +4214,44 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-10T13:25:21Z",
+      "pushedAt": "2026-04-11T13:58:46Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "Rust",
-        "color": "#dea584"
+        "name": "TypeScript",
+        "color": "#3178c6"
       },
       "languages": {
         "edges": [
           {
-            "size": 37573,
+            "size": 23545,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13761,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 3362,
             "node": {
               "name": "Rust",
               "color": "#dea584"
             }
+          },
+          {
+            "size": 365,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
           }
         ],
-        "totalSize": 37573
+        "totalSize": 41033
       },
       "owner": "RainPPR"
     },
@@ -4301,7 +4262,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-10T01:21:43Z",
+      "pushedAt": "2026-04-11T01:16:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5030,7 +4991,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-10T13:01:45Z",
+      "pushedAt": "2026-04-11T19:35:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5784,7 +5745,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-10T01:21:43Z",
+      "pushedAt": "2026-04-11T01:16:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6291,7 +6252,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31227648,
+      "size": 31228013,
       "color": "#e34c26"
     },
     {
@@ -6311,17 +6272,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 195415,
+      "size": 218960,
       "color": "#3178c6"
     },
     {
-      "name": "Rust",
-      "size": 48696,
-      "color": "#dea584"
-    },
-    {
       "name": "CSS",
-      "size": 25855,
+      "size": 39616,
       "color": "#663399"
     },
     {
@@ -6333,6 +6289,11 @@
       "name": "TeX",
       "size": 18129,
       "color": "#3D6117"
+    },
+    {
+      "name": "Rust",
+      "size": 14485,
+      "color": "#dea584"
     },
     {
       "name": "Lua",
@@ -6387,17 +6348,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2393,
+    "commits": 2420,
     "prs": 45,
     "issues": 2,
     "repoCount": 48
   },
-  "updatedAt": "2026-04-11T01:16:14.458Z",
+  "updatedAt": "2026-04-12T01:24:59.445Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2393 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2420 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6411,7 +6372,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 55 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 56 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6425,7 +6386,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 16 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 17 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -6441,7 +6402,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2004,
+      "commits": 2031,
       "repos": [
         "tree-pdf-viewer",
         "metrics",
