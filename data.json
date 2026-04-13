@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2410,
+        "totalContributions": 2429,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-04-12",
+                "contributionCount": 21,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-04-13",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-04-12",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-04-13",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,27 +4138,34 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-04-08T13:19:39Z",
+      "pushedAt": "2026-04-12T11:00:29Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 45662,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 25176,
+            "size": 114826,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 62278,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 43877,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
             }
           },
           {
@@ -4159,14 +4176,7 @@
             }
           },
           {
-            "size": 10222,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 5743,
+            "size": 5718,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -4187,7 +4197,7 @@
             }
           }
         ],
-        "totalSize": 114049
+        "totalSize": 253945
       },
       "owner": "raineblog"
     },
@@ -4208,50 +4218,29 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "tree-pdf-viewer",
+      "name": "free-models-list",
       "description": null,
-      "url": "https://github.com/RainPPR/tree-pdf-viewer",
+      "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-11T13:58:46Z",
+      "pushedAt": "2026-04-13T01:24:39Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 23545,
+            "size": 1497,
             "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13761,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 3362,
-            "node": {
-              "name": "Rust",
-              "color": "#dea584"
-            }
-          },
-          {
-            "size": 365,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
+              "name": "Python",
+              "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 41033
+        "totalSize": 1497
       },
       "owner": "RainPPR"
     },
@@ -4262,7 +4251,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-11T01:16:27Z",
+      "pushedAt": "2026-04-12T01:25:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4311,29 +4300,50 @@
       "owner": "RainPPR"
     },
     {
-      "name": "free-models-list",
+      "name": "tree-pdf-viewer",
       "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
+      "url": "https://github.com/RainPPR/tree-pdf-viewer",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-06T01:19:11Z",
+      "pushedAt": "2026-04-11T13:58:46Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
+        "name": "TypeScript",
+        "color": "#3178c6"
       },
       "languages": {
         "edges": [
           {
-            "size": 1497,
+            "size": 23545,
             "node": {
-              "name": "Python",
-              "color": "#3572A5"
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13761,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 3362,
+            "node": {
+              "name": "Rust",
+              "color": "#dea584"
+            }
+          },
+          {
+            "size": 365,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
             }
           }
         ],
-        "totalSize": 1497
+        "totalSize": 41033
       },
       "owner": "RainPPR"
     },
@@ -4991,7 +5001,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-11T19:35:10Z",
+      "pushedAt": "2026-04-12T23:32:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5158,6 +5168,33 @@
         "totalSize": 0
       },
       "owner": "RaineMtF"
+    },
+    {
+      "name": "mkdocs-fontkit",
+      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
+      "url": "https://github.com/raineblog/mkdocs-fontkit",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-04-12T09:53:43Z",
+      "createdAt": "2026-01-18T06:05:37Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 21232,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 21232
+      },
+      "owner": "raineblog"
     },
     {
       "name": "mkdocs-docker",
@@ -5328,33 +5365,6 @@
           }
         ],
         "totalSize": 23768
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "mkdocs-fontkit",
-      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
-      "url": "https://github.com/raineblog/mkdocs-fontkit",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-03-02T09:09:36Z",
-      "createdAt": "2026-01-18T06:05:37Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 21232,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ],
-        "totalSize": 21232
       },
       "owner": "raineblog"
     },
@@ -5745,7 +5755,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-11T01:16:27Z",
+      "pushedAt": "2026-04-12T01:25:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6036,27 +6046,34 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-04-08T13:19:39Z",
+      "pushedAt": "2026-04-12T11:00:29Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 45662,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 25176,
+            "size": 114826,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 62278,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 43877,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
             }
           },
           {
@@ -6067,14 +6084,7 @@
             }
           },
           {
-            "size": 10222,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 5743,
+            "size": 5718,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -6095,7 +6105,7 @@
             }
           }
         ],
-        "totalSize": 114049
+        "totalSize": 253945
       },
       "owner": "raineblog"
     },
@@ -6252,7 +6262,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31228013,
+      "size": 31280069,
       "color": "#e34c26"
     },
     {
@@ -6262,12 +6272,12 @@
     },
     {
       "name": "Python",
-      "size": 424942,
+      "size": 514592,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "size": 340539,
+      "size": 338754,
       "color": "#f1e05a"
     },
     {
@@ -6302,7 +6312,7 @@
     },
     {
       "name": "Jinja",
-      "size": 8358,
+      "size": 8333,
       "color": "#a52a22"
     },
     {
@@ -6348,17 +6358,17 @@
   ],
   "totalStats": {
     "stars": 3,
-    "commits": 2420,
+    "commits": 2439,
     "prs": 45,
     "issues": 2,
     "repoCount": 48
   },
-  "updatedAt": "2026-04-12T01:24:59.445Z",
+  "updatedAt": "2026-04-13T01:27:22.106Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2420 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2439 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6372,7 +6382,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 56 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 57 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6402,22 +6412,22 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2031,
+      "commits": 2052,
       "repos": [
-        "tree-pdf-viewer",
-        "metrics",
         "free-models-list",
+        "metrics",
+        "tree-pdf-viewer",
         "gh-action-docker",
         "weasyprint-texlive",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "mkdocs-docker",
         "whk",
+        "mkdocs-fontkit",
+        "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-autoblog",
-        "mkdocs-fontkit",
         "gaokao",
         "anki-ewords",
         "gaokao-chinese",
@@ -6440,7 +6450,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 22,
+      "commits": 23,
       "repos": [
         "free-models-list",
         "v2ray-remote-selector",
