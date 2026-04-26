@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2536,
+        "totalContributions": 2558,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-20",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-04-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-22",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-04-23",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-24",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-25",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-26",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-04-25",
+                "contributionCount": 22,
+                "color": "#40c463"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-20",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-22",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-23",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-24",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-25",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-26",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-04-26",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4284,13 +4224,54 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "ai-math-chat-studio",
+      "description": "AI Math & Chat Studio",
+      "url": "https://github.com/RainPPR/ai-math-chat-studio",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-04-25T13:45:45Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 49189,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 311,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 58,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 49558
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-24T01:28:21Z",
+      "pushedAt": "2026-04-25T01:21:41Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5051,7 +5032,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-24T22:39:57Z",
+      "pushedAt": "2026-04-25T23:35:07Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5220,39 +5201,12 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "mkdocs-fontkit",
-      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
-      "url": "https://github.com/raineblog/mkdocs-fontkit",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-04-17T06:10:03Z",
-      "createdAt": "2026-01-18T06:05:37Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 21232,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ],
-        "totalSize": 21232
-      },
-      "owner": "raineblog"
-    },
-    {
       "name": "mkdocs-docker",
       "description": null,
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-04-17T00:27:33Z",
+      "pushedAt": "2026-04-26T01:25:07Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5333,6 +5287,33 @@
           }
         ],
         "totalSize": 109162
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "mkdocs-fontkit",
+      "description": "A static analysis font kit builder. Host Adobe Fonts (Typekit), Google Fonts, and custom fonts locally with single-command build and minification.",
+      "url": "https://github.com/raineblog/mkdocs-fontkit",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-04-17T06:10:03Z",
+      "createdAt": "2026-01-18T06:05:37Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 21232,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 21232
       },
       "owner": "raineblog"
     },
@@ -5805,7 +5786,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-04-24T01:28:21Z",
+      "pushedAt": "2026-04-25T01:21:41Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6312,7 +6293,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31280248,
+      "size": 31280559,
       "color": "#e34c26"
     },
     {
@@ -6332,12 +6313,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 218960,
+      "size": 268149,
       "color": "#3178c6"
     },
     {
       "name": "CSS",
-      "size": 39616,
+      "size": 39674,
       "color": "#663399"
     },
     {
@@ -6408,17 +6389,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2546,
+    "commits": 2567,
     "prs": 45,
     "issues": 2,
-    "repoCount": 48
+    "repoCount": 49
   },
-  "updatedAt": "2026-04-25T01:21:23.761Z",
+  "updatedAt": "2026-04-26T01:42:20.331Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2546 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2567 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6432,14 +6413,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 69 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 70 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 48 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 49 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Silver"
     },
@@ -6462,20 +6443,20 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2163,
+      "commits": 2180,
       "repos": [
+        "ai-math-chat-studio",
         "metrics",
         "free-models-list",
         "tree-pdf-viewer",
         "gh-action-docker",
-        "weasyprint-texlive",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
+        "mkdocs-docker",
         "whk",
         "mkdocs-fontkit",
-        "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-autoblog",
         "gaokao",
