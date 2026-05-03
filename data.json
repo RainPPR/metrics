@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2633,
+        "totalContributions": 2661,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-27",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-28",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-30",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-01",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-02",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-03",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-05-02",
+                "contributionCount": 28,
+                "color": "#40c463"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-03",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-04-27",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-28",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-04-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-03",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4188,7 +4128,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-01T14:38:01Z",
+      "pushedAt": "2026-05-02T15:26:07Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4284,29 +4224,64 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "cpcfinder-data",
-      "description": "抓取 CPC Finder 的数据",
-      "url": "https://github.com/RainPPR/cpcfinder-data",
-      "homepageUrl": "",
+      "name": "ds2api",
+      "description": null,
+      "url": "https://github.com/RainPPR/ds2api",
+      "homepageUrl": "https://ds2api-rainppr.vercel.app",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-01T02:01:45Z",
+      "pushedAt": "2026-05-02T07:48:29Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
+        "name": "Go",
+        "color": "#00ADD8"
       },
       "languages": {
         "edges": [
           {
-            "size": 1586,
+            "size": 1547834,
             "node": {
-              "name": "Python",
-              "color": "#3572A5"
+              "name": "Go",
+              "color": "#00ADD8"
+            }
+          },
+          {
+            "size": 533345,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 16276,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          },
+          {
+            "size": 3721,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2714,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 1669,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
             }
           }
         ],
-        "totalSize": 1586
+        "totalSize": 2105559
       },
       "owner": "RainPPR"
     },
@@ -4317,7 +4292,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-01T01:57:01Z",
+      "pushedAt": "2026-05-02T01:45:55Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4362,6 +4337,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "cpcfinder-data",
+      "description": "抓取 CPC Finder 的数据",
+      "url": "https://github.com/RainPPR/cpcfinder-data",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-01T02:01:45Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1586,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 1586
       },
       "owner": "RainPPR"
     },
@@ -5092,7 +5094,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-01T22:46:07Z",
+      "pushedAt": "2026-05-02T20:39:01Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5840,13 +5842,75 @@
   ],
   "pages": [
     {
+      "name": "ds2api",
+      "description": null,
+      "url": "https://github.com/RainPPR/ds2api",
+      "homepageUrl": "https://ds2api-rainppr.vercel.app",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-02T07:48:29Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Go",
+        "color": "#00ADD8"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1547834,
+            "node": {
+              "name": "Go",
+              "color": "#00ADD8"
+            }
+          },
+          {
+            "size": 533345,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 16276,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          },
+          {
+            "size": 3721,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2714,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 1669,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ],
+        "totalSize": 2105559
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-01T01:57:01Z",
+      "pushedAt": "2026-05-02T01:45:55Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6137,7 +6201,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-01T14:38:01Z",
+      "pushedAt": "2026-05-02T15:26:07Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6353,7 +6417,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31280559,
+      "size": 31282228,
       "color": "#e34c26"
     },
     {
@@ -6362,14 +6426,19 @@
       "color": "#f34b7d"
     },
     {
-      "name": "Python",
-      "size": 514592,
-      "color": "#3572A5"
+      "name": "Go",
+      "size": 1547834,
+      "color": "#00ADD8"
     },
     {
       "name": "JavaScript",
-      "size": 338754,
+      "size": 872099,
       "color": "#f1e05a"
+    },
+    {
+      "name": "Python",
+      "size": 514592,
+      "color": "#3572A5"
     },
     {
       "name": "TypeScript",
@@ -6378,13 +6447,18 @@
     },
     {
       "name": "CSS",
-      "size": 39674,
+      "size": 43395,
       "color": "#663399"
     },
     {
       "name": "Dockerfile",
-      "size": 21508,
+      "size": 24222,
       "color": "#384d54"
+    },
+    {
+      "name": "Shell",
+      "size": 19743,
+      "color": "#89e051"
     },
     {
       "name": "TeX",
@@ -6417,11 +6491,6 @@
       "color": "#012456"
     },
     {
-      "name": "Shell",
-      "size": 3467,
-      "color": "#89e051"
-    },
-    {
       "name": "Makefile",
       "size": 3405,
       "color": "#427819"
@@ -6449,40 +6518,40 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2642,
-    "prs": 45,
+    "commits": 2666,
+    "prs": 48,
     "issues": 2,
-    "repoCount": 49
+    "repoCount": 50
   },
-  "updatedAt": "2026-05-02T01:45:41.804Z",
+  "updatedAt": "2026-05-03T01:49:06.527Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2642 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2666 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
     {
       "id": "multi-linguist",
       "title": "Domain Proficiency",
-      "description": "Proficient in HTML, C++, Python and 19 additional languages. Covers diverse engineering domains.",
+      "description": "Proficient in HTML, C++, Go and 20 additional languages. Covers diverse engineering domains.",
       "icon": "Zap",
       "level": "Gold"
     },
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 76 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 77 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 49 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 50 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
-      "level": "Silver"
+      "level": "Gold"
     },
     {
       "id": "impact-center",
@@ -6503,13 +6572,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2264,
+      "commits": 2262,
       "repos": [
-        "cpcfinder-data",
+        "ds2api",
         "metrics",
+        "cpcfinder-data",
         "free-models-list",
         "ai-math-chat-studio",
-        "tree-pdf-viewer",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6566,6 +6635,14 @@
       "commits": 3,
       "repos": [
         "mkdocs-fontkit"
+      ]
+    },
+    {
+      "login": "google-labs-jules[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/842251?v=4",
+      "commits": 2,
+      "repos": [
+        "whk"
       ]
     }
   ]
