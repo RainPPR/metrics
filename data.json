@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2661,
+        "totalContributions": 2671,
         "weeks": [
           {
             "contributionDays": [
@@ -2032,7 +2032,7 @@
               },
               {
                 "date": "2026-05-02",
-                "contributionCount": 28,
+                "contributionCount": 26,
                 "color": "#40c463"
               }
             ]
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-05-03",
+                "contributionCount": 16,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-05-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-05-03",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-05-04",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-02T15:26:07Z",
+      "pushedAt": "2026-05-03T12:59:25Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4224,64 +4234,97 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "ds2api",
+      "name": "free-models-list",
       "description": null,
-      "url": "https://github.com/RainPPR/ds2api",
-      "homepageUrl": "https://ds2api-rainppr.vercel.app",
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-02T07:48:29Z",
+      "pushedAt": "2026-05-04T01:46:51Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "Go",
-        "color": "#00ADD8"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 1547834,
+            "size": 1497,
             "node": {
-              "name": "Go",
-              "color": "#00ADD8"
+              "name": "Python",
+              "color": "#3572A5"
             }
-          },
+          }
+        ],
+        "totalSize": 1497
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "date-router-cfworker",
+      "description": "一个可以将日期注入链接并重定向的 Cloudflare Workers 工具",
+      "url": "https://github.com/RainPPR/date-router-cfworker",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-03T11:19:25Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
           {
-            "size": 533345,
+            "size": 1590,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
             }
-          },
+          }
+        ],
+        "totalSize": 1590
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "ai-math-chat-studio",
+      "description": "AI Math & Chat Studio",
+      "url": "https://github.com/RainPPR/ai-math-chat-studio",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-03T09:19:02Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
           {
-            "size": 16276,
+            "size": 72276,
             "node": {
-              "name": "Shell",
-              "color": "#89e051"
+              "name": "TypeScript",
+              "color": "#3178c6"
             }
           },
           {
-            "size": 3721,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 2714,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          },
-          {
-            "size": 1669,
+            "size": 311,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
             }
+          },
+          {
+            "size": 58,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
           }
         ],
-        "totalSize": 2105559
+        "totalSize": 72645
       },
       "owner": "RainPPR"
     },
@@ -4292,7 +4335,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-02T01:45:55Z",
+      "pushedAt": "2026-05-03T01:49:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4364,74 +4407,6 @@
           }
         ],
         "totalSize": 1586
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-04-27T01:29:14Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1497,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1497
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "ai-math-chat-studio",
-      "description": "AI Math & Chat Studio",
-      "url": "https://github.com/RainPPR/ai-math-chat-studio",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-04-26T11:58:19Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 70105,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 311,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 58,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 70474
       },
       "owner": "RainPPR"
     },
@@ -5094,7 +5069,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-02T20:39:01Z",
+      "pushedAt": "2026-05-03T16:45:45Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5261,6 +5236,40 @@
         "totalSize": 0
       },
       "owner": "RaineMtF"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-05-03T12:13:30Z",
+      "createdAt": "2025-03-08T11:07:49Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
+      },
+      "owner": "raineblog"
     },
     {
       "name": "mkdocs-docker",
@@ -5485,40 +5494,6 @@
           }
         ],
         "totalSize": 17197
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "raineblog.github.io",
-      "description": "raineblog.github.io",
-      "url": "https://github.com/raineblog/raineblog.github.io",
-      "homepageUrl": "http://raineblog.dpdns.org/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-10T11:24:04Z",
-      "createdAt": "2025-03-08T11:07:49Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "HTML",
-        "color": "#e34c26"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 12822,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1243,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 14065
       },
       "owner": "raineblog"
     },
@@ -5842,75 +5817,13 @@
   ],
   "pages": [
     {
-      "name": "ds2api",
-      "description": null,
-      "url": "https://github.com/RainPPR/ds2api",
-      "homepageUrl": "https://ds2api-rainppr.vercel.app",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-02T07:48:29Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Go",
-        "color": "#00ADD8"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1547834,
-            "node": {
-              "name": "Go",
-              "color": "#00ADD8"
-            }
-          },
-          {
-            "size": 533345,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 16276,
-            "node": {
-              "name": "Shell",
-              "color": "#89e051"
-            }
-          },
-          {
-            "size": 3721,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 2714,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          },
-          {
-            "size": 1669,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          }
-        ],
-        "totalSize": 2105559
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-02T01:45:55Z",
+      "pushedAt": "2026-05-03T01:49:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6201,7 +6114,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-02T15:26:07Z",
+      "pushedAt": "2026-05-03T12:59:25Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6261,6 +6174,40 @@
           }
         ],
         "totalSize": 254125
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-05-03T12:13:30Z",
+      "createdAt": "2025-03-08T11:07:49Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
       },
       "owner": "raineblog"
     },
@@ -6326,40 +6273,6 @@
       "owner": "raineblog"
     },
     {
-      "name": "raineblog.github.io",
-      "description": "raineblog.github.io",
-      "url": "https://github.com/raineblog/raineblog.github.io",
-      "homepageUrl": "http://raineblog.dpdns.org/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-10T11:24:04Z",
-      "createdAt": "2025-03-08T11:07:49Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "HTML",
-        "color": "#e34c26"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 12822,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1243,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 14065
-      },
-      "owner": "raineblog"
-    },
-    {
       "name": "blog",
       "description": "RainPPR's blog",
       "url": "https://github.com/raineblog/blog",
@@ -6417,7 +6330,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31282228,
+      "size": 31280559,
       "color": "#e34c26"
     },
     {
@@ -6426,39 +6339,29 @@
       "color": "#f34b7d"
     },
     {
-      "name": "Go",
-      "size": 1547834,
-      "color": "#00ADD8"
-    },
-    {
-      "name": "JavaScript",
-      "size": 872099,
-      "color": "#f1e05a"
-    },
-    {
       "name": "Python",
       "size": 514592,
       "color": "#3572A5"
     },
     {
+      "name": "JavaScript",
+      "size": 340344,
+      "color": "#f1e05a"
+    },
+    {
       "name": "TypeScript",
-      "size": 289065,
+      "size": 291236,
       "color": "#3178c6"
     },
     {
       "name": "CSS",
-      "size": 43395,
+      "size": 39674,
       "color": "#663399"
     },
     {
       "name": "Dockerfile",
-      "size": 24222,
+      "size": 21508,
       "color": "#384d54"
-    },
-    {
-      "name": "Shell",
-      "size": 19743,
-      "color": "#89e051"
     },
     {
       "name": "TeX",
@@ -6491,6 +6394,11 @@
       "color": "#012456"
     },
     {
+      "name": "Shell",
+      "size": 3467,
+      "color": "#89e051"
+    },
+    {
       "name": "Makefile",
       "size": 3405,
       "color": "#427819"
@@ -6518,31 +6426,31 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2666,
+    "commits": 2673,
     "prs": 48,
     "issues": 2,
     "repoCount": 50
   },
-  "updatedAt": "2026-05-03T01:49:06.527Z",
+  "updatedAt": "2026-05-04T01:49:44.712Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2666 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2673 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
     {
       "id": "multi-linguist",
       "title": "Domain Proficiency",
-      "description": "Proficient in HTML, C++, Go and 20 additional languages. Covers diverse engineering domains.",
+      "description": "Proficient in HTML, C++, Python and 19 additional languages. Covers diverse engineering domains.",
       "icon": "Zap",
       "level": "Gold"
     },
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 77 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 78 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6572,22 +6480,22 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2262,
+      "commits": 2279,
       "repos": [
-        "ds2api",
+        "free-models-list",
+        "date-router-cfworker",
+        "ai-math-chat-studio",
         "metrics",
         "cpcfinder-data",
-        "free-models-list",
-        "ai-math-chat-studio",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
         "whk",
+        "raineblog.github.io",
         "mkdocs-docker",
         "mkdocs-fontkit",
         "mkdocs-katex-ssr",
-        "mkdocs-autoblog",
         "gaokao",
         "anki-ewords",
         "gaokao-chinese",
@@ -6610,10 +6518,10 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 33,
+      "commits": 34,
       "repos": [
-        "cpcfinder-data",
         "free-models-list",
+        "cpcfinder-data",
         "v2ray-remote-selector",
         "memory"
       ]
@@ -6643,6 +6551,14 @@
       "commits": 2,
       "repos": [
         "whk"
+      ]
+    },
+    {
+      "login": "cloudflare-workers-and-pages[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/85455?v=4",
+      "commits": 1,
+      "repos": [
+        "date-router-cfworker"
       ]
     }
   ]
