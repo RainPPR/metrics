@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2710,
+        "totalContributions": 2724,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-05-04",
-                "contributionCount": 7,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-05",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-10",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-05-09",
+                "contributionCount": 14,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-10",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-05-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-10",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-10",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4188,7 +4128,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-04T14:54:31Z",
+      "pushedAt": "2026-05-09T15:33:34Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4198,7 +4138,7 @@
       "languages": {
         "edges": [
           {
-            "size": 114826,
+            "size": 142004,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4247,7 +4187,7 @@
             }
           }
         ],
-        "totalSize": 254125
+        "totalSize": 281303
       },
       "owner": "raineblog"
     },
@@ -4284,13 +4224,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "mujing-json-script",
+      "description": "用有道的数据刷一遍幕境的词典文件",
+      "url": "https://github.com/RainPPR/mujing-json-script",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-09T13:07:13Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 57847,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 57847
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-08T01:59:17Z",
+      "pushedAt": "2026-05-09T01:52:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4720,33 +4687,6 @@
       "owner": "RainPPR"
     },
     {
-      "name": "mujing-json-script",
-      "description": "用有道的数据刷一遍幕境的词典文件",
-      "url": "https://github.com/RainPPR/mujing-json-script",
-      "homepageUrl": "",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-19T14:05:34Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 57847,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 57847
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "dns-detector",
       "description": "DNS Detector 是一款高效、轻量级的本地 DNS 测速与准确性分析工具。它旨在帮助用户测量不同 DNS 服务器在各种解析方法（IPv4、IPv6、DoH）下的真实性能，特别是针对中国大陆环境下的 DNS 污染情况进行直观展示。",
       "url": "https://github.com/RainPPR/dns-detector",
@@ -5146,7 +5086,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-08T19:12:40Z",
+      "pushedAt": "2026-05-09T20:42:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5320,7 +5260,7 @@
       "url": "https://github.com/raineblog/mkdocs-docker",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-05-08T13:31:54Z",
+      "pushedAt": "2026-05-09T05:37:10Z",
       "createdAt": "2026-01-11T10:16:07Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5900,7 +5840,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-08T01:59:17Z",
+      "pushedAt": "2026-05-09T01:52:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6191,7 +6131,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-04T14:54:31Z",
+      "pushedAt": "2026-05-09T15:33:34Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6201,7 +6141,7 @@
       "languages": {
         "edges": [
           {
-            "size": 114826,
+            "size": 142004,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -6250,7 +6190,7 @@
             }
           }
         ],
-        "totalSize": 254125
+        "totalSize": 281303
       },
       "owner": "raineblog"
     },
@@ -6417,7 +6357,7 @@
     },
     {
       "name": "Python",
-      "size": 521207,
+      "size": 548385,
       "color": "#3572A5"
     },
     {
@@ -6503,17 +6443,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2710,
-    "prs": 49,
+    "commits": 2723,
+    "prs": 50,
     "issues": 2,
     "repoCount": 51
   },
-  "updatedAt": "2026-05-09T01:52:32.448Z",
+  "updatedAt": "2026-05-10T01:52:26.428Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2710 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2723 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6527,7 +6467,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 83 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 84 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6557,20 +6497,20 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2312,
+      "commits": 2374,
       "repos": [
+        "mujing-json-script",
         "metrics",
         "poe-free-models",
         "free-models-list",
         "date-router-cfworker",
-        "ai-math-chat-studio",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
+        "whk",
         "mkdocs-docker",
         "mkdocs-fontkit",
-        "whk",
         "raineblog.github.io",
         "mkdocs-katex-ssr",
         "gaokao",
@@ -6595,8 +6535,9 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 27,
+      "commits": 53,
       "repos": [
+        "mujing-json-script",
         "poe-free-models",
         "free-models-list",
         "v2ray-remote-selector",
