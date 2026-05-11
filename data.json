@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2724,
+        "totalContributions": 2722,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-05-10",
+                "contributionCount": 8,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-05-11",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-05-10",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-05-11",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-09T15:33:34Z",
+      "pushedAt": "2026-05-10T10:29:36Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4224,13 +4234,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "mujing-json-script",
-      "description": "用有道的数据刷一遍幕境的词典文件",
-      "url": "https://github.com/RainPPR/mujing-json-script",
-      "homepageUrl": "",
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-09T13:07:13Z",
+      "pushedAt": "2026-05-11T01:57:26Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4239,14 +4249,41 @@
       "languages": {
         "edges": [
           {
-            "size": 57847,
+            "size": 1497,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 57847
+        "totalSize": 1497
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "poe-free-models",
+      "description": "Fetch Poe Free Models",
+      "url": "https://github.com/RainPPR/poe-free-models",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-11T01:49:21Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 6615,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 6615
       },
       "owner": "RainPPR"
     },
@@ -4257,7 +4294,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-09T01:52:49Z",
+      "pushedAt": "2026-05-10T01:52:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4306,13 +4343,13 @@
       "owner": "RainPPR"
     },
     {
-      "name": "poe-free-models",
-      "description": "Fetch Poe Free Models",
-      "url": "https://github.com/RainPPR/poe-free-models",
-      "homepageUrl": null,
+      "name": "mujing-json-script",
+      "description": "用有道的数据刷一遍幕境的词典文件",
+      "url": "https://github.com/RainPPR/mujing-json-script",
+      "homepageUrl": "",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-05T13:14:00Z",
+      "pushedAt": "2026-05-09T13:07:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4321,41 +4358,14 @@
       "languages": {
         "edges": [
           {
-            "size": 6615,
+            "size": 57847,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 6615
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-04T01:46:51Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1497,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1497
+        "totalSize": 57847
       },
       "owner": "RainPPR"
     },
@@ -5086,7 +5096,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-09T20:42:11Z",
+      "pushedAt": "2026-05-10T17:49:42Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5840,7 +5850,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-09T01:52:49Z",
+      "pushedAt": "2026-05-10T01:52:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6131,7 +6141,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-09T15:33:34Z",
+      "pushedAt": "2026-05-10T10:29:36Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6443,17 +6453,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2723,
+    "commits": 2721,
     "prs": 50,
     "issues": 2,
     "repoCount": 51
   },
-  "updatedAt": "2026-05-10T01:52:26.428Z",
+  "updatedAt": "2026-05-11T02:01:15.525Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2723 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2721 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6467,7 +6477,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 84 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 85 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6497,12 +6507,12 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2374,
+      "commits": 2382,
       "repos": [
-        "mujing-json-script",
-        "metrics",
-        "poe-free-models",
         "free-models-list",
+        "poe-free-models",
+        "metrics",
+        "mujing-json-script",
         "date-router-cfworker",
         "v2rayse",
         "proxy-dector",
@@ -6535,11 +6545,11 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 53,
+      "commits": 55,
       "repos": [
-        "mujing-json-script",
-        "poe-free-models",
         "free-models-list",
+        "poe-free-models",
+        "mujing-json-script",
         "v2ray-remote-selector",
         "memory"
       ]
