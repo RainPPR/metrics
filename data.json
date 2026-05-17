@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2745,
+        "totalContributions": 2782,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-05-11",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-05-12",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-13",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-14",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-15",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-17",
-                "contributionCount": 16,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -1993,7 +1954,7 @@
               },
               {
                 "date": "2026-05-02",
-                "contributionCount": 26,
+                "contributionCount": 27,
                 "color": "#40c463"
               }
             ]
@@ -2002,8 +1963,8 @@
             "contributionDays": [
               {
                 "date": "2026-05-03",
-                "contributionCount": 16,
-                "color": "#9be9a8"
+                "contributionCount": 19,
+                "color": "#40c463"
               },
               {
                 "date": "2026-05-04",
@@ -2032,7 +1993,7 @@
               },
               {
                 "date": "2026-05-09",
-                "contributionCount": 14,
+                "contributionCount": 16,
                 "color": "#9be9a8"
               }
             ]
@@ -2041,7 +2002,7 @@
             "contributionDays": [
               {
                 "date": "2026-05-10",
-                "contributionCount": 8,
+                "contributionCount": 9,
                 "color": "#9be9a8"
               },
               {
@@ -2056,7 +2017,7 @@
               },
               {
                 "date": "2026-05-13",
-                "contributionCount": 3,
+                "contributionCount": 4,
                 "color": "#9be9a8"
               },
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-05-16",
+                "contributionCount": 29,
+                "color": "#40c463"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-17",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 98,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-05-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-12",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-13",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-14",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-15",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-05-17",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-05-17",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4188,7 +4128,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-13T14:55:20Z",
+      "pushedAt": "2026-05-16T12:19:56Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4290,7 +4230,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-15T02:04:00Z",
+      "pushedAt": "2026-05-16T01:56:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5146,7 +5086,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-15T21:57:45Z",
+      "pushedAt": "2026-05-16T20:02:48Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5900,7 +5840,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-15T02:04:00Z",
+      "pushedAt": "2026-05-16T01:56:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6191,7 +6131,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-13T14:55:20Z",
+      "pushedAt": "2026-05-16T12:19:56Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6503,17 +6443,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2744,
+    "commits": 2781,
     "prs": 50,
     "issues": 2,
     "repoCount": 51
   },
-  "updatedAt": "2026-05-16T01:56:04.117Z",
+  "updatedAt": "2026-05-17T01:58:20.098Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2744 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2781 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6527,7 +6467,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 90 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 91 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6557,7 +6497,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2405,
+      "commits": 2438,
       "repos": [
         "metrics",
         "free-models-list",
@@ -6616,19 +6556,19 @@
       ]
     },
     {
+      "login": "google-labs-jules[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/842251?v=4",
+      "commits": 6,
+      "repos": [
+        "whk"
+      ]
+    },
+    {
       "login": "actions-user",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "commits": 3,
       "repos": [
         "mkdocs-fontkit"
-      ]
-    },
-    {
-      "login": "google-labs-jules[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/842251?v=4",
-      "commits": 2,
-      "repos": [
-        "whk"
       ]
     },
     {
