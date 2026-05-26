@@ -5,9 +5,9 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
-      "followers": 17,
+      "followers": 16,
       "calendar": {
-        "totalContributions": 2803,
+        "totalContributions": 2813,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,6 +2046,11 @@
               },
               {
                 "date": "2026-05-25",
+                "contributionCount": 10,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-05-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4102,6 +4107,11 @@
                 "date": "2026-05-25",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-05-26",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4138,7 +4148,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-24T12:44:29Z",
+      "pushedAt": "2026-05-25T11:24:32Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4234,6 +4244,102 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "text-cleaner",
+      "description": "文字清洗助手",
+      "url": "https://github.com/RainPPR/text-cleaner",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-25T09:01:24Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 41488,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 334,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 311,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ],
+        "totalSize": 42133
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "metrics",
+      "description": "GitHub Repository Showcase",
+      "url": "https://github.com/RainPPR/metrics",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-25T02:14:52Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 59205,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 43608,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13667,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 680,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 310,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
@@ -4284,102 +4390,6 @@
           }
         ],
         "totalSize": 6615
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "metrics",
-      "description": "GitHub Repository Showcase",
-      "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-24T02:06:51Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 59205,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 43608,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13667,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 680,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 310,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "text-cleaner",
-      "description": "文字清洗助手",
-      "url": "https://github.com/RainPPR/text-cleaner",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-23T14:28:35Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 41488,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 334,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 311,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          }
-        ],
-        "totalSize": 42133
       },
       "owner": "RainPPR"
     },
@@ -5137,7 +5147,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-24T13:12:35Z",
+      "pushedAt": "2026-05-25T19:23:54Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5714,6 +5724,40 @@
       "owner": "raineblog"
     },
     {
+      "name": "anki-ewords",
+      "description": "生成可导入 Anki 的 csv 单词表",
+      "url": "https://github.com/rainewhk/anki-ewords",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-05-25T05:11:18Z",
+      "createdAt": "2026-02-17T13:39:40Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 8865,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 24,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 8889
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "gaokao",
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
@@ -5737,40 +5781,6 @@
           }
         ],
         "totalSize": 23128
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "anki-ewords",
-      "description": "生成可导入 Anki 的 csv 单词表",
-      "url": "https://github.com/rainewhk/anki-ewords",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-03-22T06:50:02Z",
-      "createdAt": "2026-02-17T13:39:40Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 8104,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 24,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          }
-        ],
-        "totalSize": 8128
       },
       "owner": "rainewhk"
     },
@@ -5891,7 +5901,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-24T02:06:51Z",
+      "pushedAt": "2026-05-25T02:14:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6182,7 +6192,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-24T12:44:29Z",
+      "pushedAt": "2026-05-25T11:24:32Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6408,7 +6418,7 @@
     },
     {
       "name": "Python",
-      "size": 567946,
+      "size": 568707,
       "color": "#3572A5"
     },
     {
@@ -6494,17 +6504,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2800,
+    "commits": 2810,
     "prs": 50,
     "issues": 2,
     "repoCount": 52
   },
-  "updatedAt": "2026-05-25T02:14:37.976Z",
+  "updatedAt": "2026-05-26T02:05:18.438Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2800 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2810 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6518,7 +6528,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 99 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 100 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6532,7 +6542,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 19 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 18 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -6548,12 +6558,12 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2434,
+      "commits": 2444,
       "repos": [
+        "text-cleaner",
+        "metrics",
         "free-models-list",
         "poe-free-models",
-        "metrics",
-        "text-cleaner",
         "ai-math-chat-studio",
         "v2rayse",
         "proxy-dector",
@@ -6564,8 +6574,8 @@
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
         "raineblog.github.io",
-        "gaokao",
         "anki-ewords",
+        "gaokao",
         "gaokao-chinese",
         "words-bonus",
         "english-readings"
