@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2840,
+        "totalContributions": 2847,
         "weeks": [
           {
             "contributionDays": [
@@ -2061,6 +2061,11 @@
               },
               {
                 "date": "2026-05-28",
+                "contributionCount": 7,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-05-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4132,6 +4137,11 @@
                 "date": "2026-05-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-05-29",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4168,7 +4178,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-26T13:46:23Z",
+      "pushedAt": "2026-05-28T14:07:52Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4264,13 +4274,63 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "action-image-resize",
+      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
+      "url": "https://github.com/RainPPR/action-image-resize",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-28T13:35:36Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14867,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 446,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 15313
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "RainPPR",
+      "description": null,
+      "url": "https://github.com/RainPPR/RainPPR",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 2,
+      "pushedAt": "2026-05-28T03:24:25Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-27T02:13:24Z",
+      "pushedAt": "2026-05-28T01:57:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4734,40 +4794,6 @@
       "owner": "RainPPR"
     },
     {
-      "name": "action-image-resize",
-      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
-      "url": "https://github.com/RainPPR/action-image-resize",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-02-22T14:15:23Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14629,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 359,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          }
-        ],
-        "totalSize": 14988
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "dns-detector",
       "description": "DNS Detector 是一款高效、轻量级的本地 DNS 测速与准确性分析工具。它旨在帮助用户测量不同 DNS 服务器在各种解析方法（IPv4、IPv6、DoH）下的真实性能，特别是针对中国大陆环境下的 DNS 污染情况进行直观展示。",
       "url": "https://github.com/RainPPR/dns-detector",
@@ -4834,22 +4860,6 @@
           }
         ],
         "totalSize": 59205
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "RainPPR",
-      "description": null,
-      "url": "https://github.com/RainPPR/RainPPR",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 2,
-      "pushedAt": "2026-01-30T07:14:31Z",
-      "isPrivate": false,
-      "primaryLanguage": null,
-      "languages": {
-        "edges": [],
-        "totalSize": 0
       },
       "owner": "RainPPR"
     },
@@ -5167,7 +5177,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-27T14:27:47Z",
+      "pushedAt": "2026-05-28T14:36:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5948,7 +5958,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-27T02:13:24Z",
+      "pushedAt": "2026-05-28T01:57:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6239,7 +6249,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-26T13:46:23Z",
+      "pushedAt": "2026-05-28T14:07:52Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6475,7 +6485,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 342722,
+      "size": 342960,
       "color": "#f1e05a"
     },
     {
@@ -6485,7 +6495,7 @@
     },
     {
       "name": "Dockerfile",
-      "size": 21508,
+      "size": 21595,
       "color": "#384d54"
     },
     {
@@ -6551,17 +6561,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2838,
+    "commits": 2845,
     "prs": 50,
     "issues": 2,
     "repoCount": 53
   },
-  "updatedAt": "2026-05-28T01:57:06.599Z",
+  "updatedAt": "2026-05-29T02:04:20.626Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2838 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2845 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6575,7 +6585,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 102 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 103 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6603,15 +6613,26 @@
   ],
   "contributors": [
     {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "commits": 7019,
+      "repos": [
+        "RainPPR",
+        "free-models-list",
+        "v2ray-remote-selector",
+        "memory"
+      ]
+    },
+    {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2467,
+      "commits": 2540,
       "repos": [
+        "action-image-resize",
+        "RainPPR",
         "metrics",
         "text-cleaner",
         "free-models-list",
-        "poe-free-models",
-        "ai-math-chat-studio",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6638,17 +6659,6 @@
         "memory",
         "RaineMtF",
         "whk"
-      ]
-    },
-    {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 33,
-      "repos": [
-        "free-models-list",
-        "poe-free-models",
-        "v2ray-remote-selector",
-        "memory"
       ]
     },
     {
