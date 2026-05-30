@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2847,
+        "totalContributions": 2853,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-05-29",
+                "contributionCount": 6,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-05-30",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4142,6 +4147,11 @@
                 "date": "2026-05-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-05-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4274,6 +4284,61 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "metrics",
+      "description": "GitHub Repository Showcase",
+      "url": "https://github.com/RainPPR/metrics",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-29T02:04:37Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 59205,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 43608,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13667,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 680,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 310,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "action-image-resize",
       "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
       "url": "https://github.com/RainPPR/action-image-resize",
@@ -4320,61 +4385,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "metrics",
-      "description": "GitHub Repository Showcase",
-      "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-28T01:57:21Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 59205,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 43608,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13667,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 680,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 310,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 117470
       },
       "owner": "RainPPR"
     },
@@ -5177,7 +5187,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-28T14:36:06Z",
+      "pushedAt": "2026-05-29T21:52:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5958,7 +5968,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-28T01:57:21Z",
+      "pushedAt": "2026-05-29T02:04:37Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6561,17 +6571,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2845,
+    "commits": 2851,
     "prs": 50,
     "issues": 2,
     "repoCount": 53
   },
-  "updatedAt": "2026-05-29T02:04:20.626Z",
+  "updatedAt": "2026-05-30T01:59:03.379Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2845 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2851 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6585,7 +6595,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 103 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 104 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6626,11 +6636,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2540,
+      "commits": 2546,
       "repos": [
+        "metrics",
         "action-image-resize",
         "RainPPR",
-        "metrics",
         "text-cleaner",
         "free-models-list",
         "v2rayse",
