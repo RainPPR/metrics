@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 2863,
+        "totalContributions": 2876,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-05-31",
+                "contributionCount": 13,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-01",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-05-31",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-06-01",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4128,7 +4138,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-28T14:07:52Z",
+      "pushedAt": "2026-05-31T11:58:08Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4224,13 +4234,108 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-01T02:33:12Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 1497,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 1497
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "text-cleaner",
+      "description": "文字清洗助手",
+      "url": "https://github.com/RainPPR/text-cleaner",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-31T11:52:04Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 46597,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 334,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 311,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ],
+        "totalSize": 47242
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "poe-free-models",
+      "description": "Fetch Poe Free Models",
+      "url": "https://github.com/RainPPR/poe-free-models",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-05-31T05:49:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 6615,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 6615
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-30T01:59:17Z",
+      "pushedAt": "2026-05-31T02:15:00Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4325,101 +4430,6 @@
       "languages": {
         "edges": [],
         "totalSize": 0
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "text-cleaner",
-      "description": "文字清洗助手",
-      "url": "https://github.com/RainPPR/text-cleaner",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-25T09:01:24Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 41488,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 334,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 311,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          }
-        ],
-        "totalSize": 42133
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-25T02:11:07Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 1497,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 1497
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "poe-free-models",
-      "description": "Fetch Poe Free Models",
-      "url": "https://github.com/RainPPR/poe-free-models",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-05-25T02:00:20Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 6615,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 6615
       },
       "owner": "RainPPR"
     },
@@ -5127,7 +5137,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-30T22:59:57Z",
+      "pushedAt": "2026-05-31T18:17:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5908,7 +5918,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-05-30T01:59:17Z",
+      "pushedAt": "2026-05-31T02:15:00Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6199,7 +6209,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-05-28T14:07:52Z",
+      "pushedAt": "2026-05-31T11:58:08Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6430,7 +6440,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 359273,
+      "size": 364382,
       "color": "#3178c6"
     },
     {
@@ -6511,17 +6521,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 2861,
+    "commits": 2874,
     "prs": 50,
     "issues": 2,
     "repoCount": 53
   },
-  "updatedAt": "2026-05-31T02:14:46.076Z",
+  "updatedAt": "2026-06-01T02:36:25.357Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 2861 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 2874 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6535,7 +6545,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 105 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 106 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6563,26 +6573,15 @@
   ],
   "contributors": [
     {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 7019,
-      "repos": [
-        "RainPPR",
-        "free-models-list",
-        "v2ray-remote-selector",
-        "memory"
-      ]
-    },
-    {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2556,
+      "commits": 2524,
       "repos": [
+        "free-models-list",
+        "text-cleaner",
+        "poe-free-models",
         "metrics",
         "action-image-resize",
-        "RainPPR",
-        "text-cleaner",
-        "free-models-list",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6612,6 +6611,17 @@
       ]
     },
     {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "commits": 35,
+      "repos": [
+        "free-models-list",
+        "poe-free-models",
+        "v2ray-remote-selector",
+        "memory"
+      ]
+    },
+    {
       "login": "dependabot[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
       "commits": 12,
@@ -6628,6 +6638,14 @@
       "commits": 3,
       "repos": [
         "mkdocs-fontkit"
+      ]
+    },
+    {
+      "login": "cloudflare-workers-and-pages[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/85455?v=4",
+      "commits": 1,
+      "repos": [
+        "text-cleaner"
       ]
     }
   ]
