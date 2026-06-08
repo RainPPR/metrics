@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 3943,
+        "totalContributions": 3945,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-06-07",
+                "contributionCount": 2,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-08",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-06-07",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-06-08",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4224,54 +4234,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "ai-math-chat-studio",
-      "description": "AI Math & Chat Studio",
-      "url": "https://github.com/RainPPR/ai-math-chat-studio",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-06-06T05:26:12Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 109986,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 311,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 58,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 110355
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-06T04:18:00Z",
+      "pushedAt": "2026-06-07T04:14:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4298,7 +4267,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-06T03:17:21Z",
+      "pushedAt": "2026-06-07T02:47:46Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4325,7 +4294,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-06T02:03:30Z",
+      "pushedAt": "2026-06-07T02:31:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4370,6 +4339,47 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "ai-math-chat-studio",
+      "description": "AI Math & Chat Studio",
+      "url": "https://github.com/RainPPR/ai-math-chat-studio",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-06T05:26:12Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 109986,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 311,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 58,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 110355
       },
       "owner": "RainPPR"
     },
@@ -5127,7 +5137,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-06T17:22:10Z",
+      "pushedAt": "2026-06-07T17:21:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5136,14 +5146,21 @@
       "languages": {
         "edges": [
           {
-            "size": 12306,
+            "size": 12300,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
+          },
+          {
+            "size": 68,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
           }
         ],
-        "totalSize": 12306
+        "totalSize": 12368
       },
       "owner": "RaineMtF"
     },
@@ -5709,7 +5726,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-06-06T05:57:14Z",
+      "pushedAt": "2026-06-07T06:30:31Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -5935,7 +5952,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-06T02:03:30Z",
+      "pushedAt": "2026-06-07T02:31:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6417,7 +6434,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-06-06T05:57:14Z",
+      "pushedAt": "2026-06-07T06:30:31Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6479,7 +6496,7 @@
     },
     {
       "name": "Python",
-      "size": 621831,
+      "size": 621825,
       "color": "#3572A5"
     },
     {
@@ -6533,14 +6550,14 @@
       "color": "#012456"
     },
     {
+      "name": "Makefile",
+      "size": 3473,
+      "color": "#427819"
+    },
+    {
       "name": "Shell",
       "size": 3467,
       "color": "#89e051"
-    },
-    {
-      "name": "Makefile",
-      "size": 3405,
-      "color": "#427819"
     },
     {
       "name": "Typst",
@@ -6565,17 +6582,17 @@
   ],
   "totalStats": {
     "stars": 4,
-    "commits": 3939,
+    "commits": 3941,
     "prs": 52,
     "issues": 2,
     "repoCount": 54
   },
-  "updatedAt": "2026-06-07T02:30:51.998Z",
+  "updatedAt": "2026-06-08T02:34:57.632Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 3939 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 3941 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6589,7 +6606,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 112 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 113 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6621,10 +6638,10 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1474,
       "repos": [
-        "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
+        "ai-math-chat-studio",
         "text-cleaner",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6655,7 +6672,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 51,
+      "commits": 54,
       "repos": [
         "free-models-list",
         "poe-free-models",
