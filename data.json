@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 15,
       "calendar": {
-        "totalContributions": 3988,
+        "totalContributions": 4039,
         "weeks": [
           {
             "contributionDays": [
@@ -2056,12 +2056,17 @@
               },
               {
                 "date": "2026-06-10",
-                "contributionCount": 5,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-06-11",
-                "contributionCount": 3,
+                "contributionCount": 49,
+                "color": "#30a14e"
+              },
+              {
+                "date": "2026-06-12",
+                "contributionCount": 4,
                 "color": "#9be9a8"
               }
             ]
@@ -4132,6 +4137,11 @@
                 "date": "2026-06-11",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-06-12",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4168,7 +4178,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-10T15:04:34Z",
+      "pushedAt": "2026-06-11T16:02:17Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4291,43 +4301,36 @@
       "owner": "rainewhk"
     },
     {
-      "name": "latency-matrix",
-      "description": "LatencyMatrix",
-      "url": "https://github.com/RainPPR/latency-matrix",
+      "name": "freeproxy-world-scraper",
+      "description": null,
+      "url": "https://github.com/RainPPR/freeproxy-world-scraper",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-11T01:49:01Z",
+      "pushedAt": "2026-06-12T02:13:24Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 29273,
+            "size": 18465,
             "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
+              "name": "Python",
+              "color": "#3572A5"
             }
           },
           {
-            "size": 311,
+            "size": 8143,
             "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 23,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
+              "name": "JavaScript",
+              "color": "#f1e05a"
             }
           }
         ],
-        "totalSize": 29607
+        "totalSize": 26608
       },
       "owner": "RainPPR"
     },
@@ -4338,7 +4341,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-10T04:01:05Z",
+      "pushedAt": "2026-06-11T04:15:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4365,7 +4368,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-10T02:41:46Z",
+      "pushedAt": "2026-06-11T02:51:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4392,7 +4395,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-10T02:12:42Z",
+      "pushedAt": "2026-06-11T02:35:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4437,6 +4440,47 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "latency-matrix",
+      "description": "LatencyMatrix",
+      "url": "https://github.com/RainPPR/latency-matrix",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-11T01:49:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 29273,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 311,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 29607
       },
       "owner": "RainPPR"
     },
@@ -6023,7 +6067,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-10T02:12:42Z",
+      "pushedAt": "2026-06-11T02:35:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6314,7 +6358,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-10T15:04:34Z",
+      "pushedAt": "2026-06-11T16:02:17Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6567,7 +6611,7 @@
     },
     {
       "name": "Python",
-      "size": 639574,
+      "size": 658039,
       "color": "#3572A5"
     },
     {
@@ -6577,7 +6621,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 342960,
+      "size": 351103,
       "color": "#f1e05a"
     },
     {
@@ -6653,17 +6697,17 @@
   ],
   "totalStats": {
     "stars": 5,
-    "commits": 3982,
+    "commits": 4032,
     "prs": 53,
     "issues": 2,
-    "repoCount": 55
+    "repoCount": 56
   },
-  "updatedAt": "2026-06-11T02:35:03.089Z",
+  "updatedAt": "2026-06-12T02:29:54.161Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 3982 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4032 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6677,14 +6721,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 117 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 118 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 55 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 56 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -6707,13 +6751,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1508,
+      "commits": 1556,
       "repos": [
-        "latency-matrix",
+        "freeproxy-world-scraper",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "ai-math-chat-studio",
+        "latency-matrix",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6731,6 +6775,20 @@
       ]
     },
     {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "commits": 78,
+      "repos": [
+        "freeproxy-world-scraper",
+        "free-models-list",
+        "poe-free-models",
+        "v2rayse",
+        "v2ray-remote-selector",
+        "memory",
+        "Chemistry-Note-RAG"
+      ]
+    },
+    {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
       "commits": 68,
@@ -6739,19 +6797,6 @@
         "memory",
         "RaineMtF",
         "whk"
-      ]
-    },
-    {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 66,
-      "repos": [
-        "free-models-list",
-        "poe-free-models",
-        "v2rayse",
-        "v2ray-remote-selector",
-        "memory",
-        "Chemistry-Note-RAG"
       ]
     },
     {
