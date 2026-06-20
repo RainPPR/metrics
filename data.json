@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4072,
+        "totalContributions": 4080,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-06-19",
+                "contributionCount": 8,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-20",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2081,7 +2086,7 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 100,
+        "totalContributions": 102,
         "weeks": [
           {
             "contributionDays": [
@@ -4140,6 +4145,11 @@
               },
               {
                 "date": "2026-06-19",
+                "contributionCount": 2,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-20",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4178,7 +4188,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-18T16:11:06Z",
+      "pushedAt": "2026-06-19T14:45:31Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4362,7 +4372,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T18:35:30Z",
+      "pushedAt": "2026-06-19T18:06:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4390,13 +4400,47 @@
       "owner": "RainPPR"
     },
     {
+      "name": "claude-export-document",
+      "description": "Claude 导出 ZIP 之 conversations.json 格式文档",
+      "url": "https://github.com/RainPPR/claude-export-document",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-19T10:01:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Rust",
+        "color": "#dea584"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 108962,
+            "node": {
+              "name": "Rust",
+              "color": "#dea584"
+            }
+          },
+          {
+            "size": 7596,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 116558
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T04:16:46Z",
+      "pushedAt": "2026-06-19T04:44:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4423,7 +4467,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T02:49:40Z",
+      "pushedAt": "2026-06-19T03:35:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4450,7 +4494,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T02:35:58Z",
+      "pushedAt": "2026-06-19T02:51:57Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6081,7 +6125,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T02:35:58Z",
+      "pushedAt": "2026-06-19T02:51:57Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6372,7 +6416,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-18T16:11:06Z",
+      "pushedAt": "2026-06-19T14:45:31Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6632,7 +6676,7 @@
     },
     {
       "name": "Python",
-      "size": 671499,
+      "size": 679095,
       "color": "#3572A5"
     },
     {
@@ -6644,6 +6688,11 @@
       "name": "JavaScript",
       "size": 351263,
       "color": "#f1e05a"
+    },
+    {
+      "name": "Rust",
+      "size": 123447,
+      "color": "#dea584"
     },
     {
       "name": "CSS",
@@ -6664,11 +6713,6 @@
       "name": "Jinja",
       "size": 15980,
       "color": "#a52a22"
-    },
-    {
-      "name": "Rust",
-      "size": 14485,
-      "color": "#dea584"
     },
     {
       "name": "Lua",
@@ -6723,17 +6767,17 @@
   ],
   "totalStats": {
     "stars": 6,
-    "commits": 4064,
+    "commits": 4073,
     "prs": 54,
     "issues": 2,
-    "repoCount": 56
+    "repoCount": 57
   },
-  "updatedAt": "2026-06-19T02:51:42.464Z",
+  "updatedAt": "2026-06-20T02:12:40.454Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4064 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4073 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6747,14 +6791,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 124 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 125 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 56 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 57 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -6777,10 +6821,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1609,
+      "commits": 1583,
       "repos": [
         "freeproxy-world-scraper",
-        "ai-math-chat-studio",
+        "claude-export-document",
         "free-models-list",
         "poe-free-models",
         "metrics",
@@ -6803,7 +6847,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 129,
+      "commits": 136,
       "repos": [
         "freeproxy-world-scraper",
         "free-models-list",
@@ -6817,9 +6861,8 @@
     {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
-      "commits": 69,
+      "commits": 68,
       "repos": [
-        "ai-math-chat-studio",
         "proxy-dector",
         "memory",
         "RaineMtF",
