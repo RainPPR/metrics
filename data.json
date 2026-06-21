@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4080,
+        "totalContributions": 4091,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-06-15",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-17",
-                "contributionCount": 6,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-06-18",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-06-19",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-20",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-06-20",
+                "contributionCount": 11,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-06-21",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2086,47 +2056,8 @@
       "bio": "",
       "followers": 2,
       "calendar": {
-        "totalContributions": 102,
+        "totalContributions": 103,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-06-15",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-17",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-18",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-19",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-20",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4150,6 +4081,15 @@
               },
               {
                 "date": "2026-06-20",
+                "contributionCount": 1,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-06-21",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4188,7 +4128,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-19T14:45:31Z",
+      "pushedAt": "2026-06-20T15:47:19Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4259,13 +4199,40 @@
       "owner": "raineblog"
     },
     {
+      "name": "gaokao",
+      "description": "高考试题 datasets 汇总",
+      "url": "https://github.com/rainewhk/gaokao",
+      "homepageUrl": null,
+      "stargazerCount": 2,
+      "pushedAt": "2026-04-04T12:43:13Z",
+      "createdAt": "2026-04-04T09:54:58Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 23128,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 23128
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "ai-math-chat-studio",
       "description": "AI Math & Chat Studio",
       "url": "https://github.com/RainPPR/ai-math-chat-studio",
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-06-18T05:20:27Z",
+      "pushedAt": "2026-06-20T12:40:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4339,13 +4306,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "gaokao",
-      "description": "高考试题 datasets 汇总",
-      "url": "https://github.com/rainewhk/gaokao",
-      "homepageUrl": null,
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
       "stargazerCount": 1,
-      "pushedAt": "2026-04-04T12:43:13Z",
-      "createdAt": "2026-04-04T09:54:58Z",
+      "pushedAt": "2026-02-22T23:52:21Z",
+      "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4354,14 +4321,14 @@
       "languages": {
         "edges": [
           {
-            "size": 23128,
+            "size": 14514,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 23128
+        "totalSize": 14514
       },
       "owner": "rainewhk"
     },
@@ -4372,7 +4339,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-19T18:06:15Z",
+      "pushedAt": "2026-06-20T17:34:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4400,47 +4367,13 @@
       "owner": "RainPPR"
     },
     {
-      "name": "claude-export-document",
-      "description": "Claude 导出 ZIP 之 conversations.json 格式文档",
-      "url": "https://github.com/RainPPR/claude-export-document",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-06-19T10:01:07Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Rust",
-        "color": "#dea584"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 108962,
-            "node": {
-              "name": "Rust",
-              "color": "#dea584"
-            }
-          },
-          {
-            "size": 7596,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 116558
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-19T04:44:36Z",
+      "pushedAt": "2026-06-20T03:58:43Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4467,7 +4400,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-19T03:35:21Z",
+      "pushedAt": "2026-06-20T02:39:19Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4494,7 +4427,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-19T02:51:57Z",
+      "pushedAt": "2026-06-20T02:12:55Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4539,6 +4472,40 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "claude-export-document",
+      "description": "Claude 导出 ZIP 之 conversations.json 格式文档",
+      "url": "https://github.com/RainPPR/claude-export-document",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-19T10:01:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Rust",
+        "color": "#dea584"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 108962,
+            "node": {
+              "name": "Rust",
+              "color": "#dea584"
+            }
+          },
+          {
+            "size": 7596,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 116558
       },
       "owner": "RainPPR"
     },
@@ -6009,33 +5976,6 @@
       "owner": "rainewhk"
     },
     {
-      "name": "gaokao-chinese",
-      "description": "高考语文",
-      "url": "https://github.com/rainewhk/gaokao-chinese",
-      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-02-22T23:52:21Z",
-      "createdAt": "2026-02-15T11:43:33Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14514,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 14514
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "words-bonus",
       "description": "让人工智能整理、补充英语词汇积累的工具。",
       "url": "https://github.com/rainewhk/words-bonus",
@@ -6125,7 +6065,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-19T02:51:57Z",
+      "pushedAt": "2026-06-20T02:12:55Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6416,7 +6356,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-19T14:45:31Z",
+      "pushedAt": "2026-06-20T15:47:19Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6640,7 +6580,7 @@
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 0,
+      "stargazerCount": 1,
       "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
@@ -6766,18 +6706,18 @@
     }
   ],
   "totalStats": {
-    "stars": 6,
-    "commits": 4073,
-    "prs": 54,
+    "stars": 8,
+    "commits": 4084,
+    "prs": 55,
     "issues": 2,
     "repoCount": 57
   },
-  "updatedAt": "2026-06-20T02:12:40.454Z",
+  "updatedAt": "2026-06-21T02:37:32.185Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4073 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4084 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6791,7 +6731,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 125 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 126 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6821,10 +6761,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1583,
+      "commits": 1624,
       "repos": [
         "freeproxy-world-scraper",
-        "claude-export-document",
+        "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
@@ -6847,7 +6787,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 136,
+      "commits": 144,
       "repos": [
         "freeproxy-world-scraper",
         "free-models-list",
@@ -6861,8 +6801,9 @@
     {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
-      "commits": 68,
+      "commits": 69,
       "repos": [
+        "ai-math-chat-studio",
         "proxy-dector",
         "memory",
         "RaineMtF",
