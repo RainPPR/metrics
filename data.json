@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4107,
+        "totalContributions": 4117,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,11 +2046,16 @@
               },
               {
                 "date": "2026-06-22",
-                "contributionCount": 10,
+                "contributionCount": 11,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-06-23",
+                "contributionCount": 9,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-24",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4112,6 +4117,11 @@
                 "date": "2026-06-23",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-06-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4148,7 +4158,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-22T05:01:30Z",
+      "pushedAt": "2026-06-23T19:09:44Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4366,7 +4376,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-22T19:38:14Z",
+      "pushedAt": "2026-06-23T18:05:46Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4394,13 +4404,61 @@
       "owner": "RainPPR"
     },
     {
+      "name": "markdown-paddleocr-plainer",
+      "description": "一个桌面 GUI 工具，用于清理 PaddleOCR 等工具生成的 Markdown 文件中的繁杂 HTML 标签和格式，输出纯净的 Markdown 纯文本，方便用于 RAG（检索增强生成）等下游任务。",
+      "url": "https://github.com/RainPPR/markdown-paddleocr-plainer",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-23T11:37:17Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 19278,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 8829,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 4812,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 2746,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ],
+        "totalSize": 35665
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-22T04:45:43Z",
+      "pushedAt": "2026-06-23T03:51:23Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4427,7 +4485,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-22T02:58:12Z",
+      "pushedAt": "2026-06-23T02:33:26Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4454,7 +4512,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-22T02:41:15Z",
+      "pushedAt": "2026-06-23T02:07:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6092,7 +6150,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-22T02:41:15Z",
+      "pushedAt": "2026-06-23T02:07:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6378,46 +6436,12 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "raineblog.github.io",
-      "description": "raineblog.github.io",
-      "url": "https://github.com/raineblog/raineblog.github.io",
-      "homepageUrl": "http://raineblog.dpdns.org/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-06-22T15:24:40Z",
-      "createdAt": "2025-03-08T11:07:49Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "HTML",
-        "color": "#e34c26"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 12822,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1243,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 14065
-      },
-      "owner": "raineblog"
-    },
-    {
       "name": "whk",
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-22T05:01:30Z",
+      "pushedAt": "2026-06-23T19:09:44Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6484,6 +6508,40 @@
           }
         ],
         "totalSize": 315629
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-06-22T15:24:40Z",
+      "createdAt": "2025-03-08T11:07:49Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
       },
       "owner": "raineblog"
     },
@@ -6633,7 +6691,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31281327,
+      "size": 31284073,
       "color": "#e34c26"
     },
     {
@@ -6648,12 +6706,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 433880,
+      "size": 442709,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "size": 351263,
+      "size": 370541,
       "color": "#f1e05a"
     },
     {
@@ -6663,7 +6721,7 @@
     },
     {
       "name": "CSS",
-      "size": 40031,
+      "size": 44843,
       "color": "#663399"
     },
     {
@@ -6734,17 +6792,17 @@
   ],
   "totalStats": {
     "stars": 8,
-    "commits": 4101,
-    "prs": 55,
+    "commits": 4109,
+    "prs": 56,
     "issues": 2,
-    "repoCount": 57
+    "repoCount": 58
   },
-  "updatedAt": "2026-06-23T02:07:01.411Z",
+  "updatedAt": "2026-06-24T02:09:19.543Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4101 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4109 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6758,14 +6816,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 128 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 129 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 57 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 58 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -6788,10 +6846,10 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1648,
+      "commits": 1598,
       "repos": [
         "freeproxy-world-scraper",
-        "ai-math-chat-studio",
+        "markdown-paddleocr-plainer",
         "free-models-list",
         "poe-free-models",
         "metrics",
@@ -6799,8 +6857,8 @@
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "raineblog.github.io",
         "whk",
+        "raineblog.github.io",
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
@@ -6814,7 +6872,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 160,
+      "commits": 167,
       "repos": [
         "freeproxy-world-scraper",
         "free-models-list",
@@ -6828,9 +6886,8 @@
     {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
-      "commits": 69,
+      "commits": 68,
       "repos": [
-        "ai-math-chat-studio",
         "proxy-dector",
         "memory",
         "RaineMtF",
