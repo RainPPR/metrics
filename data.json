@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4237,
+        "totalContributions": 4245,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,6 +2046,11 @@
               },
               {
                 "date": "2026-06-29",
+                "contributionCount": 8,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-06-30",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4102,6 +4107,11 @@
                 "date": "2026-06-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-06-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4165,7 +4175,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-28T13:02:18Z",
+      "pushedAt": "2026-06-29T14:52:36Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4182,7 +4192,7 @@
             }
           },
           {
-            "size": 62605,
+            "size": 62681,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -4231,7 +4241,7 @@
             }
           }
         ],
-        "totalSize": 315885
+        "totalSize": 315961
       },
       "owner": "raineblog"
     },
@@ -4350,13 +4360,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-06-29T04:13:58Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 4032,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 4032
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "poe-free-models",
       "description": "Fetch Poe Free Models",
       "url": "https://github.com/RainPPR/poe-free-models",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-28T02:43:44Z",
+      "pushedAt": "2026-06-29T02:44:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4383,7 +4420,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-28T02:27:30Z",
+      "pushedAt": "2026-06-29T02:28:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4428,33 +4465,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-06-27T03:42:50Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 4032,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 4032
       },
       "owner": "RainPPR"
     },
@@ -6130,7 +6140,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-06-28T02:27:30Z",
+      "pushedAt": "2026-06-29T02:28:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6421,7 +6431,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-06-28T13:02:18Z",
+      "pushedAt": "2026-06-29T14:52:36Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6438,7 +6448,7 @@
             }
           },
           {
-            "size": 62605,
+            "size": 62681,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -6487,7 +6497,7 @@
             }
           }
         ],
-        "totalSize": 315885
+        "totalSize": 315961
       },
       "owner": "raineblog"
     },
@@ -6671,7 +6681,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31284073,
+      "size": 31284149,
       "color": "#e34c26"
     },
     {
@@ -6772,17 +6782,17 @@
   ],
   "totalStats": {
     "stars": 10,
-    "commits": 4213,
+    "commits": 4221,
     "prs": 72,
     "issues": 2,
     "repoCount": 58
   },
-  "updatedAt": "2026-06-29T02:28:02.903Z",
+  "updatedAt": "2026-06-30T02:11:19.482Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4213 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4221 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6796,7 +6806,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 134 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 135 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6826,12 +6836,12 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1752,
+      "commits": 1760,
       "repos": [
-        "ai-math-chat-studio",
+        "free-models-list",
         "poe-free-models",
         "metrics",
-        "free-models-list",
+        "ai-math-chat-studio",
         "freeproxy-world-scraper",
         "v2rayse",
         "proxy-dector",
@@ -6852,10 +6862,10 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 185,
+      "commits": 187,
       "repos": [
-        "poe-free-models",
         "free-models-list",
+        "poe-free-models",
         "freeproxy-world-scraper",
         "v2rayse",
         "v2ray-remote-selector",
