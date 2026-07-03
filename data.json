@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4293,
+        "totalContributions": 4312,
         "weeks": [
           {
             "contributionDays": [
@@ -2061,6 +2061,11 @@
               },
               {
                 "date": "2026-07-02",
+                "contributionCount": 19,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-07-03",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4132,6 +4137,11 @@
                 "date": "2026-07-02",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-03",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4272,7 +4282,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-01T14:54:05Z",
+      "pushedAt": "2026-07-02T09:11:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4281,7 +4291,7 @@
       "languages": {
         "edges": [
           {
-            "size": 167367,
+            "size": 170505,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4316,7 +4326,7 @@
             }
           }
         ],
-        "totalSize": 168758
+        "totalSize": 171896
       },
       "owner": "RainPPR"
     },
@@ -4378,6 +4388,115 @@
         "totalSize": 14514
       },
       "owner": "rainewhk"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-02T03:51:37Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 4032,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 4032
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "poe-free-models",
+      "description": "Fetch Poe Free Models",
+      "url": "https://github.com/RainPPR/poe-free-models",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-02T02:34:18Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 8639,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 8639
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "metrics",
+      "description": "GitHub Repository Showcase",
+      "url": "https://github.com/RainPPR/metrics",
+      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-02T02:08:06Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 59205,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 43608,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 13667,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 680,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 310,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 117470
+      },
+      "owner": "RainPPR"
     },
     {
       "name": "free-proxy-list",
@@ -4445,115 +4564,6 @@
           }
         ],
         "totalSize": 227420
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-01T04:10:28Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 4032,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 4032
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "poe-free-models",
-      "description": "Fetch Poe Free Models",
-      "url": "https://github.com/RainPPR/poe-free-models",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-01T02:44:44Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 8639,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 8639
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "metrics",
-      "description": "GitHub Repository Showcase",
-      "url": "https://github.com/RainPPR/metrics",
-      "homepageUrl": "http://rainppr.dpdns.org/metrics/",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-01T02:28:40Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 59205,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 43608,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13667,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 680,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 310,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 117470
       },
       "owner": "RainPPR"
     },
@@ -5983,6 +5993,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-02T06:03:04Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -6013,33 +6050,6 @@
           }
         ],
         "totalSize": 8889
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-06-21T06:55:01Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6160,7 +6170,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-01T02:28:40Z",
+      "pushedAt": "2026-07-02T02:08:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6649,7 +6659,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-06-21T06:55:01Z",
+      "pushedAt": "2026-07-02T06:03:04Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6716,7 +6726,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 471026,
+      "size": 474164,
       "color": "#3178c6"
     },
     {
@@ -6802,17 +6812,17 @@
   ],
   "totalStats": {
     "stars": 10,
-    "commits": 4259,
-    "prs": 82,
+    "commits": 4274,
+    "prs": 86,
     "issues": 2,
     "repoCount": 58
   },
-  "updatedAt": "2026-07-02T02:07:49.596Z",
+  "updatedAt": "2026-07-03T01:52:00.800Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4259 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4274 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6826,7 +6836,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 137 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 138 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6856,13 +6866,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1796,
+      "commits": 1811,
       "repos": [
-        "free-proxy-list",
         "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
+        "free-proxy-list",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6872,8 +6882,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "anki-ewords",
         "Chemistry-Note-RAG",
+        "anki-ewords",
         "china-english-words",
         "gaokao",
         "gaokao-chinese"
@@ -6882,7 +6892,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 109,
+      "commits": 112,
       "repos": [
         "free-models-list",
         "poe-free-models",
@@ -6909,8 +6919,8 @@
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
       "commits": 18,
       "repos": [
-        "free-proxy-list",
         "ai-math-chat-studio",
+        "free-proxy-list",
         "v2ray-remote-selector",
         "memory",
         "mkdocs-docker",
