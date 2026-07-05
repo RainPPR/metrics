@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4337,
+        "totalContributions": 4374,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-06-29",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-06-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-02",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-07-03",
-                "contributionCount": 4,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-07-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-05",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-07-04",
+                "contributionCount": 37,
+                "color": "#30a14e"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-07-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 103,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-06-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-06-30",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-07-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4215,7 +4155,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-03T13:22:00Z",
+      "pushedAt": "2026-07-05T01:49:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4225,7 +4165,7 @@
       "languages": {
         "edges": [
           {
-            "size": 161565,
+            "size": 180016,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4239,7 +4179,7 @@
             }
           },
           {
-            "size": 46255,
+            "size": 43877,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4260,17 +4200,17 @@
             }
           },
           {
+            "size": 8991,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
             "size": 4593,
             "node": {
               "name": "Standard ML",
               "color": "#dc566d"
-            }
-          },
-          {
-            "size": 4379,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
             }
           },
           {
@@ -4279,9 +4219,16 @@
               "name": "Lua",
               "color": "#000080"
             }
+          },
+          {
+            "size": 2022,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
           }
         ],
-        "totalSize": 315944
+        "totalSize": 338651
       },
       "owner": "raineblog"
     },
@@ -4292,7 +4239,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-03T14:49:02Z",
+      "pushedAt": "2026-07-04T14:41:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4406,7 +4353,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-03T03:33:00Z",
+      "pushedAt": "2026-07-04T03:25:48Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4433,7 +4380,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-03T02:09:40Z",
+      "pushedAt": "2026-07-04T02:07:39Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4460,7 +4407,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-03T01:52:16Z",
+      "pushedAt": "2026-07-04T01:51:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6180,7 +6127,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-03T01:52:16Z",
+      "pushedAt": "2026-07-04T01:51:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6471,7 +6418,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-03T13:22:00Z",
+      "pushedAt": "2026-07-05T01:49:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6481,7 +6428,7 @@
       "languages": {
         "edges": [
           {
-            "size": 161565,
+            "size": 180016,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -6495,7 +6442,7 @@
             }
           },
           {
-            "size": 46255,
+            "size": 43877,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -6516,17 +6463,17 @@
             }
           },
           {
+            "size": 8991,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
             "size": 4593,
             "node": {
               "name": "Standard ML",
               "color": "#dc566d"
-            }
-          },
-          {
-            "size": 4379,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
             }
           },
           {
@@ -6535,9 +6482,16 @@
               "name": "Lua",
               "color": "#000080"
             }
+          },
+          {
+            "size": 2022,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
           }
         ],
-        "totalSize": 315944
+        "totalSize": 338651
       },
       "owner": "raineblog"
     },
@@ -6758,7 +6712,7 @@
     },
     {
       "name": "Python",
-      "size": 799477,
+      "size": 817928,
       "color": "#3572A5"
     },
     {
@@ -6768,7 +6722,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 366250,
+      "size": 363872,
       "color": "#f1e05a"
     },
     {
@@ -6802,6 +6756,16 @@
       "color": "#000080"
     },
     {
+      "name": "PowerShell",
+      "size": 8991,
+      "color": "#012456"
+    },
+    {
+      "name": "Shell",
+      "size": 5489,
+      "color": "#89e051"
+    },
+    {
       "name": "MDX",
       "size": 5323,
       "color": "#fcb32c"
@@ -6812,19 +6776,9 @@
       "color": "#dc566d"
     },
     {
-      "name": "PowerShell",
-      "size": 4379,
-      "color": "#012456"
-    },
-    {
       "name": "Makefile",
       "size": 3875,
       "color": "#427819"
-    },
-    {
-      "name": "Shell",
-      "size": 3467,
-      "color": "#89e051"
     },
     {
       "name": "Typst",
@@ -6849,17 +6803,17 @@
   ],
   "totalStats": {
     "stars": 10,
-    "commits": 4299,
+    "commits": 4336,
     "prs": 86,
     "issues": 2,
     "repoCount": 58
   },
-  "updatedAt": "2026-07-04T01:51:14.528Z",
+  "updatedAt": "2026-07-05T01:58:04.774Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4299 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4336 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6873,7 +6827,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 139 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 140 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -6903,7 +6857,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1836,
+      "commits": 1873,
       "repos": [
         "ai-math-chat-studio",
         "free-models-list",
@@ -6929,7 +6883,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 114,
+      "commits": 116,
       "repos": [
         "free-models-list",
         "poe-free-models",
