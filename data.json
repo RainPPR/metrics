@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4374,
+        "totalContributions": 4397,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-07-05",
+                "contributionCount": 30,
+                "color": "#40c463"
+              },
+              {
+                "date": "2026-07-06",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-07-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4155,7 +4165,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-05T01:49:30Z",
+      "pushedAt": "2026-07-06T01:56:50Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4165,14 +4175,14 @@
       "languages": {
         "edges": [
           {
-            "size": 180016,
+            "size": 181544,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           },
           {
-            "size": 62681,
+            "size": 62595,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -4228,7 +4238,7 @@
             }
           }
         ],
-        "totalSize": 338651
+        "totalSize": 340093
       },
       "owner": "raineblog"
     },
@@ -4239,7 +4249,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-04T14:41:15Z",
+      "pushedAt": "2026-07-05T13:42:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4347,13 +4357,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "copier-new-gao3-whk",
+      "description": "新高三用的考课件的东西",
+      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-05T12:55:17Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 72741,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 72741
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-04T03:25:48Z",
+      "pushedAt": "2026-07-05T03:42:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4380,7 +4417,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-04T02:07:39Z",
+      "pushedAt": "2026-07-05T02:23:24Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4407,7 +4444,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-04T01:51:28Z",
+      "pushedAt": "2026-07-05T01:58:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -5950,6 +5987,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "china-textbook-2021-hf",
+      "description": "本项目从 GitHub 上游拉取教育部审定的中小学教科书 PDF，自动合并碎片化文件，并托管到 Hugging Face Datasets。",
+      "url": "https://github.com/rainewhk/china-textbook-2021-hf",
+      "homepageUrl": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-05T13:22:13Z",
+      "createdAt": "2026-07-05T05:06:16Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Rust",
+        "color": "#dea584"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 6584,
+            "node": {
+              "name": "Rust",
+              "color": "#dea584"
+            }
+          }
+        ],
+        "totalSize": 6584
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "china-english-words",
       "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
       "url": "https://github.com/rainewhk/china-english-words",
@@ -6127,7 +6191,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-04T01:51:28Z",
+      "pushedAt": "2026-07-05T01:58:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6418,7 +6482,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-05T01:49:30Z",
+      "pushedAt": "2026-07-06T01:56:50Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6428,14 +6492,14 @@
       "languages": {
         "edges": [
           {
-            "size": 180016,
+            "size": 181544,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           },
           {
-            "size": 62681,
+            "size": 62595,
             "node": {
               "name": "HTML",
               "color": "#e34c26"
@@ -6491,7 +6555,7 @@
             }
           }
         ],
-        "totalSize": 338651
+        "totalSize": 340093
       },
       "owner": "raineblog"
     },
@@ -6618,6 +6682,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "china-textbook-2021-hf",
+      "description": "本项目从 GitHub 上游拉取教育部审定的中小学教科书 PDF，自动合并碎片化文件，并托管到 Hugging Face Datasets。",
+      "url": "https://github.com/rainewhk/china-textbook-2021-hf",
+      "homepageUrl": "https://huggingface.co/datasets/RainPPR/china-textbook-2021-hf",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-05T13:22:13Z",
+      "createdAt": "2026-07-05T05:06:16Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Rust",
+        "color": "#dea584"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 6584,
+            "node": {
+              "name": "Rust",
+              "color": "#dea584"
+            }
+          }
+        ],
+        "totalSize": 6584
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "china-english-words",
       "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
       "url": "https://github.com/rainewhk/china-english-words",
@@ -6702,7 +6793,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31284149,
+      "size": 31284063,
       "color": "#e34c26"
     },
     {
@@ -6712,7 +6803,7 @@
     },
     {
       "name": "Python",
-      "size": 817928,
+      "size": 892197,
       "color": "#3572A5"
     },
     {
@@ -6727,7 +6818,7 @@
     },
     {
       "name": "Rust",
-      "size": 123447,
+      "size": 130031,
       "color": "#dea584"
     },
     {
@@ -6803,17 +6894,17 @@
   ],
   "totalStats": {
     "stars": 10,
-    "commits": 4336,
+    "commits": 4358,
     "prs": 86,
-    "issues": 2,
-    "repoCount": 58
+    "issues": 3,
+    "repoCount": 60
   },
-  "updatedAt": "2026-07-05T01:58:04.774Z",
+  "updatedAt": "2026-07-06T02:04:11.829Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4336 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4358 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6827,14 +6918,14 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 140 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 141 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 58 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 60 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -6857,13 +6948,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1873,
+      "commits": 1832,
       "repos": [
         "ai-math-chat-studio",
+        "copier-new-gao3-whk",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "free-proxy-list",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6873,17 +6964,17 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "china-textbook-2021-hf",
         "china-english-words",
         "Chemistry-Note-RAG",
         "anki-ewords",
-        "gaokao",
-        "gaokao-chinese"
+        "gaokao"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 116,
+      "commits": 118,
       "repos": [
         "free-models-list",
         "poe-free-models",
@@ -6908,10 +6999,9 @@
     {
       "login": "dependabot[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
-      "commits": 18,
+      "commits": 14,
       "repos": [
         "ai-math-chat-studio",
-        "free-proxy-list",
         "v2ray-remote-selector",
         "memory",
         "mkdocs-docker",
