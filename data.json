@@ -2048,6 +2048,11 @@
                 "date": "2026-07-06",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-07",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4102,6 +4107,11 @@
                 "date": "2026-07-06",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-07",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4137,7 +4147,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 4,
+      "stargazerCount": 5,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4165,7 +4175,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-06T01:56:50Z",
+      "pushedAt": "2026-07-06T02:46:12Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4357,40 +4367,13 @@
       "owner": "rainewhk"
     },
     {
-      "name": "copier-new-gao3-whk",
-      "description": "新高三用的考课件的东西",
-      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-05T12:55:17Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 72741,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 72741
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-05T03:42:14Z",
+      "pushedAt": "2026-07-06T03:51:05Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4417,7 +4400,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-05T02:23:24Z",
+      "pushedAt": "2026-07-06T02:27:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4444,7 +4427,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-05T01:58:20Z",
+      "pushedAt": "2026-07-06T02:04:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4489,6 +4472,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "copier-new-gao3-whk",
+      "description": "新高三用的考课件的东西",
+      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-05T12:55:17Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 72741,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 72741
       },
       "owner": "RainPPR"
     },
@@ -5987,6 +5997,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-06T06:40:28Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "china-textbook-2021-hf",
       "description": "本项目从 GitHub 上游拉取教育部审定的中小学教科书 PDF，自动合并碎片化文件，并托管到 Hugging Face Datasets。",
       "url": "https://github.com/rainewhk/china-textbook-2021-hf",
@@ -6037,33 +6074,6 @@
           }
         ],
         "totalSize": 156360
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-02T06:03:04Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6191,7 +6201,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-05T01:58:20Z",
+      "pushedAt": "2026-07-06T02:04:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6482,7 +6492,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-06T01:56:50Z",
+      "pushedAt": "2026-07-06T02:46:12Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6682,6 +6692,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-06T06:40:28Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "china-textbook-2021-hf",
       "description": "本项目从 GitHub 上游拉取教育部审定的中小学教科书 PDF，自动合并碎片化文件，并托管到 Hugging Face Datasets。",
       "url": "https://github.com/rainewhk/china-textbook-2021-hf",
@@ -6732,33 +6769,6 @@
           }
         ],
         "totalSize": 156360
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-02T06:03:04Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6893,13 +6903,13 @@
     }
   ],
   "totalStats": {
-    "stars": 10,
+    "stars": 11,
     "commits": 4358,
     "prs": 86,
     "issues": 3,
     "repoCount": 60
   },
-  "updatedAt": "2026-07-06T02:04:11.829Z",
+  "updatedAt": "2026-07-07T01:59:34.440Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -6950,11 +6960,11 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1832,
       "repos": [
-        "ai-math-chat-studio",
-        "copier-new-gao3-whk",
         "free-models-list",
         "poe-free-models",
         "metrics",
+        "ai-math-chat-studio",
+        "copier-new-gao3-whk",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6964,9 +6974,9 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "Chemistry-Note-RAG",
         "china-textbook-2021-hf",
         "china-english-words",
-        "Chemistry-Note-RAG",
         "anki-ewords",
         "gaokao"
       ]
@@ -6974,7 +6984,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 118,
+      "commits": 121,
       "repos": [
         "free-models-list",
         "poe-free-models",
