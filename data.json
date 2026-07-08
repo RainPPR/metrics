@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4397,
+        "totalContributions": 4403,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,8 +2051,13 @@
               },
               {
                 "date": "2026-07-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 5,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-08",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -4112,6 +4117,11 @@
                 "date": "2026-07-07",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-08",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4147,7 +4157,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 5,
+      "stargazerCount": 6,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4175,7 +4185,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-06T02:46:12Z",
+      "pushedAt": "2026-07-08T01:23:41Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4367,13 +4377,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "copier-new-gao3-whk",
+      "description": "新高三用的考课件的东西",
+      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-07T11:43:17Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 73113,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 73113
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-06T03:51:05Z",
+      "pushedAt": "2026-07-07T03:40:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4400,7 +4437,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-06T02:27:51Z",
+      "pushedAt": "2026-07-07T02:23:28Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4427,7 +4464,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-06T02:04:28Z",
+      "pushedAt": "2026-07-07T01:59:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4472,33 +4509,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "copier-new-gao3-whk",
-      "description": "新高三用的考课件的东西",
-      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-05T12:55:17Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 72741,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 72741
       },
       "owner": "RainPPR"
     },
@@ -6201,7 +6211,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-06T02:04:28Z",
+      "pushedAt": "2026-07-07T01:59:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6492,7 +6502,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-06T02:46:12Z",
+      "pushedAt": "2026-07-08T01:23:41Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6813,7 +6823,7 @@
     },
     {
       "name": "Python",
-      "size": 892197,
+      "size": 892569,
       "color": "#3572A5"
     },
     {
@@ -6903,18 +6913,18 @@
     }
   ],
   "totalStats": {
-    "stars": 11,
-    "commits": 4358,
+    "stars": 12,
+    "commits": 4364,
     "prs": 86,
     "issues": 3,
     "repoCount": 60
   },
-  "updatedAt": "2026-07-07T01:59:34.440Z",
+  "updatedAt": "2026-07-08T01:28:59.761Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4358 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4364 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6958,13 +6968,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1832,
+      "commits": 1838,
       "repos": [
+        "copier-new-gao3-whk",
         "free-models-list",
         "poe-free-models",
         "metrics",
         "ai-math-chat-studio",
-        "copier-new-gao3-whk",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6984,7 +6994,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 121,
+      "commits": 123,
       "repos": [
         "free-models-list",
         "poe-free-models",
