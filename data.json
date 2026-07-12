@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 16,
       "calendar": {
-        "totalContributions": 4444,
+        "totalContributions": 4482,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-07-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-09",
-                "contributionCount": 4,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-07-10",
-                "contributionCount": 10,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-07-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-12",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,8 +2032,17 @@
               },
               {
                 "date": "2026-07-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 36,
+                "color": "#30a14e"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-07-12",
+                "contributionCount": 2,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 103,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-07-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-10",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-07-12",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-07-12",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4187,7 +4127,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 6,
+      "stargazerCount": 7,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4299,7 +4239,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-10T14:14:35Z",
+      "pushedAt": "2026-07-12T01:15:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4308,7 +4248,7 @@
       "languages": {
         "edges": [
           {
-            "size": 171580,
+            "size": 178362,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4343,7 +4283,7 @@
             }
           }
         ],
-        "totalSize": 172971
+        "totalSize": 179753
       },
       "owner": "RainPPR"
     },
@@ -4407,47 +4347,13 @@
       "owner": "rainewhk"
     },
     {
-      "name": "copier-new-gao3-whk",
-      "description": "新高三用的考课件的东西",
-      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-10T09:49:26Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 77619,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 408,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
-            }
-          }
-        ],
-        "totalSize": 78027
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-10T03:36:01Z",
+      "pushedAt": "2026-07-12T01:23:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4456,14 +4362,14 @@
       "languages": {
         "edges": [
           {
-            "size": 6770,
+            "size": 8299,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 6770
+        "totalSize": 8299
       },
       "owner": "RainPPR"
     },
@@ -4474,7 +4380,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-10T02:09:34Z",
+      "pushedAt": "2026-07-11T01:55:26Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4501,7 +4407,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-10T01:50:05Z",
+      "pushedAt": "2026-07-11T01:29:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4546,6 +4452,40 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "copier-new-gao3-whk",
+      "description": "新高三用的考课件的东西",
+      "url": "https://github.com/RainPPR/copier-new-gao3-whk",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-10T09:49:26Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 77619,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 408,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          }
+        ],
+        "totalSize": 78027
       },
       "owner": "RainPPR"
     },
@@ -6248,7 +6188,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-10T01:50:05Z",
+      "pushedAt": "2026-07-11T01:29:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6860,12 +6800,12 @@
     },
     {
       "name": "Python",
-      "size": 899813,
+      "size": 901342,
       "color": "#3572A5"
     },
     {
       "name": "TypeScript",
-      "size": 475239,
+      "size": 482021,
       "color": "#3178c6"
     },
     {
@@ -6950,18 +6890,18 @@
     }
   ],
   "totalStats": {
-    "stars": 12,
-    "commits": 4399,
-    "prs": 92,
+    "stars": 13,
+    "commits": 4431,
+    "prs": 98,
     "issues": 3,
     "repoCount": 60
   },
-  "updatedAt": "2026-07-11T01:28:54.875Z",
+  "updatedAt": "2026-07-12T01:41:36.591Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4399 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4431 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7005,13 +6945,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1873,
+      "commits": 1905,
       "repos": [
-        "ai-math-chat-studio",
-        "copier-new-gao3-whk",
         "free-models-list",
+        "ai-math-chat-studio",
         "poe-free-models",
         "metrics",
+        "copier-new-gao3-whk",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7031,11 +6971,11 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 132,
+      "commits": 135,
       "repos": [
-        "copier-new-gao3-whk",
         "free-models-list",
         "poe-free-models",
+        "copier-new-gao3-whk",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
