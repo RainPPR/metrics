@@ -5,9 +5,9 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
-      "followers": 16,
+      "followers": 17,
       "calendar": {
-        "totalContributions": 4528,
+        "totalContributions": 4538,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,8 +2051,13 @@
               },
               {
                 "date": "2026-07-21",
-                "contributionCount": 1,
+                "contributionCount": 11,
                 "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-22",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4112,6 +4117,11 @@
                 "date": "2026-07-21",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-22",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4142,6 +4152,22 @@
     }
   ],
   "repos": [
+    {
+      "name": "china-llms-anecdote-0721",
+      "description": null,
+      "url": "https://github.com/RainPPR/china-llms-anecdote-0721",
+      "homepageUrl": null,
+      "stargazerCount": 27,
+      "forkCount": 25,
+      "pushedAt": "2026-07-21T02:14:22Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "RainPPR"
+    },
     {
       "name": "gaokao",
       "description": "高考试题 datasets 汇总",
@@ -4175,7 +4201,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-21T01:22:32Z",
+      "pushedAt": "2026-07-22T01:21:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4259,7 +4285,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-21T01:06:26Z",
+      "pushedAt": "2026-07-21T03:47:44Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4373,7 +4399,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-20T03:26:39Z",
+      "pushedAt": "2026-07-21T02:53:29Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4400,7 +4426,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-20T02:12:26Z",
+      "pushedAt": "2026-07-21T01:55:39Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4427,7 +4453,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-20T01:54:06Z",
+      "pushedAt": "2026-07-21T01:28:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6004,39 +6030,12 @@
       "owner": "raineblog"
     },
     {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-16T05:13:54Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-07-08T11:45:19Z",
+      "pushedAt": "2026-07-21T03:52:49Z",
       "createdAt": "2026-02-17T13:39:40Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6061,6 +6060,33 @@
           }
         ],
         "totalSize": 8889
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-07-16T05:13:54Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6208,7 +6234,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-20T01:54:06Z",
+      "pushedAt": "2026-07-21T01:28:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6499,7 +6525,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-07-21T01:22:32Z",
+      "pushedAt": "2026-07-22T01:21:30Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6910,18 +6936,18 @@
     }
   ],
   "totalStats": {
-    "stars": 13,
-    "commits": 4469,
+    "stars": 40,
+    "commits": 4478,
     "prs": 104,
     "issues": 5,
-    "repoCount": 60
+    "repoCount": 61
   },
-  "updatedAt": "2026-07-21T01:27:54.690Z",
+  "updatedAt": "2026-07-22T01:27:08.728Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4469 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4478 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6942,14 +6968,14 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 60 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 61 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 18 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 19 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -6965,13 +6991,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1979,
+      "commits": 1980,
       "repos": [
         "ai-math-chat-studio",
         "free-models-list",
+        "china-llms-anecdote-0721",
         "poe-free-models",
         "metrics",
-        "copier-new-gao3-whk",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -6981,8 +7007,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "Chemistry-Note-RAG",
         "anki-ewords",
+        "Chemistry-Note-RAG",
         "china-textbook-2021-hf",
         "china-english-words",
         "gaokao"
@@ -6995,7 +7021,6 @@
       "repos": [
         "free-models-list",
         "poe-free-models",
-        "copier-new-gao3-whk",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
