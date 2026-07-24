@@ -5,9 +5,9 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
-      "followers": 21,
+      "followers": 22,
       "calendar": {
-        "totalContributions": 4546,
+        "totalContributions": 4548,
         "weeks": [
           {
             "contributionDays": [
@@ -2061,8 +2061,13 @@
               },
               {
                 "date": "2026-07-23",
-                "contributionCount": 3,
+                "contributionCount": 5,
                 "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4132,6 +4137,11 @@
                 "date": "2026-07-23",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4167,8 +4177,8 @@
       "description": null,
       "url": "https://github.com/RainPPR/china-llms-anecdote-0721",
       "homepageUrl": null,
-      "stargazerCount": 109,
-      "forkCount": 47,
+      "stargazerCount": 125,
+      "forkCount": 48,
       "pushedAt": "2026-07-21T02:14:22Z",
       "isPrivate": false,
       "primaryLanguage": null,
@@ -4183,7 +4193,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 7,
+      "stargazerCount": 8,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4295,7 +4305,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-23T01:21:47Z",
+      "pushedAt": "2026-07-23T01:58:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4409,7 +4419,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-22T02:51:23Z",
+      "pushedAt": "2026-07-23T02:57:57Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4436,7 +4446,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-22T01:54:20Z",
+      "pushedAt": "2026-07-23T02:02:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4463,7 +4473,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-22T01:27:27Z",
+      "pushedAt": "2026-07-23T01:46:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6045,7 +6055,7 @@
       "url": "https://github.com/rainewhk/anki-ewords",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-07-22T14:49:25Z",
+      "pushedAt": "2026-07-23T07:43:46Z",
       "createdAt": "2026-02-17T13:39:40Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6055,10 +6065,17 @@
       "languages": {
         "edges": [
           {
-            "size": 8865,
+            "size": 24895,
             "node": {
               "name": "Python",
               "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1316,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
             }
           },
           {
@@ -6069,7 +6086,7 @@
             }
           }
         ],
-        "totalSize": 8889
+        "totalSize": 26235
       },
       "owner": "rainewhk"
     },
@@ -6079,7 +6096,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-07-22T05:22:39Z",
+      "pushedAt": "2026-07-23T05:28:54Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6244,7 +6261,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-22T01:27:27Z",
+      "pushedAt": "2026-07-23T01:46:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6740,7 +6757,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-07-22T05:22:39Z",
+      "pushedAt": "2026-07-23T05:28:54Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6846,7 +6863,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31285095,
+      "size": 31286411,
       "color": "#e34c26"
     },
     {
@@ -6856,7 +6873,7 @@
     },
     {
       "name": "Python",
-      "size": 901342,
+      "size": 917372,
       "color": "#3572A5"
     },
     {
@@ -6946,25 +6963,25 @@
     }
   ],
   "totalStats": {
-    "stars": 122,
-    "commits": 4486,
+    "stars": 139,
+    "commits": 4488,
     "prs": 104,
     "issues": 5,
     "repoCount": 61
   },
-  "updatedAt": "2026-07-23T01:46:33.142Z",
+  "updatedAt": "2026-07-24T01:42:09.055Z",
   "achievements": [
     {
       "id": "star-collector",
       "title": "Recognition Index",
-      "description": "Accumulated 122 stargazers across repositories, reflecting project visibility and community utility.",
+      "description": "Accumulated 139 stargazers across repositories, reflecting project visibility and community utility.",
       "icon": "Star",
       "level": "Bronze"
     },
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4486 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4488 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6992,7 +7009,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 24 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 25 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -7008,11 +7025,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1988,
+      "commits": 1990,
       "repos": [
-        "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
+        "ai-math-chat-studio",
         "metrics",
         "china-llms-anecdote-0721",
         "v2rayse",
@@ -7034,7 +7051,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 158,
+      "commits": 161,
       "repos": [
         "free-models-list",
         "poe-free-models",
