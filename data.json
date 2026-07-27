@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4579,
+        "totalContributions": 4548,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,8 +2041,13 @@
             "contributionDays": [
               {
                 "date": "2026-07-26",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 11,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-27",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -4092,6 +4097,11 @@
                 "date": "2026-07-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-27",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4170,8 +4180,8 @@
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
-      "stargazerCount": 2,
-      "pushedAt": "2026-07-25T01:25:15Z",
+      "stargazerCount": 3,
+      "pushedAt": "2026-07-27T01:46:18Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4255,7 +4265,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-25T14:24:22Z",
+      "pushedAt": "2026-07-27T01:44:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4363,13 +4373,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "gemini-batch-move-to-notebook",
+      "description": "一个用于 Google Gemini 的 Tampermonkey（篡改猴）脚本。开启“高级编辑模式”后，即可通过 Shift / Ctrl 快捷键批量选中多条对话，并一键将其批量移动到指定笔记本中。",
+      "url": "https://github.com/RainPPR/gemini-batch-move-to-notebook",
+      "homepageUrl": "",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-26T09:40:21Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14953,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          }
+        ],
+        "totalSize": 14953
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-25T02:51:31Z",
+      "pushedAt": "2026-07-26T03:16:12Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4396,7 +4433,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-25T01:57:00Z",
+      "pushedAt": "2026-07-26T02:01:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4423,7 +4460,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-25T01:42:38Z",
+      "pushedAt": "2026-07-26T01:45:07Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4468,33 +4505,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "gemini-batch-move-to-notebook",
-      "description": "一个用于 Google Gemini 的 Tampermonkey（篡改猴）脚本。开启“高级编辑模式”后，即可通过 Shift / Ctrl 快捷键批量选中多条对话，并一键将其批量移动到指定笔记本中。",
-      "url": "https://github.com/RainPPR/gemini-batch-move-to-notebook",
-      "homepageUrl": "",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-07-24T11:23:49Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14836,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          }
-        ],
-        "totalSize": 14836
       },
       "owner": "RainPPR"
     },
@@ -6238,7 +6248,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-25T01:42:38Z",
+      "pushedAt": "2026-07-26T01:45:07Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6528,8 +6538,8 @@
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
-      "stargazerCount": 2,
-      "pushedAt": "2026-07-25T01:25:15Z",
+      "stargazerCount": 3,
+      "pushedAt": "2026-07-27T01:46:18Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6860,7 +6870,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 383098,
+      "size": 383215,
       "color": "#f1e05a"
     },
     {
@@ -6940,25 +6950,25 @@
     }
   ],
   "totalStats": {
-    "stars": 148,
-    "commits": 4514,
+    "stars": 149,
+    "commits": 4483,
     "prs": 107,
     "issues": 6,
     "repoCount": 62
   },
-  "updatedAt": "2026-07-26T01:44:52.695Z",
+  "updatedAt": "2026-07-27T01:51:53.455Z",
   "achievements": [
     {
       "id": "star-collector",
       "title": "Recognition Index",
-      "description": "Accumulated 148 stargazers across repositories, reflecting project visibility and community utility.",
+      "description": "Accumulated 149 stargazers across repositories, reflecting project visibility and community utility.",
       "icon": "Star",
       "level": "Bronze"
     },
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4514 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4483 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7002,13 +7012,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2010,
+      "commits": 2022,
       "repos": [
         "ai-math-chat-studio",
+        "gemini-batch-move-to-notebook",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "gemini-batch-move-to-notebook",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7028,7 +7038,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 165,
+      "commits": 167,
       "repos": [
         "free-models-list",
         "poe-free-models",
