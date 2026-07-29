@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4555,
+        "totalContributions": 4560,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,6 +2051,11 @@
               },
               {
                 "date": "2026-07-28",
+                "contributionCount": 5,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4112,6 +4117,11 @@
                 "date": "2026-07-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-29",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4143,27 +4153,11 @@
   ],
   "repos": [
     {
-      "name": "china-llms-anecdote-0721",
-      "description": null,
-      "url": "https://github.com/RainPPR/china-llms-anecdote-0721",
-      "homepageUrl": null,
-      "stargazerCount": 140,
-      "forkCount": 50,
-      "pushedAt": "2026-07-24T07:29:37Z",
-      "isPrivate": false,
-      "primaryLanguage": null,
-      "languages": {
-        "edges": [],
-        "totalSize": 0
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "gaokao",
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 8,
+      "stargazerCount": 9,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4191,7 +4185,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-07-28T01:20:09Z",
+      "pushedAt": "2026-07-29T01:21:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4389,7 +4383,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-27T03:26:28Z",
+      "pushedAt": "2026-07-28T02:43:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4416,7 +4410,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-27T02:08:42Z",
+      "pushedAt": "2026-07-28T01:49:56Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4443,7 +4437,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-27T01:52:09Z",
+      "pushedAt": "2026-07-28T01:27:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6258,7 +6252,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-27T01:52:09Z",
+      "pushedAt": "2026-07-28T01:27:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6549,7 +6543,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-07-28T01:20:09Z",
+      "pushedAt": "2026-07-29T01:21:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6960,25 +6954,18 @@
     }
   ],
   "totalStats": {
-    "stars": 155,
-    "commits": 4489,
+    "stars": 16,
+    "commits": 4485,
     "prs": 108,
-    "issues": 6,
-    "repoCount": 62
+    "issues": 5,
+    "repoCount": 61
   },
-  "updatedAt": "2026-07-28T01:26:47.933Z",
+  "updatedAt": "2026-07-29T01:26:54.811Z",
   "achievements": [
-    {
-      "id": "star-collector",
-      "title": "Recognition Index",
-      "description": "Accumulated 155 stargazers across repositories, reflecting project visibility and community utility.",
-      "icon": "Star",
-      "level": "Bronze"
-    },
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4489 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4485 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6999,7 +6986,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 62 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 61 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7022,12 +7009,12 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2028,
+      "commits": 2029,
       "repos": [
-        "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
+        "ai-math-chat-studio",
         "gemini-batch-move-to-notebook",
         "v2rayse",
         "proxy-dector",
@@ -7048,7 +7035,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 169,
+      "commits": 171,
       "repos": [
         "free-models-list",
         "poe-free-models",
