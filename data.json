@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4560,
+        "totalContributions": 4575,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,11 +2051,16 @@
               },
               {
                 "date": "2026-07-28",
-                "contributionCount": 5,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-29",
+                "contributionCount": 14,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-07-30",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4122,6 +4127,11 @@
                 "date": "2026-07-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4185,7 +4195,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-07-29T01:21:49Z",
+      "pushedAt": "2026-07-30T01:15:15Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4269,7 +4279,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-07-27T14:30:49Z",
+      "pushedAt": "2026-07-29T05:28:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4377,13 +4387,47 @@
       "owner": "rainewhk"
     },
     {
+      "name": "action-image-resize",
+      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
+      "url": "https://github.com/RainPPR/action-image-resize",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-29T05:23:32Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9928,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 446,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          }
+        ],
+        "totalSize": 10374
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-28T02:43:35Z",
+      "pushedAt": "2026-07-29T02:50:32Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4410,7 +4454,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-28T01:49:56Z",
+      "pushedAt": "2026-07-29T01:52:45Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4437,7 +4481,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-28T01:27:06Z",
+      "pushedAt": "2026-07-29T01:27:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4628,40 +4672,6 @@
           }
         ],
         "totalSize": 227420
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "action-image-resize",
-      "description": "Compress PNG, JPG, JPEG, and WebP images to AVIF (quality 60) and resize to max 2560px width. Updates Markdown references automatically.",
-      "url": "https://github.com/RainPPR/action-image-resize",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-06-30T13:20:44Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9954,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 446,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          }
-        ],
-        "totalSize": 10400
       },
       "owner": "RainPPR"
     },
@@ -6046,7 +6056,7 @@
       "url": "https://github.com/rainewhk/anki-ewords",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-07-27T14:54:28Z",
+      "pushedAt": "2026-07-29T06:07:34Z",
       "createdAt": "2026-02-17T13:39:40Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6252,7 +6262,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-07-28T01:27:06Z",
+      "pushedAt": "2026-07-29T01:27:11Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6543,7 +6553,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-07-29T01:21:49Z",
+      "pushedAt": "2026-07-30T01:15:15Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6874,7 +6884,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 383215,
+      "size": 383189,
       "color": "#f1e05a"
     },
     {
@@ -6955,17 +6965,17 @@
   ],
   "totalStats": {
     "stars": 16,
-    "commits": 4485,
+    "commits": 4500,
     "prs": 108,
     "issues": 5,
     "repoCount": 61
   },
-  "updatedAt": "2026-07-29T01:26:54.811Z",
+  "updatedAt": "2026-07-30T01:19:33.873Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4485 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4500 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7009,13 +7019,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2029,
+      "commits": 2072,
       "repos": [
+        "ai-math-chat-studio",
+        "action-image-resize",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "ai-math-chat-studio",
-        "gemini-batch-move-to-notebook",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7035,7 +7045,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 171,
+      "commits": 173,
       "repos": [
         "free-models-list",
         "poe-free-models",
