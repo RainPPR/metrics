@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4581,
+        "totalContributions": 4585,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,6 +2051,11 @@
               },
               {
                 "date": "2026-08-04",
+                "contributionCount": 4,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4112,6 +4117,11 @@
                 "date": "2026-08-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4259,7 +4269,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-03T09:22:03Z",
+      "pushedAt": "2026-08-04T14:51:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4275,7 +4285,7 @@
             }
           },
           {
-            "size": 1534,
+            "size": 2219,
             "node": {
               "name": "CSS",
               "color": "#663399"
@@ -4303,7 +4313,7 @@
             }
           }
         ],
-        "totalSize": 218795
+        "totalSize": 219480
       },
       "owner": "RainPPR"
     },
@@ -4373,7 +4383,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-03T03:16:57Z",
+      "pushedAt": "2026-08-04T02:45:50Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4400,7 +4410,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-03T02:02:45Z",
+      "pushedAt": "2026-08-04T01:48:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4427,7 +4437,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-03T01:46:49Z",
+      "pushedAt": "2026-08-04T01:22:58Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6031,6 +6041,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-08-04T05:17:59Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -6068,33 +6105,6 @@
           }
         ],
         "totalSize": 28518
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-31T05:38:42Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6242,7 +6252,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-03T01:46:49Z",
+      "pushedAt": "2026-08-04T01:22:58Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6738,7 +6748,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-07-31T05:38:42Z",
+      "pushedAt": "2026-08-04T05:17:59Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6874,7 +6884,7 @@
     },
     {
       "name": "CSS",
-      "size": 46319,
+      "size": 47004,
       "color": "#663399"
     },
     {
@@ -6945,17 +6955,17 @@
   ],
   "totalStats": {
     "stars": 15,
-    "commits": 4507,
-    "prs": 110,
+    "commits": 4510,
+    "prs": 111,
     "issues": 5,
     "repoCount": 61
   },
-  "updatedAt": "2026-08-04T01:22:41.202Z",
+  "updatedAt": "2026-08-05T01:28:09.451Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4507 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4510 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -6999,7 +7009,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2100,
+      "commits": 2103,
       "repos": [
         "ai-math-chat-studio",
         "free-models-list",
@@ -7015,8 +7025,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "anki-ewords",
         "Chemistry-Note-RAG",
+        "anki-ewords",
         "china-textbook-2021-hf",
         "china-english-words",
         "gaokao"
@@ -7025,7 +7035,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 185,
+      "commits": 188,
       "repos": [
         "free-models-list",
         "poe-free-models",
