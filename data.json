@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4613,
+        "totalContributions": 4297,
         "weeks": [
           {
             "contributionDays": [
@@ -950,7 +950,7 @@
               {
                 "date": "2026-01-18",
                 "contributionCount": 38,
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "date": "2026-01-19",
@@ -1048,7 +1048,7 @@
               {
                 "date": "2026-02-05",
                 "contributionCount": 19,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-02-06",
@@ -1077,7 +1077,7 @@
               {
                 "date": "2026-02-10",
                 "contributionCount": 56,
-                "color": "#216e39"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-02-11",
@@ -1111,7 +1111,7 @@
               {
                 "date": "2026-02-16",
                 "contributionCount": 19,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-02-17",
@@ -1136,7 +1136,7 @@
               {
                 "date": "2026-02-21",
                 "contributionCount": 18,
-                "color": "#40c463"
+                "color": "#9be9a8"
               }
             ]
           },
@@ -1155,7 +1155,7 @@
               {
                 "date": "2026-02-24",
                 "contributionCount": 54,
-                "color": "#216e39"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-02-25",
@@ -1170,7 +1170,7 @@
               {
                 "date": "2026-02-27",
                 "contributionCount": 57,
-                "color": "#216e39"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-02-28",
@@ -1204,7 +1204,7 @@
               {
                 "date": "2026-03-05",
                 "contributionCount": 36,
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "date": "2026-03-06",
@@ -1243,7 +1243,7 @@
               {
                 "date": "2026-03-12",
                 "contributionCount": 36,
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "date": "2026-03-13",
@@ -1311,12 +1311,12 @@
               {
                 "date": "2026-03-24",
                 "contributionCount": 18,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-03-25",
                 "contributionCount": 36,
-                "color": "#30a14e"
+                "color": "#40c463"
               },
               {
                 "date": "2026-03-26",
@@ -1340,7 +1340,7 @@
               {
                 "date": "2026-03-29",
                 "contributionCount": 55,
-                "color": "#216e39"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-03-30",
@@ -1355,7 +1355,7 @@
               {
                 "date": "2026-04-01",
                 "contributionCount": 18,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-04-02",
@@ -1438,7 +1438,7 @@
               {
                 "date": "2026-04-16",
                 "contributionCount": 18,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-04-17",
@@ -1477,7 +1477,7 @@
               {
                 "date": "2026-04-23",
                 "contributionCount": 18,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-04-24",
@@ -1486,8 +1486,8 @@
               },
               {
                 "date": "2026-04-25",
-                "contributionCount": 41,
-                "color": "#30a14e"
+                "contributionCount": 39,
+                "color": "#40c463"
               }
             ]
           },
@@ -1495,8 +1495,8 @@
             "contributionDays": [
               {
                 "date": "2026-04-26",
-                "contributionCount": 37,
-                "color": "#30a14e"
+                "contributionCount": 35,
+                "color": "#40c463"
               },
               {
                 "date": "2026-04-27",
@@ -1534,7 +1534,7 @@
             "contributionDays": [
               {
                 "date": "2026-05-03",
-                "contributionCount": 27,
+                "contributionCount": 26,
                 "color": "#40c463"
               },
               {
@@ -1627,7 +1627,7 @@
               },
               {
                 "date": "2026-05-20",
-                "contributionCount": 7,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               },
               {
@@ -1667,7 +1667,7 @@
               {
                 "date": "2026-05-27",
                 "contributionCount": 19,
-                "color": "#40c463"
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-05-28",
@@ -1695,8 +1695,8 @@
               },
               {
                 "date": "2026-06-01",
-                "contributionCount": 21,
-                "color": "#40c463"
+                "contributionCount": 13,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-06-02",
@@ -1710,7 +1710,7 @@
               },
               {
                 "date": "2026-06-04",
-                "contributionCount": 11,
+                "contributionCount": 10,
                 "color": "#9be9a8"
               },
               {
@@ -1720,7 +1720,7 @@
               },
               {
                 "date": "2026-06-06",
-                "contributionCount": 34,
+                "contributionCount": 26,
                 "color": "#40c463"
               }
             ]
@@ -1773,7 +1773,7 @@
               },
               {
                 "date": "2026-06-15",
-                "contributionCount": 3,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
@@ -1783,12 +1783,12 @@
               },
               {
                 "date": "2026-06-17",
-                "contributionCount": 3,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-06-18",
-                "contributionCount": 9,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
@@ -1798,7 +1798,7 @@
               },
               {
                 "date": "2026-06-20",
-                "contributionCount": 11,
+                "contributionCount": 10,
                 "color": "#9be9a8"
               }
             ]
@@ -1807,12 +1807,12 @@
             "contributionDays": [
               {
                 "date": "2026-06-21",
-                "contributionCount": 14,
-                "color": "#9be9a8"
+                "contributionCount": 0,
+                "color": "#ebedf0"
               },
               {
                 "date": "2026-06-22",
-                "contributionCount": 11,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
@@ -1822,22 +1822,22 @@
               },
               {
                 "date": "2026-06-24",
-                "contributionCount": 24,
-                "color": "#40c463"
-              },
-              {
-                "date": "2026-06-25",
-                "contributionCount": 1,
+                "contributionCount": 17,
                 "color": "#9be9a8"
               },
               {
+                "date": "2026-06-25",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
                 "date": "2026-06-26",
-                "contributionCount": 41,
-                "color": "#30a14e"
+                "contributionCount": 8,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-06-27",
-                "contributionCount": 32,
+                "contributionCount": 21,
                 "color": "#40c463"
               }
             ]
@@ -1846,8 +1846,8 @@
             "contributionDays": [
               {
                 "date": "2026-06-28",
-                "contributionCount": 20,
-                "color": "#40c463"
+                "contributionCount": 13,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-06-29",
@@ -1856,28 +1856,28 @@
               },
               {
                 "date": "2026-06-30",
-                "contributionCount": 25,
-                "color": "#40c463"
+                "contributionCount": 16,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-01",
-                "contributionCount": 23,
-                "color": "#40c463"
+                "contributionCount": 4,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-02",
-                "contributionCount": 20,
-                "color": "#40c463"
+                "contributionCount": 4,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-03",
-                "contributionCount": 23,
-                "color": "#40c463"
+                "contributionCount": 18,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-04",
-                "contributionCount": 37,
-                "color": "#30a14e"
+                "contributionCount": 33,
+                "color": "#40c463"
               }
             ]
           },
@@ -1885,7 +1885,7 @@
             "contributionDays": [
               {
                 "date": "2026-07-05",
-                "contributionCount": 30,
+                "contributionCount": 28,
                 "color": "#40c463"
               },
               {
@@ -1905,18 +1905,18 @@
               },
               {
                 "date": "2026-07-09",
-                "contributionCount": 20,
-                "color": "#40c463"
+                "contributionCount": 12,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-10",
-                "contributionCount": 5,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-11",
-                "contributionCount": 36,
-                "color": "#30a14e"
+                "contributionCount": 6,
+                "color": "#9be9a8"
               }
             ]
           },
@@ -1924,38 +1924,38 @@
             "contributionDays": [
               {
                 "date": "2026-07-12",
-                "contributionCount": 6,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-13",
-                "contributionCount": 20,
-                "color": "#40c463"
+                "contributionCount": 16,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-14",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-07-15",
                 "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
-                "date": "2026-07-15",
-                "contributionCount": 8,
+                "date": "2026-07-16",
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
-                "date": "2026-07-16",
-                "contributionCount": 18,
-                "color": "#40c463"
-              },
-              {
                 "date": "2026-07-17",
-                "contributionCount": 9,
+                "contributionCount": 5,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-18",
-                "contributionCount": 2,
-                "color": "#9be9a8"
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           },
@@ -1963,37 +1963,37 @@
             "contributionDays": [
               {
                 "date": "2026-07-19",
-                "contributionCount": 17,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-20",
-                "contributionCount": 2,
-                "color": "#9be9a8"
+                "contributionCount": 0,
+                "color": "#ebedf0"
               },
               {
                 "date": "2026-07-21",
-                "contributionCount": 11,
+                "contributionCount": 9,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-22",
-                "contributionCount": 5,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-23",
-                "contributionCount": 5,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-24",
-                "contributionCount": 20,
-                "color": "#40c463"
+                "contributionCount": 15,
+                "color": "#9be9a8"
               },
               {
                 "date": "2026-07-25",
-                "contributionCount": 11,
+                "contributionCount": 7,
                 "color": "#9be9a8"
               }
             ]
@@ -2002,12 +2002,12 @@
             "contributionDays": [
               {
                 "date": "2026-07-26",
-                "contributionCount": 11,
+                "contributionCount": 10,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-27",
-                "contributionCount": 8,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
@@ -2017,22 +2017,22 @@
               },
               {
                 "date": "2026-07-29",
-                "contributionCount": 14,
+                "contributionCount": 11,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-30",
-                "contributionCount": 3,
+                "contributionCount": 2,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-07-31",
-                "contributionCount": 4,
+                "contributionCount": 3,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-08-01",
-                "contributionCount": 7,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               }
             ]
@@ -2041,31 +2041,36 @@
             "contributionDays": [
               {
                 "date": "2026-08-02",
-                "contributionCount": 11,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2026-08-03",
-                "contributionCount": 6,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2026-08-04",
                 "contributionCount": 7,
                 "color": "#9be9a8"
               },
               {
+                "date": "2026-08-03",
+                "contributionCount": 1,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-04",
+                "contributionCount": 1,
+                "color": "#9be9a8"
+              },
+              {
                 "date": "2026-08-05",
-                "contributionCount": 12,
+                "contributionCount": 2,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-08-06",
-                "contributionCount": 12,
+                "contributionCount": 8,
                 "color": "#9be9a8"
               },
               {
                 "date": "2026-08-07",
+                "contributionCount": 6,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-08",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2081,7 +2086,7 @@
       "bio": "",
       "followers": 3,
       "calendar": {
-        "totalContributions": 107,
+        "totalContributions": 104,
         "weeks": [
           {
             "contributionDays": [
@@ -3862,7 +3867,7 @@
               },
               {
                 "date": "2026-06-18",
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               },
               {
@@ -3872,7 +3877,7 @@
               },
               {
                 "date": "2026-06-20",
-                "contributionCount": 2,
+                "contributionCount": 1,
                 "color": "#9be9a8"
               }
             ]
@@ -4130,8 +4135,8 @@
               },
               {
                 "date": "2026-08-05",
-                "contributionCount": 1,
-                "color": "#9be9a8"
+                "contributionCount": 0,
+                "color": "#ebedf0"
               },
               {
                 "date": "2026-08-06",
@@ -4140,6 +4145,11 @@
               },
               {
                 "date": "2026-08-07",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-08",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4205,7 +4215,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-07T01:59:59Z",
+      "pushedAt": "2026-08-08T00:42:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4289,7 +4299,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-06T06:37:39Z",
+      "pushedAt": "2026-08-07T12:12:18Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4298,7 +4308,7 @@
       "languages": {
         "edges": [
           {
-            "size": 222420,
+            "size": 249425,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4333,7 +4343,7 @@
             }
           }
         ],
-        "totalSize": 225972
+        "totalSize": 252977
       },
       "owner": "RainPPR"
     },
@@ -4397,50 +4407,29 @@
       "owner": "rainewhk"
     },
     {
-      "name": "windows-clipboard-mime-inspector",
-      "description": "Windows Clipboard MIME Inspector",
-      "url": "https://github.com/RainPPR/windows-clipboard-mime-inspector",
-      "homepageUrl": "https://aistudio.google.com/apps/1469067f-7947-49f5-8c17-7ab2411786d4",
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-06T06:32:45Z",
+      "pushedAt": "2026-08-07T02:46:46Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
+        "name": "Python",
+        "color": "#3572A5"
       },
       "languages": {
         "edges": [
           {
-            "size": 69930,
+            "size": 10030,
             "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 4319,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1002,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 510,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
+              "name": "Python",
+              "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 75761
+        "totalSize": 10030
       },
       "owner": "RainPPR"
     },
@@ -4451,7 +4440,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-06T01:50:58Z",
+      "pushedAt": "2026-08-07T02:13:26Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4478,7 +4467,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-06T01:25:22Z",
+      "pushedAt": "2026-08-07T02:03:41Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4527,29 +4516,50 @@
       "owner": "RainPPR"
     },
     {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
+      "name": "windows-clipboard-mime-inspector",
+      "description": "Windows Clipboard MIME Inspector",
+      "url": "https://github.com/RainPPR/windows-clipboard-mime-inspector",
+      "homepageUrl": "https://aistudio.google.com/apps/1469067f-7947-49f5-8c17-7ab2411786d4",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-05T02:43:28Z",
+      "pushedAt": "2026-08-06T06:32:45Z",
       "isPrivate": false,
       "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
+        "name": "TypeScript",
+        "color": "#3178c6"
       },
       "languages": {
         "edges": [
           {
-            "size": 10030,
+            "size": 69930,
             "node": {
-              "name": "Python",
-              "color": "#3572A5"
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 4319,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1002,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 510,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
             }
           }
         ],
-        "totalSize": 10030
+        "totalSize": 75761
       },
       "owner": "RainPPR"
     },
@@ -6314,61 +6324,13 @@
   ],
   "pages": [
     {
-      "name": "windows-clipboard-mime-inspector",
-      "description": "Windows Clipboard MIME Inspector",
-      "url": "https://github.com/RainPPR/windows-clipboard-mime-inspector",
-      "homepageUrl": "https://aistudio.google.com/apps/1469067f-7947-49f5-8c17-7ab2411786d4",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-08-06T06:32:45Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 69930,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 4319,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1002,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 510,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 75761
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-06T01:25:22Z",
+      "pushedAt": "2026-08-07T02:03:41Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6413,6 +6375,54 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "windows-clipboard-mime-inspector",
+      "description": "Windows Clipboard MIME Inspector",
+      "url": "https://github.com/RainPPR/windows-clipboard-mime-inspector",
+      "homepageUrl": "https://aistudio.google.com/apps/1469067f-7947-49f5-8c17-7ab2411786d4",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-06T06:32:45Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 69930,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 4319,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1002,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 510,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 75761
       },
       "owner": "RainPPR"
     },
@@ -6659,7 +6669,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-07T01:59:59Z",
+      "pushedAt": "2026-08-08T00:42:49Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6985,7 +6995,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 596009,
+      "size": 623014,
       "color": "#3178c6"
     },
     {
@@ -7071,17 +7081,17 @@
   ],
   "totalStats": {
     "stars": 15,
-    "commits": 4538,
-    "prs": 113,
+    "commits": 4217,
+    "prs": 115,
     "issues": 5,
     "repoCount": 62
   },
-  "updatedAt": "2026-08-07T02:03:25.513Z",
+  "updatedAt": "2026-08-08T00:47:48.066Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4538 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4217 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7095,7 +7105,7 @@
     {
       "id": "streak-master",
       "title": "Reliability Streak",
-      "description": "Maintained continuous contribution for 141 days. Indicates high reliability and steady progress.",
+      "description": "Maintained continuous contribution for 126 days. Indicates high reliability and steady progress.",
       "icon": "Award",
       "level": "Gold"
     },
@@ -7125,13 +7135,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 2091,
+      "commits": 1773,
       "repos": [
         "ai-math-chat-studio",
-        "windows-clipboard-mime-inspector",
+        "free-models-list",
         "poe-free-models",
         "metrics",
-        "free-models-list",
+        "windows-clipboard-mime-inspector",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7151,10 +7161,10 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 192,
+      "commits": 194,
       "repos": [
-        "poe-free-models",
         "free-models-list",
+        "poe-free-models",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
@@ -7164,9 +7174,8 @@
     {
       "login": "RaineMtF",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192512683?v=4",
-      "commits": 70,
+      "commits": 68,
       "repos": [
-        "ai-math-chat-studio",
         "proxy-dector",
         "memory",
         "RaineMtF",
@@ -7176,9 +7185,8 @@
     {
       "login": "dependabot[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/29110?v=4",
-      "commits": 14,
+      "commits": 12,
       "repos": [
-        "ai-math-chat-studio",
         "v2ray-remote-selector",
         "memory",
         "mkdocs-docker",
