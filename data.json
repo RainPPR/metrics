@@ -7,47 +7,8 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4297,
+        "totalContributions": 4308,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-08-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-04",
-                "contributionCount": 5,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-08-05",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-08-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-07",
-                "contributionCount": 5,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-08-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-08-08",
+                "contributionCount": 11,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-08-09",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 104,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-08-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-08-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-08-09",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4215,7 +4155,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-08T00:42:49Z",
+      "pushedAt": "2026-08-09T00:45:41Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4293,13 +4233,13 @@
       "owner": "raineblog"
     },
     {
-      "name": "ai-math-chat-studio",
-      "description": "AI Math & Chat Studio",
-      "url": "https://github.com/RainPPR/ai-math-chat-studio",
-      "homepageUrl": null,
+      "name": "wenyan",
+      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
+      "url": "https://github.com/RainPPR/wenyan",
+      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-07T12:12:18Z",
+      "pushedAt": "2026-08-08T14:33:22Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4308,7 +4248,48 @@
       "languages": {
         "edges": [
           {
-            "size": 249425,
+            "size": 279671,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 324,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 280018
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "ai-math-chat-studio",
+      "description": "AI Math & Chat Studio",
+      "url": "https://github.com/RainPPR/ai-math-chat-studio",
+      "homepageUrl": null,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-08T05:45:58Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 257962,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4343,7 +4324,7 @@
             }
           }
         ],
-        "totalSize": 252977
+        "totalSize": 261514
       },
       "owner": "RainPPR"
     },
@@ -4413,7 +4394,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-07T02:46:46Z",
+      "pushedAt": "2026-08-08T01:48:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4440,7 +4421,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-07T02:13:26Z",
+      "pushedAt": "2026-08-08T01:01:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4467,7 +4448,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-07T02:03:41Z",
+      "pushedAt": "2026-08-08T00:48:03Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6324,13 +6305,54 @@
   ],
   "pages": [
     {
+      "name": "wenyan",
+      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
+      "url": "https://github.com/RainPPR/wenyan",
+      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-08T14:33:22Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 279671,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 324,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 280018
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-07T02:03:41Z",
+      "pushedAt": "2026-08-08T00:48:03Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6669,7 +6691,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-08T00:42:49Z",
+      "pushedAt": "2026-08-09T00:45:41Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6980,7 +7002,7 @@
   "languageStats": [
     {
       "name": "HTML",
-      "size": 31292195,
+      "size": 31292519,
       "color": "#e34c26"
     },
     {
@@ -6995,7 +7017,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 623014,
+      "size": 911222,
       "color": "#3178c6"
     },
     {
@@ -7010,7 +7032,7 @@
     },
     {
       "name": "CSS",
-      "size": 47514,
+      "size": 47537,
       "color": "#663399"
     },
     {
@@ -7080,18 +7102,18 @@
     }
   ],
   "totalStats": {
-    "stars": 15,
-    "commits": 4217,
-    "prs": 115,
+    "stars": 16,
+    "commits": 4226,
+    "prs": 116,
     "issues": 5,
-    "repoCount": 62
+    "repoCount": 63
   },
-  "updatedAt": "2026-08-08T00:47:48.066Z",
+  "updatedAt": "2026-08-09T00:51:23.184Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4217 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4226 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7112,7 +7134,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 62 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 63 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7135,13 +7157,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1773,
+      "commits": 1779,
       "repos": [
+        "wenyan",
         "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "windows-clipboard-mime-inspector",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7161,7 +7183,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 194,
+      "commits": 196,
       "repos": [
         "free-models-list",
         "poe-free-models",
