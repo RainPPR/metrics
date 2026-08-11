@@ -4,10 +4,10 @@
       "login": "RainPPR",
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
-      "bio": "Rain Pang aka RainPPR | 2027 Gaokao",
+      "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4303,
+        "totalContributions": 4305,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,6 +2046,11 @@
               },
               {
                 "date": "2026-08-10",
+                "contributionCount": 2,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-11",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4102,6 +4107,11 @@
                 "date": "2026-08-10",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-11",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4137,7 +4147,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 9,
+      "stargazerCount": 10,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4165,7 +4175,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-10T00:47:58Z",
+      "pushedAt": "2026-08-10T01:08:26Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4243,6 +4253,47 @@
       "owner": "raineblog"
     },
     {
+      "name": "wenyan",
+      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
+      "url": "https://github.com/RainPPR/wenyan",
+      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-10T12:47:55Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 322173,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 324,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 322520
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "ai-math-chat-studio",
       "description": "AI Math & Chat Studio",
       "url": "https://github.com/RainPPR/ai-math-chat-studio",
@@ -4294,47 +4345,6 @@
           }
         ],
         "totalSize": 261887
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "wenyan",
-      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
-      "url": "https://github.com/RainPPR/wenyan",
-      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "pushedAt": "2026-08-08T14:33:22Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 279671,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 324,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 23,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 280018
       },
       "owner": "RainPPR"
     },
@@ -4398,13 +4408,29 @@
       "owner": "rainewhk"
     },
     {
+      "name": "RainPPR",
+      "description": null,
+      "url": "https://github.com/RainPPR/RainPPR",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 2,
+      "pushedAt": "2026-08-10T06:21:58Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-09T01:55:15Z",
+      "pushedAt": "2026-08-10T01:59:52Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4431,7 +4457,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-09T01:05:19Z",
+      "pushedAt": "2026-08-10T01:07:01Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4458,7 +4484,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-09T00:51:39Z",
+      "pushedAt": "2026-08-10T00:53:48Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4612,22 +4638,6 @@
           }
         ],
         "totalSize": 14953
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "RainPPR",
-      "description": null,
-      "url": "https://github.com/RainPPR/RainPPR",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 2,
-      "pushedAt": "2026-07-24T08:17:55Z",
-      "isPrivate": false,
-      "primaryLanguage": null,
-      "languages": {
-        "edges": [],
-        "totalSize": 0
       },
       "owner": "RainPPR"
     },
@@ -6315,13 +6325,54 @@
   ],
   "pages": [
     {
+      "name": "wenyan",
+      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
+      "url": "https://github.com/RainPPR/wenyan",
+      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-10T12:47:55Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 322173,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 324,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 322520
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-09T00:51:39Z",
+      "pushedAt": "2026-08-10T00:53:48Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6366,47 +6417,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "wenyan",
-      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
-      "url": "https://github.com/RainPPR/wenyan",
-      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "pushedAt": "2026-08-08T14:33:22Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 279671,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 324,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 23,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 280018
       },
       "owner": "RainPPR"
     },
@@ -6701,7 +6711,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-10T00:47:58Z",
+      "pushedAt": "2026-08-10T01:08:26Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7021,14 +7031,14 @@
       "color": "#f34b7d"
     },
     {
+      "name": "TypeScript",
+      "size": 954097,
+      "color": "#3178c6"
+    },
+    {
       "name": "Python",
       "size": 919695,
       "color": "#3572A5"
-    },
-    {
-      "name": "TypeScript",
-      "size": 911595,
-      "color": "#3178c6"
     },
     {
       "name": "JavaScript",
@@ -7112,25 +7122,25 @@
     }
   ],
   "totalStats": {
-    "stars": 16,
-    "commits": 4221,
+    "stars": 17,
+    "commits": 4223,
     "prs": 117,
     "issues": 5,
     "repoCount": 63
   },
-  "updatedAt": "2026-08-10T00:53:33.512Z",
+  "updatedAt": "2026-08-11T00:52:37.069Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4221 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4223 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
     {
       "id": "multi-linguist",
       "title": "Domain Proficiency",
-      "description": "Proficient in HTML, C++, Python and 20 additional languages. Covers diverse engineering domains.",
+      "description": "Proficient in HTML, C++, TypeScript and 20 additional languages. Covers diverse engineering domains.",
       "icon": "Zap",
       "level": "Gold"
     },
@@ -7165,15 +7175,29 @@
   ],
   "contributors": [
     {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "commits": 7190,
+      "repos": [
+        "RainPPR",
+        "free-models-list",
+        "poe-free-models",
+        "v2rayse",
+        "v2ray-remote-selector",
+        "memory",
+        "Chemistry-Note-RAG"
+      ]
+    },
+    {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1785,
+      "commits": 1832,
       "repos": [
-        "ai-math-chat-studio",
+        "wenyan",
+        "RainPPR",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "wenyan",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7188,19 +7212,6 @@
         "china-textbook-2021-hf",
         "china-english-words",
         "gaokao"
-      ]
-    },
-    {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 198,
-      "repos": [
-        "free-models-list",
-        "poe-free-models",
-        "v2rayse",
-        "v2ray-remote-selector",
-        "memory",
-        "Chemistry-Note-RAG"
       ]
     },
     {
