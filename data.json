@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4322,
+        "totalContributions": 4327,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-08-14",
+                "contributionCount": 5,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-15",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4142,6 +4147,11 @@
                 "date": "2026-08-14",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-15",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4177,7 +4187,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 11,
+      "stargazerCount": 12,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4283,6 +4293,54 @@
       "owner": "raineblog"
     },
     {
+      "name": "ai-math-chat-studio",
+      "description": "AI Math & Chat Studio",
+      "url": "https://github.com/RainPPR/ai-math-chat-studio",
+      "homepageUrl": null,
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-14T06:24:15Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 276639,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 2219,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 402,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          },
+          {
+            "size": 309,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          }
+        ],
+        "totalSize": 279569
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "wenyan",
       "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
       "url": "https://github.com/RainPPR/wenyan",
@@ -4327,61 +4385,6 @@
           }
         ],
         "totalSize": 406965
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "ai-math-chat-studio",
-      "description": "AI Math & Chat Studio",
-      "url": "https://github.com/RainPPR/ai-math-chat-studio",
-      "homepageUrl": null,
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "pushedAt": "2026-08-12T13:04:08Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 274271,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 2219,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 622,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 402,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          },
-          {
-            "size": 309,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          }
-        ],
-        "totalSize": 277823
       },
       "owner": "RainPPR"
     },
@@ -4451,7 +4454,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-13T02:10:05Z",
+      "pushedAt": "2026-08-14T02:08:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4478,7 +4481,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-13T01:15:36Z",
+      "pushedAt": "2026-08-14T01:14:42Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4505,7 +4508,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-13T01:01:22Z",
+      "pushedAt": "2026-08-14T01:00:44Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6157,6 +6160,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-08-14T04:11:04Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -6194,33 +6224,6 @@
           }
         ],
         "totalSize": 28518
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-08-05T05:17:46Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6362,61 +6365,13 @@
   ],
   "pages": [
     {
-      "name": "wenyan",
-      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
-      "url": "https://github.com/RainPPR/wenyan",
-      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "pushedAt": "2026-08-13T12:54:30Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 404910,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 1709,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 323,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 23,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 406965
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-13T01:01:22Z",
+      "pushedAt": "2026-08-14T01:00:44Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6461,6 +6416,54 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "wenyan",
+      "description": "高中文言实虚词整理平台：常见文言实词、核心虚词及高频难词义项例句汇编",
+      "url": "https://github.com/RainPPR/wenyan",
+      "homepageUrl": "http://rainppr.dpdns.org/wenyan/",
+      "stargazerCount": 1,
+      "forkCount": 0,
+      "pushedAt": "2026-08-13T12:54:30Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 404910,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 1709,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 323,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 23,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 406965
       },
       "owner": "RainPPR"
     },
@@ -6960,7 +6963,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-08-05T05:17:46Z",
+      "pushedAt": "2026-08-14T04:11:04Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7076,7 +7079,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1052770,
+      "size": 1055138,
       "color": "#3178c6"
     },
     {
@@ -7086,7 +7089,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 385900,
+      "size": 385278,
       "color": "#f1e05a"
     },
     {
@@ -7166,18 +7169,18 @@
     }
   ],
   "totalStats": {
-    "stars": 18,
-    "commits": 4238,
-    "prs": 119,
+    "stars": 19,
+    "commits": 4241,
+    "prs": 121,
     "issues": 5,
     "repoCount": 63
   },
-  "updatedAt": "2026-08-14T01:00:26.676Z",
+  "updatedAt": "2026-08-15T00:35:11.412Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4238 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4241 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7221,13 +7224,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1801,
+      "commits": 1804,
       "repos": [
-        "wenyan",
+        "ai-math-chat-studio",
         "free-models-list",
         "poe-free-models",
         "metrics",
-        "ai-math-chat-studio",
+        "wenyan",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7237,8 +7240,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "anki-ewords",
         "Chemistry-Note-RAG",
+        "anki-ewords",
         "china-textbook-2021-hf",
         "china-english-words",
         "gaokao"
@@ -7247,7 +7250,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 207,
+      "commits": 210,
       "repos": [
         "free-models-list",
         "poe-free-models",
