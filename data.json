@@ -2048,6 +2048,11 @@
                 "date": "2026-08-24",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-25",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4102,6 +4107,11 @@
                 "date": "2026-08-24",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-25",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4137,7 +4147,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 13,
+      "stargazerCount": 14,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4165,7 +4175,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-20T00:31:46Z",
+      "pushedAt": "2026-08-24T00:49:57Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4243,13 +4253,40 @@
       "owner": "raineblog"
     },
     {
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
+      "stargazerCount": 2,
+      "pushedAt": "2026-02-22T23:52:21Z",
+      "createdAt": "2026-02-15T11:43:33Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14514,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 14514
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "ai-math-chat-studio",
       "description": "AI Math & Chat Studio",
       "url": "https://github.com/RainPPR/ai-math-chat-studio",
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-23T06:13:00Z",
+      "pushedAt": "2026-08-24T12:50:25Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4371,67 +4408,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "gaokao-chinese",
-      "description": "高考语文",
-      "url": "https://github.com/rainewhk/gaokao-chinese",
-      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 1,
-      "pushedAt": "2026-02-22T23:52:21Z",
-      "createdAt": "2026-02-15T11:43:33Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14514,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 14514
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-08-23T08:33:31Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-23T00:38:31Z",
+      "pushedAt": "2026-08-24T00:37:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4476,6 +4459,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-23T08:33:31Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6321,7 +6331,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-23T00:38:31Z",
+      "pushedAt": "2026-08-24T00:37:20Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6708,7 +6718,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-08-20T00:31:46Z",
+      "pushedAt": "2026-08-24T00:49:57Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6993,7 +7003,7 @@
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 1,
+      "stargazerCount": 2,
       "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
@@ -7119,13 +7129,13 @@
     }
   ],
   "totalStats": {
-    "stars": 20,
+    "stars": 22,
     "commits": 4226,
     "prs": 127,
     "issues": 4,
     "repoCount": 63
   },
-  "updatedAt": "2026-08-24T00:37:03.287Z",
+  "updatedAt": "2026-08-25T00:36:30.304Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7176,9 +7186,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1825,
       "repos": [
-        "free-models-list",
         "ai-math-chat-studio",
         "metrics",
+        "free-models-list",
         "poe-free-models",
         "wenyan",
         "v2rayse",
