@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 23,
       "calendar": {
-        "totalContributions": 4315,
+        "totalContributions": 4322,
         "weeks": [
           {
             "contributionDays": [
@@ -2051,6 +2051,11 @@
               },
               {
                 "date": "2026-08-25",
+                "contributionCount": 7,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4112,6 +4117,11 @@
                 "date": "2026-08-25",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-26",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4286,7 +4296,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-24T12:50:25Z",
+      "pushedAt": "2026-08-25T13:23:53Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4295,7 +4305,7 @@
       "languages": {
         "edges": [
           {
-            "size": 314437,
+            "size": 337131,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4323,7 +4333,7 @@
             }
           }
         ],
-        "totalSize": 317625
+        "totalSize": 340319
       },
       "owner": "RainPPR"
     },
@@ -4408,13 +4418,56 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "mihomo-smart-lightgbm",
+      "description": null,
+      "url": "https://github.com/RainPPR/mihomo-smart-lightgbm",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-25T12:55:46Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-25T08:46:00Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-24T00:37:20Z",
+      "pushedAt": "2026-08-25T00:36:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4459,33 +4512,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-08-23T08:33:31Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6331,7 +6357,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-24T00:37:20Z",
+      "pushedAt": "2026-08-25T00:36:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7039,7 +7065,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1092936,
+      "size": 1115630,
       "color": "#3178c6"
     },
     {
@@ -7130,17 +7156,17 @@
   ],
   "totalStats": {
     "stars": 22,
-    "commits": 4226,
-    "prs": 127,
+    "commits": 4229,
+    "prs": 130,
     "issues": 4,
-    "repoCount": 63
+    "repoCount": 64
   },
-  "updatedAt": "2026-08-25T00:36:30.304Z",
+  "updatedAt": "2026-08-26T00:37:10.190Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4226 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4229 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7161,7 +7187,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 63 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 64 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7184,13 +7210,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1825,
+      "commits": 1809,
       "repos": [
         "ai-math-chat-studio",
-        "metrics",
+        "mihomo-smart-lightgbm",
         "free-models-list",
+        "metrics",
         "poe-free-models",
-        "wenyan",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7210,8 +7236,9 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 237,
+      "commits": 240,
       "repos": [
+        "mihomo-smart-lightgbm",
         "free-models-list",
         "poe-free-models",
         "v2rayse",
