@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4324,
+        "totalContributions": 4338,
         "weeks": [
           {
             "contributionDays": [
@@ -2061,6 +2061,11 @@
               },
               {
                 "date": "2026-08-27",
+                "contributionCount": 14,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4132,6 +4137,11 @@
                 "date": "2026-08-27",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-28",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4167,7 +4177,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 14,
+      "stargazerCount": 15,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4306,7 +4316,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-27T04:49:15Z",
+      "pushedAt": "2026-08-27T09:37:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4315,7 +4325,7 @@
       "languages": {
         "edges": [
           {
-            "size": 335205,
+            "size": 336174,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4343,7 +4353,7 @@
             }
           }
         ],
-        "totalSize": 338393
+        "totalSize": 339362
       },
       "owner": "RainPPR"
     },
@@ -4434,7 +4444,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-26T16:49:49Z",
+      "pushedAt": "2026-08-27T19:39:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4455,13 +4465,54 @@
       "owner": "RainPPR"
     },
     {
+      "name": "Meme-Chatbot",
+      "description": "AI Chat Assistant",
+      "url": "https://github.com/RainPPR/Meme-Chatbot",
+      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-27T07:00:36Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 60085,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 482,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 72,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 60639
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-26T00:37:30Z",
+      "pushedAt": "2026-08-27T05:36:29Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6156,6 +6207,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-08-27T12:36:14Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -6193,33 +6271,6 @@
           }
         ],
         "totalSize": 28518
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-08-23T03:05:04Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6361,13 +6412,54 @@
   ],
   "pages": [
     {
+      "name": "Meme-Chatbot",
+      "description": "AI Chat Assistant",
+      "url": "https://github.com/RainPPR/Meme-Chatbot",
+      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-27T07:00:36Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 60085,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 482,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 72,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 60639
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-26T00:37:30Z",
+      "pushedAt": "2026-08-27T05:36:29Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6959,7 +7051,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-08-23T03:05:04Z",
+      "pushedAt": "2026-08-27T12:36:14Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7075,7 +7167,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1113704,
+      "size": 1174758,
       "color": "#3178c6"
     },
     {
@@ -7085,7 +7177,7 @@
     },
     {
       "name": "JavaScript",
-      "size": 385278,
+      "size": 385760,
       "color": "#f1e05a"
     },
     {
@@ -7095,7 +7187,7 @@
     },
     {
       "name": "CSS",
-      "size": 47795,
+      "size": 47867,
       "color": "#663399"
     },
     {
@@ -7165,18 +7257,18 @@
     }
   ],
   "totalStats": {
-    "stars": 22,
-    "commits": 4230,
-    "prs": 131,
+    "stars": 23,
+    "commits": 4241,
+    "prs": 133,
     "issues": 4,
-    "repoCount": 64
+    "repoCount": 65
   },
-  "updatedAt": "2026-08-27T05:36:14.370Z",
+  "updatedAt": "2026-08-28T07:44:20.330Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4230 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4241 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7197,7 +7289,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 64 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 65 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7220,13 +7312,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1810,
+      "commits": 1811,
       "repos": [
-        "ai-math-chat-studio",
         "free-models-list",
+        "ai-math-chat-studio",
+        "Meme-Chatbot",
         "metrics",
         "mihomo-smart-lightgbm",
-        "poe-free-models",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7236,8 +7328,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "anki-ewords",
         "Chemistry-Note-RAG",
+        "anki-ewords",
         "china-textbook-2021-hf",
         "china-english-words",
         "gaokao"
@@ -7246,11 +7338,10 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 243,
+      "commits": 161,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
-        "poe-free-models",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
