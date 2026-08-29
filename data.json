@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4338,
+        "totalContributions": 4345,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-08-28",
+                "contributionCount": 7,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4142,6 +4147,11 @@
                 "date": "2026-08-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-29",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4196,6 +4206,33 @@
           }
         ],
         "totalSize": 23128
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "gaokao-chinese",
+      "description": "高考语文",
+      "url": "https://github.com/rainewhk/gaokao-chinese",
+      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
+      "stargazerCount": 3,
+      "pushedAt": "2026-02-22T23:52:21Z",
+      "createdAt": "2026-02-15T11:43:33Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 14514,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 14514
       },
       "owner": "rainewhk"
     },
@@ -4281,33 +4318,6 @@
         "totalSize": 345188
       },
       "owner": "raineblog"
-    },
-    {
-      "name": "gaokao-chinese",
-      "description": "高考语文",
-      "url": "https://github.com/rainewhk/gaokao-chinese",
-      "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 2,
-      "pushedAt": "2026-02-22T23:52:21Z",
-      "createdAt": "2026-02-15T11:43:33Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 14514,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 14514
-      },
-      "owner": "rainewhk"
     },
     {
       "name": "ai-math-chat-studio",
@@ -4444,7 +4454,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-27T19:39:35Z",
+      "pushedAt": "2026-08-29T01:30:24Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4465,43 +4475,34 @@
       "owner": "RainPPR"
     },
     {
-      "name": "Meme-Chatbot",
-      "description": "AI Chat Assistant",
-      "url": "https://github.com/RainPPR/Meme-Chatbot",
-      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
+      "name": "mihomo-smart-lightgbm",
+      "description": null,
+      "url": "https://github.com/RainPPR/mihomo-smart-lightgbm",
+      "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-27T07:00:36Z",
+      "pushedAt": "2026-08-28T10:47:03Z",
       "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
+      "primaryLanguage": null,
       "languages": {
-        "edges": [
-          {
-            "size": 60085,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 482,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 72,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 60639
+        "edges": [],
+        "totalSize": 0
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "gao3-wuli-shujia-zuoye",
+      "description": null,
+      "url": "https://github.com/RainPPR/gao3-wuli-shujia-zuoye",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-28T08:24:53Z",
+      "isPrivate": false,
+      "primaryLanguage": null,
+      "languages": {
+        "edges": [],
+        "totalSize": 0
       },
       "owner": "RainPPR"
     },
@@ -4512,7 +4513,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-27T05:36:29Z",
+      "pushedAt": "2026-08-28T07:44:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4561,18 +4562,43 @@
       "owner": "RainPPR"
     },
     {
-      "name": "mihomo-smart-lightgbm",
-      "description": null,
-      "url": "https://github.com/RainPPR/mihomo-smart-lightgbm",
-      "homepageUrl": null,
+      "name": "Meme-Chatbot",
+      "description": "AI Chat Assistant",
+      "url": "https://github.com/RainPPR/Meme-Chatbot",
+      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-25T12:55:46Z",
+      "pushedAt": "2026-08-27T07:00:36Z",
       "isPrivate": false,
-      "primaryLanguage": null,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
       "languages": {
-        "edges": [],
-        "totalSize": 0
+        "edges": [
+          {
+            "size": 60085,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 482,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 72,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 60639
       },
       "owner": "RainPPR"
     },
@@ -6412,54 +6438,13 @@
   ],
   "pages": [
     {
-      "name": "Meme-Chatbot",
-      "description": "AI Chat Assistant",
-      "url": "https://github.com/RainPPR/Meme-Chatbot",
-      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-08-27T07:00:36Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "TypeScript",
-        "color": "#3178c6"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 60085,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 482,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 72,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 60639
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-27T05:36:29Z",
+      "pushedAt": "2026-08-28T07:44:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6504,6 +6489,47 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "Meme-Chatbot",
+      "description": "AI Chat Assistant",
+      "url": "https://github.com/RainPPR/Meme-Chatbot",
+      "homepageUrl": "http://rainppr.dpdns.org/Meme-Chatbot/",
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-27T07:00:36Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "TypeScript",
+        "color": "#3178c6"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 60085,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 482,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 72,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 60639
       },
       "owner": "RainPPR"
     },
@@ -7131,7 +7157,7 @@
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 2,
+      "stargazerCount": 3,
       "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
@@ -7257,18 +7283,18 @@
     }
   ],
   "totalStats": {
-    "stars": 23,
-    "commits": 4241,
+    "stars": 24,
+    "commits": 4244,
     "prs": 133,
     "issues": 4,
-    "repoCount": 65
+    "repoCount": 66
   },
-  "updatedAt": "2026-08-28T07:44:20.330Z",
+  "updatedAt": "2026-08-29T04:40:53.933Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4241 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4244 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7289,7 +7315,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 65 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 66 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7312,13 +7338,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1811,
+      "commits": 1806,
       "repos": [
         "free-models-list",
-        "ai-math-chat-studio",
-        "Meme-Chatbot",
-        "metrics",
         "mihomo-smart-lightgbm",
+        "gao3-wuli-shujia-zuoye",
+        "metrics",
+        "ai-math-chat-studio",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7338,7 +7364,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 161,
+      "commits": 164,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
