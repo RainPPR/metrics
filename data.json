@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4345,
+        "totalContributions": 4311,
         "weeks": [
           {
             "contributionDays": [
@@ -2032,8 +2032,8 @@
               },
               {
                 "date": "2026-08-29",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           },
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-08-30",
+                "contributionCount": 4,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-08-31",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-08-30",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-08-31",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4266,7 +4276,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-08-29T06:20:29Z",
+      "pushedAt": "2026-08-30T06:07:03Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4275,7 +4285,7 @@
       "languages": {
         "edges": [
           {
-            "size": 336174,
+            "size": 339428,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4303,7 +4313,7 @@
             }
           }
         ],
-        "totalSize": 339362
+        "totalSize": 342616
       },
       "owner": "RainPPR"
     },
@@ -4388,13 +4398,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-08-30T04:32:35Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-29T04:41:11Z",
+      "pushedAt": "2026-08-30T02:14:59Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4439,33 +4476,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-08-29T01:30:24Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6173,6 +6183,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-08-30T06:07:27Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 927,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 927
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
@@ -6384,7 +6421,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-08-29T04:41:11Z",
+      "pushedAt": "2026-08-30T02:14:59Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7133,12 +7170,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 1174758,
+      "size": 1178012,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "size": 914925,
+      "size": 915852,
       "color": "#3572A5"
     },
     {
@@ -7224,17 +7261,17 @@
   ],
   "totalStats": {
     "stars": 24,
-    "commits": 4244,
-    "prs": 133,
+    "commits": 4211,
+    "prs": 132,
     "issues": 4,
-    "repoCount": 66
+    "repoCount": 67
   },
-  "updatedAt": "2026-08-30T02:14:42.095Z",
+  "updatedAt": "2026-08-31T02:09:55.485Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4244 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4211 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7255,7 +7292,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 66 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 67 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7278,11 +7315,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1806,
+      "commits": 1802,
       "repos": [
         "ai-math-chat-studio",
-        "metrics",
         "free-models-list",
+        "metrics",
         "mihomo-smart-lightgbm",
         "gao3-wuli-shujia-zuoye",
         "v2rayse",
@@ -7294,17 +7331,17 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "today-anki-words",
         "Chemistry-Note-RAG",
         "anki-ewords",
         "china-textbook-2021-hf",
-        "china-english-words",
-        "gaokao"
+        "china-english-words"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 164,
+      "commits": 165,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
