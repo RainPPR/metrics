@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4322,
+        "totalContributions": 4328,
         "weeks": [
           {
             "contributionDays": [
@@ -2061,6 +2061,11 @@
               },
               {
                 "date": "2026-09-03",
+                "contributionCount": 6,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-09-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4132,6 +4137,11 @@
                 "date": "2026-09-03",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-04",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4306,7 +4316,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-09-02T06:35:25Z",
+      "pushedAt": "2026-09-03T06:52:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4428,40 +4438,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-09-02T17:41:07Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-02T01:51:01Z",
+      "pushedAt": "2026-09-03T01:56:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4506,6 +4489,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-09-02T17:41:07Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6213,12 +6223,39 @@
       "owner": "raineblog"
     },
     {
+      "name": "china-english-words",
+      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
+      "url": "https://github.com/rainewhk/china-english-words",
+      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-03T10:39:33Z",
+      "createdAt": "2026-05-26T10:17:39Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 63787,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 63787
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "today-anki-words",
       "description": "今天的 Anki 英语单词有哪些？",
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-09-02T02:36:50Z",
+      "pushedAt": "2026-09-03T02:43:00Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6335,33 +6372,6 @@
       "owner": "rainewhk"
     },
     {
-      "name": "china-english-words",
-      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
-      "url": "https://github.com/rainewhk/china-english-words",
-      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-03T11:44:16Z",
-      "createdAt": "2026-05-26T10:17:39Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 156360,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 156360
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "words-bonus",
       "description": "让人工智能整理、补充英语词汇积累的工具。",
       "url": "https://github.com/rainewhk/words-bonus",
@@ -6451,7 +6461,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-02T01:51:01Z",
+      "pushedAt": "2026-09-03T01:56:49Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7079,6 +7089,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "china-english-words",
+      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
+      "url": "https://github.com/rainewhk/china-english-words",
+      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-03T10:39:33Z",
+      "createdAt": "2026-05-26T10:17:39Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 63787,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 63787
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
@@ -7133,33 +7170,6 @@
       "owner": "rainewhk"
     },
     {
-      "name": "china-english-words",
-      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
-      "url": "https://github.com/rainewhk/china-english-words",
-      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-07-03T11:44:16Z",
-      "createdAt": "2026-05-26T10:17:39Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 156360,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 156360
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "gaokao-chinese",
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
@@ -7205,7 +7215,7 @@
     },
     {
       "name": "Python",
-      "size": 915871,
+      "size": 823298,
       "color": "#3572A5"
     },
     {
@@ -7291,17 +7301,17 @@
   ],
   "totalStats": {
     "stars": 24,
-    "commits": 4222,
+    "commits": 4228,
     "prs": 132,
     "issues": 4,
     "repoCount": 67
   },
-  "updatedAt": "2026-09-03T01:56:32.204Z",
+  "updatedAt": "2026-09-04T01:51:17.278Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4222 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4228 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7345,11 +7355,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1815,
+      "commits": 1821,
       "repos": [
-        "free-models-list",
         "ai-math-chat-studio",
         "metrics",
+        "free-models-list",
         "mihomo-smart-lightgbm",
         "gao3-wuli-shujia-zuoye",
         "v2rayse",
@@ -7361,17 +7371,17 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "china-english-words",
         "today-anki-words",
         "Chemistry-Note-RAG",
         "anki-ewords",
-        "china-textbook-2021-hf",
-        "china-english-words"
+        "china-textbook-2021-hf"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 173,
+      "commits": 174,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
