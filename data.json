@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4328,
+        "totalContributions": 4342,
         "weeks": [
           {
             "contributionDays": [
@@ -2066,6 +2066,11 @@
               },
               {
                 "date": "2026-09-04",
+                "contributionCount": 14,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-09-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4142,6 +4147,11 @@
                 "date": "2026-09-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4316,7 +4326,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-09-03T06:52:02Z",
+      "pushedAt": "2026-09-04T12:59:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4325,7 +4335,7 @@
       "languages": {
         "edges": [
           {
-            "size": 339428,
+            "size": 345936,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4353,7 +4363,7 @@
             }
           }
         ],
-        "totalSize": 342616
+        "totalSize": 349124
       },
       "owner": "RainPPR"
     },
@@ -4438,13 +4448,67 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-09-04T20:25:26Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "mock_openai_server",
+      "description": "伪 OpenAI 服务",
+      "url": "https://github.com/RainPPR/mock_openai_server",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-09-04T05:37:23Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9350,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9350
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-03T01:56:49Z",
+      "pushedAt": "2026-09-04T01:51:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4489,33 +4553,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-09-02T17:41:07Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6228,7 +6265,7 @@
       "url": "https://github.com/rainewhk/china-english-words",
       "homepageUrl": "https://rainewhk.github.io/china-english-words/",
       "stargazerCount": 0,
-      "pushedAt": "2026-09-03T10:39:33Z",
+      "pushedAt": "2026-09-04T13:55:47Z",
       "createdAt": "2026-05-26T10:17:39Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6238,14 +6275,82 @@
       "languages": {
         "edges": [
           {
-            "size": 63787,
+            "size": 70609,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 63787
+        "totalSize": 70609
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "anki-ewords",
+      "description": "生成可导入 Anki 的 csv 单词表",
+      "url": "https://github.com/rainewhk/anki-ewords",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-04T11:03:48Z",
+      "createdAt": "2026-02-17T13:39:40Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 27178,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1316,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 24,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 28518
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "pep-chinese-textbook-diff",
+      "description": null,
+      "url": "https://github.com/rainewhk/pep-chinese-textbook-diff",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-04T07:29:25Z",
+      "createdAt": "2026-09-04T07:20:40Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 16019,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 16019
       },
       "owner": "rainewhk"
     },
@@ -6255,7 +6360,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-09-03T02:43:00Z",
+      "pushedAt": "2026-09-04T02:40:18Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6300,47 +6405,6 @@
           }
         ],
         "totalSize": 9555
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "anki-ewords",
-      "description": "生成可导入 Anki 的 csv 单词表",
-      "url": "https://github.com/rainewhk/anki-ewords",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-08-23T09:25:30Z",
-      "createdAt": "2026-02-17T13:39:40Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 27178,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 1316,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 24,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          }
-        ],
-        "totalSize": 28518
       },
       "owner": "rainewhk"
     },
@@ -6461,7 +6525,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-03T01:56:49Z",
+      "pushedAt": "2026-09-04T01:51:33Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7094,7 +7158,7 @@
       "url": "https://github.com/rainewhk/china-english-words",
       "homepageUrl": "https://rainewhk.github.io/china-english-words/",
       "stargazerCount": 0,
-      "pushedAt": "2026-09-03T10:39:33Z",
+      "pushedAt": "2026-09-04T13:55:47Z",
       "createdAt": "2026-05-26T10:17:39Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7104,14 +7168,14 @@
       "languages": {
         "edges": [
           {
-            "size": 63787,
+            "size": 70609,
             "node": {
               "name": "Python",
               "color": "#3572A5"
             }
           }
         ],
-        "totalSize": 63787
+        "totalSize": 70609
       },
       "owner": "rainewhk"
     },
@@ -7210,12 +7274,12 @@
     },
     {
       "name": "TypeScript",
-      "size": 1178012,
+      "size": 1184520,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "size": 823298,
+      "size": 855489,
       "color": "#3572A5"
     },
     {
@@ -7301,17 +7365,17 @@
   ],
   "totalStats": {
     "stars": 24,
-    "commits": 4228,
-    "prs": 132,
+    "commits": 4240,
+    "prs": 133,
     "issues": 4,
-    "repoCount": 67
+    "repoCount": 69
   },
-  "updatedAt": "2026-09-04T01:51:17.278Z",
+  "updatedAt": "2026-09-05T01:52:06.896Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4228 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4240 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7332,7 +7396,7 @@
     {
       "id": "project-explorer",
       "title": "Infrastructure Scale",
-      "description": "Managing a portfolio of 67 repositories, covering multiple technical architectures.",
+      "description": "Managing a portfolio of 69 repositories, covering multiple technical architectures.",
       "icon": "Rocket",
       "level": "Gold"
     },
@@ -7355,13 +7419,13 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1821,
+      "commits": 1819,
       "repos": [
-        "ai-math-chat-studio",
-        "metrics",
         "free-models-list",
+        "ai-math-chat-studio",
+        "mock_openai_server",
+        "metrics",
         "mihomo-smart-lightgbm",
-        "gao3-wuli-shujia-zuoye",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
@@ -7372,16 +7436,16 @@
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
         "china-english-words",
-        "today-anki-words",
-        "Chemistry-Note-RAG",
         "anki-ewords",
-        "china-textbook-2021-hf"
+        "pep-chinese-textbook-diff",
+        "today-anki-words",
+        "Chemistry-Note-RAG"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 174,
+      "commits": 176,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
