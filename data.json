@@ -12,45 +12,6 @@
           {
             "contributionDays": [
               {
-                "date": "2025-08-31",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-09-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-06",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              }
-            ]
-          },
-          {
-            "contributionDays": [
-              {
                 "date": "2025-09-07",
                 "contributionCount": 9,
                 "color": "#9be9a8"
@@ -2075,6 +2036,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-09-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 104,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-08-31",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-01",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-09-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-09-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4326,7 +4266,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-09-04T12:59:17Z",
+      "pushedAt": "2026-09-05T08:30:47Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4454,7 +4394,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-04T20:25:26Z",
+      "pushedAt": "2026-09-05T05:20:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4475,40 +4415,13 @@
       "owner": "RainPPR"
     },
     {
-      "name": "mock_openai_server",
-      "description": "伪 OpenAI 服务",
-      "url": "https://github.com/RainPPR/mock_openai_server",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-09-04T05:37:23Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9350,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9350
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-04T01:51:33Z",
+      "pushedAt": "2026-09-05T01:52:23Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4553,6 +4466,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "mock_openai_server",
+      "description": "伪 OpenAI 服务",
+      "url": "https://github.com/RainPPR/mock_openai_server",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-09-04T05:37:23Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9350,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9350
       },
       "owner": "RainPPR"
     },
@@ -6260,39 +6200,12 @@
       "owner": "raineblog"
     },
     {
-      "name": "china-english-words",
-      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
-      "url": "https://github.com/rainewhk/china-english-words",
-      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-04T13:55:47Z",
-      "createdAt": "2026-05-26T10:17:39Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 70609,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 70609
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-09-04T11:03:48Z",
+      "pushedAt": "2026-09-05T08:55:32Z",
       "createdAt": "2026-02-17T13:39:40Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6328,6 +6241,60 @@
       "owner": "rainewhk"
     },
     {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-05T02:41:38Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 927,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 927
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "china-english-words",
+      "description": "大致汇总和计数中国英语课本所有课本中出现过的单词并整理词频",
+      "url": "https://github.com/rainewhk/china-english-words",
+      "homepageUrl": "https://rainewhk.github.io/china-english-words/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-04T13:55:47Z",
+      "createdAt": "2026-05-26T10:17:39Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 70609,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 70609
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "pep-chinese-textbook-diff",
       "description": null,
       "url": "https://github.com/rainewhk/pep-chinese-textbook-diff",
@@ -6351,33 +6318,6 @@
           }
         ],
         "totalSize": 16019
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-04T02:40:18Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 927,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 927
       },
       "owner": "rainewhk"
     },
@@ -6525,7 +6465,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-04T01:51:33Z",
+      "pushedAt": "2026-09-05T01:52:23Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7370,7 +7310,7 @@
     "issues": 4,
     "repoCount": 69
   },
-  "updatedAt": "2026-09-05T01:52:06.896Z",
+  "updatedAt": "2026-09-06T01:46:38.189Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7421,10 +7361,10 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1819,
       "repos": [
-        "free-models-list",
         "ai-math-chat-studio",
-        "mock_openai_server",
+        "free-models-list",
         "metrics",
+        "mock_openai_server",
         "mihomo-smart-lightgbm",
         "v2rayse",
         "proxy-dector",
@@ -7435,17 +7375,17 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "china-english-words",
         "anki-ewords",
-        "pep-chinese-textbook-diff",
         "today-anki-words",
+        "china-english-words",
+        "pep-chinese-textbook-diff",
         "Chemistry-Note-RAG"
       ]
     },
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 176,
+      "commits": 178,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
