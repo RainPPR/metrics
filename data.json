@@ -2048,6 +2048,11 @@
                 "date": "2026-09-21",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-22",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4102,6 +4107,11 @@
                 "date": "2026-09-21",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-22",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4137,7 +4147,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 20,
+      "stargazerCount": 21,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4192,7 +4202,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-09-19T01:58:25Z",
+      "pushedAt": "2026-09-21T02:39:54Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4457,7 +4467,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-20T23:55:11Z",
+      "pushedAt": "2026-09-21T23:53:21Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4484,7 +4494,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-20T02:12:26Z",
+      "pushedAt": "2026-09-21T02:12:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6210,6 +6220,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-21T03:03:32Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 918,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 918
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
@@ -6233,33 +6270,6 @@
           }
         ],
         "totalSize": 9555
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-20T03:06:48Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 918,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 918
       },
       "owner": "rainewhk"
     },
@@ -6475,7 +6485,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-20T02:12:26Z",
+      "pushedAt": "2026-09-21T02:12:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6898,46 +6908,12 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "raineblog.github.io",
-      "description": "raineblog.github.io",
-      "url": "https://github.com/raineblog/raineblog.github.io",
-      "homepageUrl": "http://raineblog.dpdns.org/",
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-20T02:33:27Z",
-      "createdAt": "2025-03-08T11:07:49Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "HTML",
-        "color": "#e34c26"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 12822,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 1243,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          }
-        ],
-        "totalSize": 14065
-      },
-      "owner": "raineblog"
-    },
-    {
       "name": "whk",
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 2,
-      "pushedAt": "2026-09-19T01:58:25Z",
+      "pushedAt": "2026-09-21T02:39:54Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7011,6 +6987,40 @@
           }
         ],
         "totalSize": 345427
+      },
+      "owner": "raineblog"
+    },
+    {
+      "name": "raineblog.github.io",
+      "description": "raineblog.github.io",
+      "url": "https://github.com/raineblog/raineblog.github.io",
+      "homepageUrl": "http://raineblog.dpdns.org/",
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-20T02:33:27Z",
+      "createdAt": "2025-03-08T11:07:49Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "HTML",
+        "color": "#e34c26"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 12822,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 1243,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          }
+        ],
+        "totalSize": 14065
       },
       "owner": "raineblog"
     },
@@ -7314,13 +7324,13 @@
     }
   ],
   "totalStats": {
-    "stars": 30,
+    "stars": 31,
     "commits": 4229,
     "prs": 135,
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-09-21T02:12:10.915Z",
+  "updatedAt": "2026-09-22T02:17:10.114Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7372,21 +7382,21 @@
       "commits": 1841,
       "repos": [
         "free-models-list",
-        "ai-math-chat-studio",
         "metrics",
+        "ai-math-chat-studio",
         "mock_openai_server",
         "mihomo-smart-lightgbm",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "raineblog.github.io",
         "whk",
+        "raineblog.github.io",
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "Chemistry-Note-RAG",
         "today-anki-words",
+        "Chemistry-Note-RAG",
         "anki-ewords",
         "china-english-words",
         "pep-chinese-textbook-diff"
@@ -7395,15 +7405,15 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 227,
+      "commits": 229,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
-        "Chemistry-Note-RAG",
-        "today-anki-words"
+        "today-anki-words",
+        "Chemistry-Note-RAG"
       ]
     },
     {
