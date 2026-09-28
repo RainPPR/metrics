@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4340,
+        "totalContributions": 4324,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-09-27",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-28",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-09-27",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-28",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4356,75 +4366,6 @@
       "owner": "RainPPR"
     },
     {
-      "name": "free-proxy-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-proxy-list",
-      "homepageUrl": null,
-      "stargazerCount": 1,
-      "forkCount": 0,
-      "pushedAt": "2026-07-01T22:07:31Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "JavaScript",
-        "color": "#f1e05a"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 190105,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 22006,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 9354,
-            "node": {
-              "name": "CSS",
-              "color": "#663399"
-            }
-          },
-          {
-            "size": 4045,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 908,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 674,
-            "node": {
-              "name": "Dockerfile",
-              "color": "#384d54"
-            }
-          },
-          {
-            "size": 328,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          }
-        ],
-        "totalSize": 227420
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "dress",
       "description": "Raine 的女装照",
       "url": "https://github.com/RaineMtF/dress",
@@ -4441,40 +4382,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-09-26T16:54:18Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-26T02:25:50Z",
+      "pushedAt": "2026-09-27T02:22:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4519,6 +4433,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-09-26T16:54:18Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -4805,6 +4746,75 @@
           }
         ],
         "totalSize": 78027
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-proxy-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-proxy-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-07-01T22:07:31Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 190105,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 22006,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 9354,
+            "node": {
+              "name": "CSS",
+              "color": "#663399"
+            }
+          },
+          {
+            "size": 4045,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 908,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 674,
+            "node": {
+              "name": "Dockerfile",
+              "color": "#384d54"
+            }
+          },
+          {
+            "size": 328,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 227420
       },
       "owner": "RainPPR"
     },
@@ -6205,7 +6215,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-09-26T08:27:46Z",
+      "pushedAt": "2026-09-27T09:54:45Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6465,7 +6475,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-26T02:25:50Z",
+      "pushedAt": "2026-09-27T02:22:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7304,18 +7314,18 @@
     }
   ],
   "totalStats": {
-    "stars": 33,
-    "commits": 4237,
-    "prs": 135,
+    "stars": 32,
+    "commits": 4222,
+    "prs": 134,
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-09-27T02:21:45.468Z",
+  "updatedAt": "2026-09-28T02:25:52.313Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4237 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4222 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7361,9 +7371,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1849,
       "repos": [
+        "metrics",
         "free-models-list",
         "ai-math-chat-studio",
-        "metrics",
         "mock_openai_server",
         "mihomo-smart-lightgbm",
         "v2rayse",
@@ -7385,7 +7395,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 244,
+      "commits": 246,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
