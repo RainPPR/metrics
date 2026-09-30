@@ -2053,6 +2053,11 @@
                 "date": "2026-09-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4112,6 +4117,11 @@
                 "date": "2026-09-29",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-09-30",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4286,7 +4296,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-09-28T05:36:49Z",
+      "pushedAt": "2026-09-29T13:09:37Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4398,7 +4408,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-29T01:32:43Z",
+      "pushedAt": "2026-09-29T23:30:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4425,7 +4435,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-28T02:26:10Z",
+      "pushedAt": "2026-09-29T03:09:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6220,6 +6230,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-09-29T03:57:39Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 918,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 918
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "anki-ewords",
       "description": "生成可导入 Anki 的 csv 单词表",
       "url": "https://github.com/rainewhk/anki-ewords",
@@ -6257,33 +6294,6 @@
           }
         ],
         "totalSize": 30383
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-28T03:20:16Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 918,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 918
       },
       "owner": "rainewhk"
     },
@@ -6485,7 +6495,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-09-28T02:26:10Z",
+      "pushedAt": "2026-09-29T03:09:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7330,7 +7340,7 @@
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-09-29T03:09:15.508Z",
+  "updatedAt": "2026-09-30T02:51:32.478Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7395,8 +7405,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "anki-ewords",
         "today-anki-words",
+        "anki-ewords",
         "Chemistry-Note-RAG",
         "china-english-words",
         "pep-chinese-textbook-diff"
@@ -7405,7 +7415,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 249,
+      "commits": 251,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
