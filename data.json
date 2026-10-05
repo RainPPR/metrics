@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4339,
+        "totalContributions": 4315,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,8 +2041,13 @@
             "contributionDays": [
               {
                 "date": "2026-10-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 5,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-10-05",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -4092,6 +4097,11 @@
                 "date": "2026-10-04",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-10-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4127,7 +4137,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 23,
+      "stargazerCount": 24,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4182,7 +4192,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-09-28T02:51:30Z",
+      "pushedAt": "2026-10-05T02:48:23Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4192,7 +4202,7 @@
       "languages": {
         "edges": [
           {
-            "size": 180080,
+            "size": 166888,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4206,7 +4216,7 @@
             }
           },
           {
-            "size": 48267,
+            "size": 36742,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4220,17 +4230,17 @@
             }
           },
           {
-            "size": 13616,
-            "node": {
-              "name": "Jinja",
-              "color": "#a52a22"
-            }
-          },
-          {
             "size": 8991,
             "node": {
               "name": "PowerShell",
               "color": "#012456"
+            }
+          },
+          {
+            "size": 6240,
+            "node": {
+              "name": "Jinja",
+              "color": "#a52a22"
             }
           },
           {
@@ -4255,7 +4265,7 @@
             }
           }
         ],
-        "totalSize": 345427
+        "totalSize": 313334
       },
       "owner": "raineblog"
     },
@@ -4266,7 +4276,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-10-03T03:25:48Z",
+      "pushedAt": "2026-10-04T14:23:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4379,13 +4389,40 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-10-04T10:58:12Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-03T02:46:29Z",
+      "pushedAt": "2026-10-04T03:17:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4430,33 +4467,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-10-02T20:25:23Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6212,7 +6222,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-10-03T03:33:42Z",
+      "pushedAt": "2026-10-04T04:02:55Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6472,7 +6482,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-03T02:46:29Z",
+      "pushedAt": "2026-10-04T03:17:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6895,6 +6905,89 @@
       "owner": "RaineMtF"
     },
     {
+      "name": "whk",
+      "description": "RainPPR 的文化课博客",
+      "url": "https://github.com/raineblog/whk",
+      "homepageUrl": "https://raineblog.dpdns.org/whk/",
+      "stargazerCount": 3,
+      "pushedAt": "2026-10-05T02:48:23Z",
+      "createdAt": "2024-08-23T03:16:09Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 166888,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 64991,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 36742,
+            "node": {
+              "name": "JavaScript",
+              "color": "#f1e05a"
+            }
+          },
+          {
+            "size": 18819,
+            "node": {
+              "name": "TypeScript",
+              "color": "#3178c6"
+            }
+          },
+          {
+            "size": 8991,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
+            "size": 6240,
+            "node": {
+              "name": "Jinja",
+              "color": "#a52a22"
+            }
+          },
+          {
+            "size": 4593,
+            "node": {
+              "name": "Standard ML",
+              "color": "#dc566d"
+            }
+          },
+          {
+            "size": 4048,
+            "node": {
+              "name": "Lua",
+              "color": "#000080"
+            }
+          },
+          {
+            "size": 2022,
+            "node": {
+              "name": "Shell",
+              "color": "#89e051"
+            }
+          }
+        ],
+        "totalSize": 313334
+      },
+      "owner": "raineblog"
+    },
+    {
       "name": "raineblog.github.io",
       "description": "raineblog.github.io",
       "url": "https://github.com/raineblog/raineblog.github.io",
@@ -6925,89 +7018,6 @@
           }
         ],
         "totalSize": 14065
-      },
-      "owner": "raineblog"
-    },
-    {
-      "name": "whk",
-      "description": "RainPPR 的文化课博客",
-      "url": "https://github.com/raineblog/whk",
-      "homepageUrl": "https://raineblog.dpdns.org/whk/",
-      "stargazerCount": 3,
-      "pushedAt": "2026-09-28T02:51:30Z",
-      "createdAt": "2024-08-23T03:16:09Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 180080,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 64991,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 48267,
-            "node": {
-              "name": "JavaScript",
-              "color": "#f1e05a"
-            }
-          },
-          {
-            "size": 18819,
-            "node": {
-              "name": "TypeScript",
-              "color": "#3178c6"
-            }
-          },
-          {
-            "size": 13616,
-            "node": {
-              "name": "Jinja",
-              "color": "#a52a22"
-            }
-          },
-          {
-            "size": 8991,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
-            }
-          },
-          {
-            "size": 4593,
-            "node": {
-              "name": "Standard ML",
-              "color": "#dc566d"
-            }
-          },
-          {
-            "size": 4048,
-            "node": {
-              "name": "Lua",
-              "color": "#000080"
-            }
-          },
-          {
-            "size": 2022,
-            "node": {
-              "name": "Shell",
-              "color": "#89e051"
-            }
-          }
-        ],
-        "totalSize": 345427
       },
       "owner": "raineblog"
     },
@@ -7226,12 +7236,12 @@
     },
     {
       "name": "Python",
-      "size": 873861,
+      "size": 860669,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "size": 385760,
+      "size": 374235,
       "color": "#f1e05a"
     },
     {
@@ -7255,11 +7265,6 @@
       "color": "#3D6117"
     },
     {
-      "name": "Jinja",
-      "size": 16231,
-      "color": "#a52a22"
-    },
-    {
       "name": "Lua",
       "size": 14087,
       "color": "#000080"
@@ -7268,6 +7273,11 @@
       "name": "PowerShell",
       "size": 9399,
       "color": "#012456"
+    },
+    {
+      "name": "Jinja",
+      "size": 8855,
+      "color": "#a52a22"
     },
     {
       "name": "Shell",
@@ -7311,18 +7321,18 @@
     }
   ],
   "totalStats": {
-    "stars": 33,
-    "commits": 4231,
+    "stars": 34,
+    "commits": 4207,
     "prs": 140,
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-10-04T03:16:57.308Z",
+  "updatedAt": "2026-10-05T02:52:57.623Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4231 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4207 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7366,19 +7376,19 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1858,
+      "commits": 1863,
       "repos": [
         "ai-math-chat-studio",
-        "metrics",
         "free-models-list",
+        "metrics",
         "mock_openai_server",
         "mihomo-smart-lightgbm",
         "v2rayse",
         "proxy-dector",
         "v2ray-remote-selector",
         "memory",
-        "raineblog.github.io",
         "whk",
+        "raineblog.github.io",
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
@@ -7392,7 +7402,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 262,
+      "commits": 264,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
