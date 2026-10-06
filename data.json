@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 24,
       "calendar": {
-        "totalContributions": 4315,
+        "totalContributions": 4325,
         "weeks": [
           {
             "contributionDays": [
@@ -2046,6 +2046,11 @@
               },
               {
                 "date": "2026-10-05",
+                "contributionCount": 10,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-10-06",
                 "contributionCount": 1,
                 "color": "#9be9a8"
               }
@@ -4102,6 +4107,11 @@
                 "date": "2026-10-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-10-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4192,7 +4202,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-10-05T02:48:23Z",
+      "pushedAt": "2026-10-06T03:35:04Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4202,7 +4212,7 @@
       "languages": {
         "edges": [
           {
-            "size": 166888,
+            "size": 153851,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4216,7 +4226,7 @@
             }
           },
           {
-            "size": 36742,
+            "size": 32173,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -4227,13 +4237,6 @@
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
-            }
-          },
-          {
-            "size": 8991,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
             }
           },
           {
@@ -4258,6 +4261,13 @@
             }
           },
           {
+            "size": 2644,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
             "size": 2022,
             "node": {
               "name": "Shell",
@@ -4265,7 +4275,7 @@
             }
           }
         ],
-        "totalSize": 313334
+        "totalSize": 289381
       },
       "owner": "raineblog"
     },
@@ -4276,7 +4286,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-10-04T14:23:06Z",
+      "pushedAt": "2026-10-06T03:15:10Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4285,17 +4295,10 @@
       "languages": {
         "edges": [
           {
-            "size": 402148,
+            "size": 400859,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
-            }
-          },
-          {
-            "size": 16308,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
             }
           },
           {
@@ -4320,7 +4323,7 @@
             }
           }
         ],
-        "totalSize": 421644
+        "totalSize": 404047
       },
       "owner": "RainPPR"
     },
@@ -4395,7 +4398,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-04T10:58:12Z",
+      "pushedAt": "2026-10-05T18:02:37Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4422,7 +4425,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-04T03:17:13Z",
+      "pushedAt": "2026-10-05T02:53:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6217,12 +6220,39 @@
       "owner": "raineblog"
     },
     {
+      "name": "Chemistry-Note-RAG",
+      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
+      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
+      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
+      "stargazerCount": 0,
+      "pushedAt": "2026-10-05T08:38:36Z",
+      "createdAt": "2026-06-02T12:36:01Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9555,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "today-anki-words",
       "description": "今天的 Anki 英语单词有哪些？",
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-10-04T04:02:55Z",
+      "pushedAt": "2026-10-05T03:47:53Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6281,33 +6311,6 @@
           }
         ],
         "totalSize": 30383
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "Chemistry-Note-RAG",
-      "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
-      "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
-      "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-20T07:34:26Z",
-      "createdAt": "2026-06-02T12:36:01Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9555,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9555
       },
       "owner": "rainewhk"
     },
@@ -6482,7 +6485,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-04T03:17:13Z",
+      "pushedAt": "2026-10-05T02:53:13Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6910,7 +6913,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 3,
-      "pushedAt": "2026-10-05T02:48:23Z",
+      "pushedAt": "2026-10-06T03:35:04Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6920,7 +6923,7 @@
       "languages": {
         "edges": [
           {
-            "size": 166888,
+            "size": 153851,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -6934,7 +6937,7 @@
             }
           },
           {
-            "size": 36742,
+            "size": 32173,
             "node": {
               "name": "JavaScript",
               "color": "#f1e05a"
@@ -6945,13 +6948,6 @@
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
-            }
-          },
-          {
-            "size": 8991,
-            "node": {
-              "name": "PowerShell",
-              "color": "#012456"
             }
           },
           {
@@ -6976,6 +6972,13 @@
             }
           },
           {
+            "size": 2644,
+            "node": {
+              "name": "PowerShell",
+              "color": "#012456"
+            }
+          },
+          {
             "size": 2022,
             "node": {
               "name": "Shell",
@@ -6983,7 +6986,7 @@
             }
           }
         ],
-        "totalSize": 313334
+        "totalSize": 289381
       },
       "owner": "raineblog"
     },
@@ -7115,7 +7118,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-09-20T07:34:26Z",
+      "pushedAt": "2026-10-05T08:38:36Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7231,17 +7234,17 @@
     },
     {
       "name": "TypeScript",
-      "size": 1240732,
+      "size": 1239443,
       "color": "#3178c6"
     },
     {
       "name": "Python",
-      "size": 860669,
+      "size": 831324,
       "color": "#3572A5"
     },
     {
       "name": "JavaScript",
-      "size": 374235,
+      "size": 369666,
       "color": "#f1e05a"
     },
     {
@@ -7270,11 +7273,6 @@
       "color": "#000080"
     },
     {
-      "name": "PowerShell",
-      "size": 9399,
-      "color": "#012456"
-    },
-    {
       "name": "Jinja",
       "size": 8855,
       "color": "#a52a22"
@@ -7300,6 +7298,11 @@
       "color": "#427819"
     },
     {
+      "name": "PowerShell",
+      "size": 3052,
+      "color": "#012456"
+    },
+    {
       "name": "Typst",
       "size": 1777,
       "color": "#239dad"
@@ -7322,17 +7325,17 @@
   ],
   "totalStats": {
     "stars": 34,
-    "commits": 4207,
+    "commits": 4217,
     "prs": 140,
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-10-05T02:52:57.623Z",
+  "updatedAt": "2026-10-06T03:43:05.135Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 4207 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 4217 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Silver"
     },
@@ -7376,7 +7379,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1863,
+      "commits": 1873,
       "repos": [
         "ai-math-chat-studio",
         "free-models-list",
@@ -7392,9 +7395,9 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "Chemistry-Note-RAG",
         "today-anki-words",
         "anki-ewords",
-        "Chemistry-Note-RAG",
         "china-english-words",
         "pep-chinese-textbook-diff"
       ]
@@ -7402,15 +7405,15 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 264,
+      "commits": 267,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
-        "today-anki-words",
-        "Chemistry-Note-RAG"
+        "Chemistry-Note-RAG",
+        "today-anki-words"
       ]
     },
     {
