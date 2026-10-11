@@ -12,45 +12,6 @@
           {
             "contributionDays": [
               {
-                "date": "2025-10-05",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-10-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-08",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-10-09",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-10-10",
-                "contributionCount": 1,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-10-11",
-                "contributionCount": 3,
-                "color": "#9be9a8"
-              }
-            ]
-          },
-          {
-            "contributionDays": [
-              {
                 "date": "2025-10-12",
                 "contributionCount": 4,
                 "color": "#9be9a8"
@@ -2075,6 +2036,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-10-11",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 104,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-10-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-09",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-10",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-10-11",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-10-11",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4432,40 +4372,13 @@
       "owner": "RaineMtF"
     },
     {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-10-09T15:52:55Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
-      },
-      "owner": "RainPPR"
-    },
-    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-09T03:31:57Z",
+      "pushedAt": "2026-10-10T03:12:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4510,6 +4423,33 @@
           }
         ],
         "totalSize": 117470
+      },
+      "owner": "RainPPR"
+    },
+    {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-10-09T15:52:55Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6265,7 +6205,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-10-09T04:19:29Z",
+      "pushedAt": "2026-10-10T04:04:47Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6525,7 +6465,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-09T03:31:57Z",
+      "pushedAt": "2026-10-10T03:12:09Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7370,7 +7310,7 @@
     "issues": 3,
     "repoCount": 69
   },
-  "updatedAt": "2026-10-10T03:11:52.809Z",
+  "updatedAt": "2026-10-11T02:44:28.087Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7421,9 +7361,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1875,
       "repos": [
+        "metrics",
         "free-models-list",
         "ai-math-chat-studio",
-        "metrics",
         "mock_openai_server",
         "mihomo-smart-lightgbm",
         "v2rayse",
@@ -7445,7 +7385,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 280,
+      "commits": 281,
       "repos": [
         "free-models-list",
         "mihomo-smart-lightgbm",
