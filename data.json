@@ -7,7 +7,7 @@
       "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 25,
       "calendar": {
-        "totalContributions": 5749,
+        "totalContributions": 5722,
         "weeks": [
           {
             "contributionDays": [
@@ -1929,7 +1929,7 @@
               },
               {
                 "date": "2026-09-28",
-                "contributionCount": 5,
+                "contributionCount": 6,
                 "color": "#9be9a8"
               },
               {
@@ -2041,6 +2041,11 @@
             "contributionDays": [
               {
                 "date": "2026-10-18",
+                "contributionCount": 6,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-10-19",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4092,6 +4097,11 @@
                 "date": "2026-10-18",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-10-19",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4266,7 +4276,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-10-17T14:40:12Z",
+      "pushedAt": "2026-10-18T10:05:04Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4275,14 +4285,14 @@
       "languages": {
         "edges": [
           {
-            "size": 401450,
+            "size": 413669,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
             }
           },
           {
-            "size": 2477,
+            "size": 1021,
             "node": {
               "name": "CSS",
               "color": "#663399"
@@ -4303,7 +4313,7 @@
             }
           }
         ],
-        "totalSize": 404638
+        "totalSize": 415401
       },
       "owner": "RainPPR"
     },
@@ -4378,7 +4388,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-17T23:49:38Z",
+      "pushedAt": "2026-10-19T00:53:36Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4405,7 +4415,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-17T01:59:54Z",
+      "pushedAt": "2026-10-18T01:59:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6216,12 +6226,53 @@
       "owner": "raineblog"
     },
     {
+      "name": "anki-ewords",
+      "description": "生成可导入 Anki 的 csv 单词表",
+      "url": "https://github.com/rainewhk/anki-ewords",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-10-18T11:58:33Z",
+      "createdAt": "2026-02-17T13:39:40Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 29043,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          },
+          {
+            "size": 1316,
+            "node": {
+              "name": "HTML",
+              "color": "#e34c26"
+            }
+          },
+          {
+            "size": 24,
+            "node": {
+              "name": "Makefile",
+              "color": "#427819"
+            }
+          }
+        ],
+        "totalSize": 30383
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "today-anki-words",
       "description": "今天的 Anki 英语单词有哪些？",
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-10-17T02:46:38Z",
+      "pushedAt": "2026-10-18T02:47:59Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6266,47 +6317,6 @@
           }
         ],
         "totalSize": 9555
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "anki-ewords",
-      "description": "生成可导入 Anki 的 csv 单词表",
-      "url": "https://github.com/rainewhk/anki-ewords",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-09-28T12:11:38Z",
-      "createdAt": "2026-02-17T13:39:40Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 29043,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          },
-          {
-            "size": 1316,
-            "node": {
-              "name": "HTML",
-              "color": "#e34c26"
-            }
-          },
-          {
-            "size": 24,
-            "node": {
-              "name": "Makefile",
-              "color": "#427819"
-            }
-          }
-        ],
-        "totalSize": 30383
       },
       "owner": "rainewhk"
     },
@@ -6481,7 +6491,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-10-17T01:59:54Z",
+      "pushedAt": "2026-10-18T01:59:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7230,7 +7240,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1240034,
+      "size": 1252253,
       "color": "#3178c6"
     },
     {
@@ -7250,7 +7260,7 @@
     },
     {
       "name": "CSS",
-      "size": 47867,
+      "size": 46411,
       "color": "#663399"
     },
     {
@@ -7321,17 +7331,17 @@
   ],
   "totalStats": {
     "stars": 37,
-    "commits": 5677,
+    "commits": 5650,
     "prs": 141,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-10-18T01:58:58.971Z",
+  "updatedAt": "2026-10-19T02:16:01.495Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5677 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5650 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7375,7 +7385,7 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1422,
+      "commits": 1428,
       "repos": [
         "free-models-list",
         "ai-math-chat-studio",
@@ -7391,9 +7401,9 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
+        "anki-ewords",
         "today-anki-words",
         "Chemistry-Note-RAG",
-        "anki-ewords",
         "china-english-words",
         "pep-chinese-textbook-diff"
       ]
@@ -7401,7 +7411,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 302,
+      "commits": 307,
       "repos": [
         "free-models-list",
         "v2rayse",
