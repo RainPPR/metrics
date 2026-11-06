@@ -4,7 +4,7 @@
       "login": "RainPPR",
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
-      "bio": "Rain Pang aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
+      "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 28,
       "calendar": {
         "totalContributions": 5728,
@@ -2061,6 +2061,11 @@
               },
               {
                 "date": "2026-11-05",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-06",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4132,6 +4137,11 @@
                 "date": "2026-11-05",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-06",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4167,7 +4177,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 29,
+      "stargazerCount": 30,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4445,7 +4455,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-04T22:31:18Z",
+      "pushedAt": "2026-11-06T00:52:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4472,7 +4482,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-04T03:47:11Z",
+      "pushedAt": "2026-11-05T04:05:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6288,7 +6298,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-04T04:38:47Z",
+      "pushedAt": "2026-11-05T04:53:08Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6521,7 +6531,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-04T03:47:11Z",
+      "pushedAt": "2026-11-05T04:05:27Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7360,13 +7370,13 @@
     }
   ],
   "totalStats": {
-    "stars": 42,
+    "stars": 43,
     "commits": 5654,
     "prs": 143,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-05T04:05:10.291Z",
+  "updatedAt": "2026-11-06T04:01:42.566Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7418,8 +7428,8 @@
       "commits": 1454,
       "repos": [
         "free-models-list",
-        "ai-math-chat-studio",
         "metrics",
+        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7441,7 +7451,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 353,
+      "commits": 356,
       "repos": [
         "free-models-list",
         "v2rayse",
