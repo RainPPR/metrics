@@ -7,47 +7,8 @@
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 28,
       "calendar": {
-        "totalContributions": 5728,
+        "totalContributions": 5729,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-11-02",
-                "contributionCount": 7,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-11-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-04",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-11-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-07",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-11-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,6 +2032,15 @@
               },
               {
                 "date": "2026-11-07",
+                "contributionCount": 1,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-11-08",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 142,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-11-02",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-03",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-04",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-05",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-06",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-07",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-08",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-11-08",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4187,7 +4127,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 30,
+      "stargazerCount": 31,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4326,7 +4266,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-11-04T09:17:28Z",
+      "pushedAt": "2026-11-07T14:28:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4342,7 +4282,7 @@
             }
           },
           {
-            "size": 1012,
+            "size": 901,
             "node": {
               "name": "CSS",
               "color": "#663399"
@@ -4363,7 +4303,7 @@
             }
           }
         ],
-        "totalSize": 411671
+        "totalSize": 411560
       },
       "owner": "RainPPR"
     },
@@ -4465,7 +4405,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-07T01:41:28Z",
+      "pushedAt": "2026-11-07T08:28:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4492,7 +4432,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-06T04:01:58Z",
+      "pushedAt": "2026-11-07T03:38:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6308,7 +6248,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-06T04:52:27Z",
+      "pushedAt": "2026-11-07T04:24:11Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6541,7 +6481,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-06T04:01:58Z",
+      "pushedAt": "2026-11-07T03:38:35Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7310,7 +7250,7 @@
     },
     {
       "name": "CSS",
-      "size": 46402,
+      "size": 46291,
       "color": "#663399"
     },
     {
@@ -7380,18 +7320,18 @@
     }
   ],
   "totalStats": {
-    "stars": 43,
-    "commits": 5654,
+    "stars": 44,
+    "commits": 5655,
     "prs": 143,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-07T03:38:19.146Z",
+  "updatedAt": "2026-11-08T03:10:17.213Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5654 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5655 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7435,11 +7375,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1454,
+      "commits": 1455,
       "repos": [
+        "ai-math-chat-studio",
         "free-models-list",
         "metrics",
-        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7461,7 +7401,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 360,
+      "commits": 362,
       "repos": [
         "free-models-list",
         "v2rayse",
