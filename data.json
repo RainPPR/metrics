@@ -5,9 +5,9 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
-      "followers": 28,
+      "followers": 29,
       "calendar": {
-        "totalContributions": 5719,
+        "totalContributions": 5701,
         "weeks": [
           {
             "contributionDays": [
@@ -2043,6 +2043,16 @@
                 "date": "2026-11-15",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-16",
+                "contributionCount": 2,
+                "color": "#9be9a8"
+              },
+              {
+                "date": "2026-11-17",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -2056,7 +2066,7 @@
       "bio": "",
       "followers": 3,
       "calendar": {
-        "totalContributions": 142,
+        "totalContributions": 133,
         "weeks": [
           {
             "contributionDays": [
@@ -2141,7 +2151,7 @@
               {
                 "date": "2025-11-30",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2025-12-01",
@@ -2234,7 +2244,7 @@
               {
                 "date": "2025-12-17",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2025-12-18",
@@ -2249,7 +2259,7 @@
               {
                 "date": "2025-12-20",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -2258,7 +2268,7 @@
               {
                 "date": "2025-12-21",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2025-12-22",
@@ -2322,12 +2332,12 @@
               {
                 "date": "2026-01-02",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-01-03",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -2351,7 +2361,7 @@
               {
                 "date": "2026-01-07",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-01-08",
@@ -2507,12 +2517,12 @@
               {
                 "date": "2026-02-04",
                 "contributionCount": 4,
-                "color": "#9be9a8"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-02-05",
                 "contributionCount": 2,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-02-06",
@@ -2541,7 +2551,7 @@
               {
                 "date": "2026-02-10",
                 "contributionCount": 4,
-                "color": "#9be9a8"
+                "color": "#30a14e"
               },
               {
                 "date": "2026-02-11",
@@ -2575,7 +2585,7 @@
               {
                 "date": "2026-02-16",
                 "contributionCount": 6,
-                "color": "#40c463"
+                "color": "#216e39"
               },
               {
                 "date": "2026-02-17",
@@ -2678,7 +2688,7 @@
               {
                 "date": "2026-03-07",
                 "contributionCount": 4,
-                "color": "#9be9a8"
+                "color": "#30a14e"
               }
             ]
           },
@@ -2795,7 +2805,7 @@
               {
                 "date": "2026-03-28",
                 "contributionCount": 5,
-                "color": "#40c463"
+                "color": "#216e39"
               }
             ]
           },
@@ -3116,7 +3126,7 @@
               {
                 "date": "2026-05-24",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-05-25",
@@ -3126,7 +3136,7 @@
               {
                 "date": "2026-05-26",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-05-27",
@@ -3224,7 +3234,7 @@
               {
                 "date": "2026-06-13",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -3253,17 +3263,17 @@
               {
                 "date": "2026-06-18",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               },
               {
                 "date": "2026-06-19",
                 "contributionCount": 6,
-                "color": "#40c463"
+                "color": "#216e39"
               },
               {
                 "date": "2026-06-20",
                 "contributionCount": 3,
-                "color": "#9be9a8"
+                "color": "#40c463"
               }
             ]
           },
@@ -4092,6 +4102,16 @@
                 "date": "2026-11-15",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-16",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-17",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4181,8 +4201,8 @@
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
-      "stargazerCount": 4,
-      "pushedAt": "2026-11-09T03:54:35Z",
+      "stargazerCount": 5,
+      "pushedAt": "2026-11-17T05:29:31Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4266,7 +4286,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-11-13T07:21:42Z",
+      "pushedAt": "2026-11-16T13:43:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4275,7 +4295,7 @@
       "languages": {
         "edges": [
           {
-            "size": 410054,
+            "size": 410112,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4303,7 +4323,7 @@
             }
           }
         ],
-        "totalSize": 411666
+        "totalSize": 411724
       },
       "owner": "RainPPR"
     },
@@ -4399,13 +4419,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "free-models-list",
+      "description": null,
+      "url": "https://github.com/RainPPR/free-models-list",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "forkCount": 0,
+      "pushedAt": "2026-11-16T15:06:33Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9595,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9595
+      },
+      "owner": "RainPPR"
+    },
+    {
       "name": "metrics",
       "description": "GitHub Repository Showcase",
       "url": "https://github.com/RainPPR/metrics",
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-14T03:56:40Z",
+      "pushedAt": "2026-11-15T03:40:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4450,33 +4497,6 @@
           }
         ],
         "totalSize": 117470
-      },
-      "owner": "RainPPR"
-    },
-    {
-      "name": "free-models-list",
-      "description": null,
-      "url": "https://github.com/RainPPR/free-models-list",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "forkCount": 0,
-      "pushedAt": "2026-11-14T00:45:07Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9595,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9595
       },
       "owner": "RainPPR"
     },
@@ -6248,7 +6268,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-14T04:43:22Z",
+      "pushedAt": "2026-11-16T04:31:13Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6481,7 +6501,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-14T03:56:40Z",
+      "pushedAt": "2026-11-15T03:40:40Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6908,8 +6928,8 @@
       "description": "RainPPR 的文化课博客",
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
-      "stargazerCount": 4,
-      "pushedAt": "2026-11-09T03:54:35Z",
+      "stargazerCount": 5,
+      "pushedAt": "2026-11-17T05:29:31Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7230,7 +7250,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1248638,
+      "size": 1248696,
       "color": "#3178c6"
     },
     {
@@ -7320,18 +7340,18 @@
     }
   ],
   "totalStats": {
-    "stars": 45,
-    "commits": 5645,
-    "prs": 143,
+    "stars": 46,
+    "commits": 5623,
+    "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-15T03:40:25.415Z",
+  "updatedAt": "2026-11-17T05:36:48.965Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5645 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5623 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7359,7 +7379,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 31 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 32 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -7375,11 +7395,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1456,
+      "commits": 1458,
       "repos": [
-        "metrics",
         "free-models-list",
         "ai-math-chat-studio",
+        "metrics",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7401,7 +7421,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 383,
+      "commits": 386,
       "repos": [
         "free-models-list",
         "v2rayse",
