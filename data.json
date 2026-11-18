@@ -7,7 +7,7 @@
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 29,
       "calendar": {
-        "totalContributions": 5701,
+        "totalContributions": 5702,
         "weeks": [
           {
             "contributionDays": [
@@ -2053,6 +2053,11 @@
                 "date": "2026-11-17",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-18",
+                "contributionCount": 1,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -4112,6 +4117,11 @@
                 "date": "2026-11-17",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-18",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4202,7 +4212,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-17T05:29:31Z",
+      "pushedAt": "2026-11-18T04:55:39Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4419,13 +4429,40 @@
       "owner": "rainewhk"
     },
     {
+      "name": "english-readings",
+      "description": "高中英语阅读篇目生成",
+      "url": "https://github.com/rainewhk/english-readings",
+      "homepageUrl": null,
+      "stargazerCount": 1,
+      "pushedAt": "2026-01-10T09:22:54Z",
+      "createdAt": "2025-12-31T13:03:00Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 9835,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 9835
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "free-models-list",
       "description": null,
       "url": "https://github.com/RainPPR/free-models-list",
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-16T15:06:33Z",
+      "pushedAt": "2026-11-18T01:30:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4452,7 +4489,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-15T03:40:40Z",
+      "pushedAt": "2026-11-17T05:37:05Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6263,39 +6300,12 @@
       "owner": "raineblog"
     },
     {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-11-16T04:31:13Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 918,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 918
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-11-10T09:26:33Z",
+      "pushedAt": "2026-11-17T10:22:13Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6313,6 +6323,33 @@
           }
         ],
         "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-11-17T06:16:57Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 918,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 918
       },
       "owner": "rainewhk"
     },
@@ -6439,33 +6476,6 @@
       "owner": "rainewhk"
     },
     {
-      "name": "english-readings",
-      "description": "高中英语阅读篇目生成",
-      "url": "https://github.com/rainewhk/english-readings",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-01-10T09:22:54Z",
-      "createdAt": "2025-12-31T13:03:00Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 9835,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 9835
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "smartedu-download",
       "description": "国家中小学智慧教育平台下载存档",
       "url": "https://github.com/rainewhk/smartedu-download",
@@ -6501,7 +6511,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-15T03:40:40Z",
+      "pushedAt": "2026-11-17T05:37:05Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6929,7 +6939,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-17T05:29:31Z",
+      "pushedAt": "2026-11-18T04:55:39Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7134,7 +7144,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-11-10T09:26:33Z",
+      "pushedAt": "2026-11-17T10:22:13Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7340,18 +7350,18 @@
     }
   ],
   "totalStats": {
-    "stars": 46,
-    "commits": 5623,
+    "stars": 47,
+    "commits": 5624,
     "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-17T05:36:48.965Z",
+  "updatedAt": "2026-11-18T05:00:11.712Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5623 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5624 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7395,11 +7405,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1458,
+      "commits": 1459,
       "repos": [
         "free-models-list",
-        "ai-math-chat-studio",
         "metrics",
+        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7411,8 +7421,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "today-anki-words",
         "Chemistry-Note-RAG",
+        "today-anki-words",
         "anki-ewords",
         "china-english-words",
         "pep-chinese-textbook-diff"
@@ -7421,14 +7431,14 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 386,
+      "commits": 390,
       "repos": [
         "free-models-list",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
-        "today-anki-words",
-        "Chemistry-Note-RAG"
+        "Chemistry-Note-RAG",
+        "today-anki-words"
       ]
     },
     {
