@@ -5,49 +5,10 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
-      "followers": 29,
+      "followers": 30,
       "calendar": {
-        "totalContributions": 5716,
+        "totalContributions": 5723,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-11-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-17",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-18",
-                "contributionCount": 4,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-11-19",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-20",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-21",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              },
-              {
-                "date": "2025-11-22",
-                "contributionCount": 2,
-                "color": "#9be9a8"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -2071,8 +2032,17 @@
               },
               {
                 "date": "2026-11-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
+                "contributionCount": 4,
+                "color": "#9be9a8"
+              }
+            ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-11-22",
+                "contributionCount": 3,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -2088,45 +2058,6 @@
       "calendar": {
         "totalContributions": 133,
         "weeks": [
-          {
-            "contributionDays": [
-              {
-                "date": "2025-11-16",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-17",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-18",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-19",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-20",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-21",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              },
-              {
-                "date": "2025-11-22",
-                "contributionCount": 0,
-                "color": "#ebedf0"
-              }
-            ]
-          },
           {
             "contributionDays": [
               {
@@ -4154,6 +4085,15 @@
                 "color": "#ebedf0"
               }
             ]
+          },
+          {
+            "contributionDays": [
+              {
+                "date": "2026-11-22",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              }
+            ]
           }
         ]
       }
@@ -4242,7 +4182,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-21T04:33:29Z",
+      "pushedAt": "2026-11-22T03:47:56Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4326,7 +4266,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-11-16T13:43:17Z",
+      "pushedAt": "2026-11-21T14:41:58Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4492,7 +4432,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-20T23:45:13Z",
+      "pushedAt": "2026-11-21T15:08:45Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4519,7 +4459,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-20T04:45:52Z",
+      "pushedAt": "2026-11-21T04:41:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6335,7 +6275,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-20T05:30:29Z",
+      "pushedAt": "2026-11-21T05:24:37Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6541,7 +6481,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-20T04:45:52Z",
+      "pushedAt": "2026-11-21T04:41:15Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6969,7 +6909,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-21T04:33:29Z",
+      "pushedAt": "2026-11-22T03:47:56Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7381,17 +7321,17 @@
   ],
   "totalStats": {
     "stars": 49,
-    "commits": 5638,
+    "commits": 5645,
     "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-21T04:40:58.207Z",
+  "updatedAt": "2026-11-22T03:55:15.082Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5638 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5645 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7419,7 +7359,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 32 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 33 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -7435,11 +7375,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1473,
+      "commits": 1480,
       "repos": [
         "free-models-list",
-        "metrics",
         "ai-math-chat-studio",
+        "metrics",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7461,7 +7401,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 401,
+      "commits": 404,
       "repos": [
         "free-models-list",
         "v2rayse",
