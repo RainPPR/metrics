@@ -7,7 +7,7 @@
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 30,
       "calendar": {
-        "totalContributions": 5723,
+        "totalContributions": 5721,
         "weeks": [
           {
             "contributionDays": [
@@ -2041,8 +2041,13 @@
             "contributionDays": [
               {
                 "date": "2026-11-22",
-                "contributionCount": 3,
+                "contributionCount": 9,
                 "color": "#9be9a8"
+              },
+              {
+                "date": "2026-11-23",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4092,6 +4097,11 @@
                 "date": "2026-11-22",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-23",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4154,7 +4164,7 @@
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 7,
+      "stargazerCount": 6,
       "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
@@ -4182,7 +4192,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-22T03:47:56Z",
+      "pushedAt": "2026-11-23T04:25:40Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4192,7 +4202,7 @@
       "languages": {
         "edges": [
           {
-            "size": 158038,
+            "size": 161422,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -4220,7 +4230,7 @@
             }
           },
           {
-            "size": 6351,
+            "size": 6704,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -4255,7 +4265,7 @@
             }
           }
         ],
-        "totalSize": 293679
+        "totalSize": 297416
       },
       "owner": "raineblog"
     },
@@ -4432,7 +4442,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-21T15:08:45Z",
+      "pushedAt": "2026-11-22T17:39:17Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4459,7 +4469,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-21T04:41:15Z",
+      "pushedAt": "2026-11-22T03:55:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6275,7 +6285,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-21T05:24:37Z",
+      "pushedAt": "2026-11-22T04:49:48Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6481,7 +6491,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-21T04:41:15Z",
+      "pushedAt": "2026-11-22T03:55:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6909,7 +6919,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-22T03:47:56Z",
+      "pushedAt": "2026-11-23T04:25:40Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6919,7 +6929,7 @@
       "languages": {
         "edges": [
           {
-            "size": 158038,
+            "size": 161422,
             "node": {
               "name": "Python",
               "color": "#3572A5"
@@ -6947,7 +6957,7 @@
             }
           },
           {
-            "size": 6351,
+            "size": 6704,
             "node": {
               "name": "Jinja",
               "color": "#a52a22"
@@ -6982,7 +6992,7 @@
             }
           }
         ],
-        "totalSize": 293679
+        "totalSize": 297416
       },
       "owner": "raineblog"
     },
@@ -7194,7 +7204,7 @@
       "description": "高考语文",
       "url": "https://github.com/rainewhk/gaokao-chinese",
       "homepageUrl": "http://rainppr.dpdns.org/gaokao-chinese/",
-      "stargazerCount": 7,
+      "stargazerCount": 6,
       "pushedAt": "2026-02-22T23:52:21Z",
       "createdAt": "2026-02-15T11:43:33Z",
       "isPrivate": false,
@@ -7235,7 +7245,7 @@
     },
     {
       "name": "Python",
-      "size": 835511,
+      "size": 838895,
       "color": "#3572A5"
     },
     {
@@ -7270,7 +7280,7 @@
     },
     {
       "name": "Jinja",
-      "size": 8966,
+      "size": 9319,
       "color": "#a52a22"
     },
     {
@@ -7320,18 +7330,18 @@
     }
   ],
   "totalStats": {
-    "stars": 49,
-    "commits": 5645,
+    "stars": 48,
+    "commits": 5643,
     "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-22T03:55:15.082Z",
+  "updatedAt": "2026-11-23T04:35:49.446Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5645 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5643 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7375,11 +7385,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1480,
+      "commits": 1486,
       "repos": [
         "free-models-list",
-        "ai-math-chat-studio",
         "metrics",
+        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7401,7 +7411,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 404,
+      "commits": 407,
       "repos": [
         "free-models-list",
         "v2rayse",
