@@ -5,7 +5,7 @@
       "name": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?u=0db925e798f691a500d8b355f70e5a7dedcf0aaa&v=4",
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
-      "followers": 30,
+      "followers": 29,
       "calendar": {
         "totalContributions": 5721,
         "weeks": [
@@ -2046,6 +2046,11 @@
               },
               {
                 "date": "2026-11-23",
+                "contributionCount": 0,
+                "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-24",
                 "contributionCount": 0,
                 "color": "#ebedf0"
               }
@@ -4102,6 +4107,11 @@
                 "date": "2026-11-23",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-24",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4137,7 +4147,7 @@
       "description": "高考试题 datasets 汇总",
       "url": "https://github.com/rainewhk/gaokao",
       "homepageUrl": null,
-      "stargazerCount": 32,
+      "stargazerCount": 33,
       "pushedAt": "2026-04-04T12:43:13Z",
       "createdAt": "2026-04-04T09:54:58Z",
       "isPrivate": false,
@@ -4192,7 +4202,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-23T04:25:40Z",
+      "pushedAt": "2026-11-23T05:00:13Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -4442,7 +4452,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-22T17:39:17Z",
+      "pushedAt": "2026-11-24T04:39:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4469,7 +4479,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-22T03:55:34Z",
+      "pushedAt": "2026-11-23T04:36:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6285,7 +6295,7 @@
       "url": "https://github.com/rainewhk/today-anki-words",
       "homepageUrl": null,
       "stargazerCount": 0,
-      "pushedAt": "2026-11-22T04:49:48Z",
+      "pushedAt": "2026-11-23T05:29:19Z",
       "createdAt": "2026-08-30T04:15:48Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6491,7 +6501,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-22T03:55:34Z",
+      "pushedAt": "2026-11-23T04:36:06Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6919,7 +6929,7 @@
       "url": "https://github.com/raineblog/whk",
       "homepageUrl": "https://raineblog.dpdns.org/whk/",
       "stargazerCount": 5,
-      "pushedAt": "2026-11-23T04:25:40Z",
+      "pushedAt": "2026-11-23T05:00:13Z",
       "createdAt": "2024-08-23T03:16:09Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7330,13 +7340,13 @@
     }
   ],
   "totalStats": {
-    "stars": 48,
+    "stars": 49,
     "commits": 5643,
     "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-23T04:35:49.446Z",
+  "updatedAt": "2026-11-24T07:29:00.661Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7369,7 +7379,7 @@
     {
       "id": "impact-center",
       "title": "Recognition Breadth",
-      "description": "Directly followed by 33 developers. Reflects consistent social-technical engagement.",
+      "description": "Directly followed by 32 developers. Reflects consistent social-technical engagement.",
       "icon": "Users",
       "level": "Bronze"
     },
@@ -7411,7 +7421,7 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 407,
+      "commits": 411,
       "repos": [
         "free-models-list",
         "v2rayse",
