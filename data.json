@@ -7,7 +7,7 @@
       "bio": "Kyoko aka RainPPR | 2027 Gaokao\r\n\r\n文化课笔记：https://raineblog.dpdns.org/whk/",
       "followers": 29,
       "calendar": {
-        "totalContributions": 5722,
+        "totalContributions": 5724,
         "weeks": [
           {
             "contributionDays": [
@@ -2063,6 +2063,11 @@
                 "date": "2026-11-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-27",
+                "contributionCount": 2,
+                "color": "#9be9a8"
               }
             ]
           }
@@ -4132,6 +4137,11 @@
                 "date": "2026-11-26",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-27",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4306,7 +4316,7 @@
       "homepageUrl": null,
       "stargazerCount": 1,
       "forkCount": 0,
-      "pushedAt": "2026-11-21T14:41:58Z",
+      "pushedAt": "2026-11-27T02:32:23Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "TypeScript",
@@ -4315,7 +4325,7 @@
       "languages": {
         "edges": [
           {
-            "size": 410112,
+            "size": 415936,
             "node": {
               "name": "TypeScript",
               "color": "#3178c6"
@@ -4343,7 +4353,7 @@
             }
           }
         ],
-        "totalSize": 411724
+        "totalSize": 417548
       },
       "owner": "RainPPR"
     },
@@ -4472,7 +4482,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-26T02:40:54Z",
+      "pushedAt": "2026-11-26T11:59:02Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4499,7 +4509,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-25T05:58:16Z",
+      "pushedAt": "2026-11-26T05:51:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6310,6 +6320,33 @@
       "owner": "raineblog"
     },
     {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-11-26T06:36:39Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 918,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 918
+      },
+      "owner": "rainewhk"
+    },
+    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
@@ -6333,33 +6370,6 @@
           }
         ],
         "totalSize": 9555
-      },
-      "owner": "rainewhk"
-    },
-    {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-11-25T06:45:29Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 918,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 918
       },
       "owner": "rainewhk"
     },
@@ -6521,7 +6531,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-25T05:58:16Z",
+      "pushedAt": "2026-11-26T05:51:14Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7270,7 +7280,7 @@
     },
     {
       "name": "TypeScript",
-      "size": 1248696,
+      "size": 1254520,
       "color": "#3178c6"
     },
     {
@@ -7361,17 +7371,17 @@
   ],
   "totalStats": {
     "stars": 49,
-    "commits": 5644,
+    "commits": 5646,
     "prs": 139,
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-26T05:50:55.966Z",
+  "updatedAt": "2026-11-27T05:44:34.811Z",
   "achievements": [
     {
       "id": "commit-machine",
       "title": "Production Cycle",
-      "description": "Logged 5644 technical commits. Demonstrates consistent development and maintenance cycles.",
+      "description": "Logged 5646 technical commits. Demonstrates consistent development and maintenance cycles.",
       "icon": "Cpu",
       "level": "Gold"
     },
@@ -7415,11 +7425,11 @@
     {
       "login": "RainPPR",
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
-      "commits": 1487,
+      "commits": 1489,
       "repos": [
+        "ai-math-chat-studio",
         "free-models-list",
         "metrics",
-        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7431,8 +7441,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "Chemistry-Note-RAG",
         "today-anki-words",
+        "Chemistry-Note-RAG",
         "anki-ewords",
         "china-english-words",
         "pep-chinese-textbook-diff"
@@ -7441,14 +7451,14 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 419,
+      "commits": 421,
       "repos": [
         "free-models-list",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
-        "Chemistry-Note-RAG",
-        "today-anki-words"
+        "today-anki-words",
+        "Chemistry-Note-RAG"
       ]
     },
     {
