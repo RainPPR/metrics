@@ -2068,6 +2068,11 @@
                 "date": "2026-11-27",
                 "contributionCount": 2,
                 "color": "#9be9a8"
+              },
+              {
+                "date": "2026-11-28",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4142,6 +4147,11 @@
                 "date": "2026-11-27",
                 "contributionCount": 0,
                 "color": "#ebedf0"
+              },
+              {
+                "date": "2026-11-28",
+                "contributionCount": 0,
+                "color": "#ebedf0"
               }
             ]
           }
@@ -4482,7 +4492,7 @@
       "homepageUrl": null,
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-26T11:59:02Z",
+      "pushedAt": "2026-11-27T13:41:34Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -4509,7 +4519,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-26T05:51:14Z",
+      "pushedAt": "2026-11-27T05:44:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -6320,39 +6330,12 @@
       "owner": "raineblog"
     },
     {
-      "name": "today-anki-words",
-      "description": "今天的 Anki 英语单词有哪些？",
-      "url": "https://github.com/rainewhk/today-anki-words",
-      "homepageUrl": null,
-      "stargazerCount": 0,
-      "pushedAt": "2026-11-26T06:36:39Z",
-      "createdAt": "2026-08-30T04:15:48Z",
-      "isPrivate": false,
-      "primaryLanguage": {
-        "name": "Python",
-        "color": "#3572A5"
-      },
-      "languages": {
-        "edges": [
-          {
-            "size": 918,
-            "node": {
-              "name": "Python",
-              "color": "#3572A5"
-            }
-          }
-        ],
-        "totalSize": 918
-      },
-      "owner": "rainewhk"
-    },
-    {
       "name": "Chemistry-Note-RAG",
       "description": "自动同步 Anyayay's Chemistry Note 并生成三级聚合的 Markdown 和图片资源，用于 RAG（Retrieval-Augmented Generation）应用。",
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-11-25T10:59:00Z",
+      "pushedAt": "2026-11-27T10:38:58Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -6370,6 +6353,33 @@
           }
         ],
         "totalSize": 9555
+      },
+      "owner": "rainewhk"
+    },
+    {
+      "name": "today-anki-words",
+      "description": "今天的 Anki 英语单词有哪些？",
+      "url": "https://github.com/rainewhk/today-anki-words",
+      "homepageUrl": null,
+      "stargazerCount": 0,
+      "pushedAt": "2026-11-27T06:27:27Z",
+      "createdAt": "2026-08-30T04:15:48Z",
+      "isPrivate": false,
+      "primaryLanguage": {
+        "name": "Python",
+        "color": "#3572A5"
+      },
+      "languages": {
+        "edges": [
+          {
+            "size": 918,
+            "node": {
+              "name": "Python",
+              "color": "#3572A5"
+            }
+          }
+        ],
+        "totalSize": 918
       },
       "owner": "rainewhk"
     },
@@ -6531,7 +6541,7 @@
       "homepageUrl": "http://rainppr.dpdns.org/metrics/",
       "stargazerCount": 0,
       "forkCount": 0,
-      "pushedAt": "2026-11-26T05:51:14Z",
+      "pushedAt": "2026-11-27T05:44:51Z",
       "isPrivate": false,
       "primaryLanguage": {
         "name": "Python",
@@ -7164,7 +7174,7 @@
       "url": "https://github.com/rainewhk/Chemistry-Note-RAG",
       "homepageUrl": "https://github.com/AnyayayPlus/Chemistry-Note",
       "stargazerCount": 0,
-      "pushedAt": "2026-11-25T10:59:00Z",
+      "pushedAt": "2026-11-27T10:38:58Z",
       "createdAt": "2026-06-02T12:36:01Z",
       "isPrivate": false,
       "primaryLanguage": {
@@ -7376,7 +7386,7 @@
     "issues": 3,
     "repoCount": 70
   },
-  "updatedAt": "2026-11-27T05:44:34.811Z",
+  "updatedAt": "2026-11-28T05:24:25.186Z",
   "achievements": [
     {
       "id": "commit-machine",
@@ -7427,9 +7437,9 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/41764766?v=4",
       "commits": 1489,
       "repos": [
-        "ai-math-chat-studio",
         "free-models-list",
         "metrics",
+        "ai-math-chat-studio",
         "Research-on-Artificial-Intelligence-and-Traditional-Chinese-Culture",
         "mock_openai_server",
         "v2rayse",
@@ -7441,8 +7451,8 @@
         "mkdocs-docker",
         "mkdocs-katex-ssr",
         "mkdocs-fontkit",
-        "today-anki-words",
         "Chemistry-Note-RAG",
+        "today-anki-words",
         "anki-ewords",
         "china-english-words",
         "pep-chinese-textbook-diff"
@@ -7451,14 +7461,14 @@
     {
       "login": "github-actions[bot]",
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "commits": 421,
+      "commits": 424,
       "repos": [
         "free-models-list",
         "v2rayse",
         "v2ray-remote-selector",
         "memory",
-        "today-anki-words",
-        "Chemistry-Note-RAG"
+        "Chemistry-Note-RAG",
+        "today-anki-words"
       ]
     },
     {
